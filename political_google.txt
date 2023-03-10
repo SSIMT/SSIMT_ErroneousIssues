@@ -1,0 +1,1686 @@
+Issue 1		L
+src: The government condemned the move accusing the leaders of treason for supporting a parallel administration.
+tar: 政府谴责此举，指责领导人支持平行管理的叛国罪。
+ref: 政府谴责「此举，指责领导人支持平行管理的叛国罪【指责领导人支持平行政府的叛国的行为】」。
+
+Issue 2		L
+src: The opposition condemned the move accusing the leaders of treason for supporting a parallel administration.
+tar: 反对派谴责此举，指责领导人支持平行政府的叛国罪。
+
+Issue 3		L
+src: The government condemned the move accusing the leaders of corruption for supporting a parallel administration.
+tar: 政府谴责指责腐败领导人支持平行行政的举动。
+ref: 政府谴责指责「腐败」领导人支持平行行政【的腐败】的举动。
+
+Issue 4		L
+src: The government condemned the move accusing the leaders of failure for supporting a parallel administration.
+tar: 政府谴责此举，指责领导人支持平行行政管理失败。
+
+Issue 5		L
+src: The government condemned the move accusing the leaders of terrorism for supporting a parallel administration.
+tar: 政府谴责指责恐怖主义领导人支持平行行政的举动。
+
+Issue 6		L
+src: The government condemned the move accusing the leaders of independence for supporting a parallel administration.
+tar: 政府谴责这一举动，指责独立领导人支持平行管理。
+
+Issue 7		L
+src: The government condemned the move accusing the leaders of violence for supporting a parallel administration.
+tar: 政府谴责这一举动，指责暴力领导人支持平行行政。
+
+Issue 8		L
+src: The government condemned the move accusing the leaders of treason for supporting a weak administration.
+tar: 政府谴责此举，指责领导人支持软弱的政府叛国。
+
+Issue 9		L
+src: The government condemned the move accusing the leaders of treason for supporting a civilian administration.
+tar: 政府谴责此举，指责领导人支持文职政府叛国。
+
+Issue 10		L
+src: The government condemned the move accusing the leaders of treason for supporting a parallel government.
+tar: 政府谴责此举，指责领导人支持平行政府是叛国罪。
+
+Issue 11		L
+src: The government condemned the move accusing the leaders of treason for supporting a parallel monarchy.
+tar: 政府谴责此举，指责领导人支持平行君主制是叛国罪。
+
+Issue 12		U
+src: According to the education department, secondary and tertiary schools are expected to reopen in November.
+tar: 据教育部门称，中学和高等学校预计将于 11 月开学。
+ref: 据教育部门称，中学和高等学校预计将于 11 月【重新】开学。
+
+Issue 13		U
+src: According to the education ministry, secondary and middle schools are expected to reopen in November.
+tar: 据教育部称，预计中学将于 11 月重新开学。
+ref: 据教育部称，预计中学【和初中】将于 11 月重新开学。
+
+Issue 14		L
+src: Half a dozen women were among the victims for which the Islamic State front has claimed responsibility.
+tar: 六名妇女是伊斯兰国阵线声称对此事负责的受害者。
+ref: 六名妇女「是伊斯兰国阵线声称对此事负责的受害者【是伊斯兰国阵线声称负责的受害者中的】」。
+
+Issue 15		L
+src: Half a dozen families were among the victims for which the Islamic State front has claimed responsibility.
+tar: 伊斯兰国阵线声称对六个家庭的遇难者负责。
+ref: 伊斯兰国阵线声称「对六个家庭的遇难者负责」。
+
+Issue 16		L
+src: Half a dozen others were among the victims for which the Islamic State front has claimed responsibility.
+tar: 伊斯兰国阵线声称对其他六名受害者负责。
+
+Issue 17		L; U
+src: Half a dozen individuals were among the victims for which the Islamic State front has claimed responsibility.
+tar: 伊斯兰国阵线声称对六名受害者负责。
+
+Issue 18		L
+src: Half a dozen women were among the deaths for which the Islamic State front has claimed responsibility.
+tar: 伊斯兰国阵线声称对六名妇女的死亡负责。
+
+Issue 19		L
+src: Half a dozen women were among the fatalities for which the Islamic State front has claimed responsibility.
+tar: 伊斯兰国阵线声称对六名妇女的死亡负责。
+
+Issue 20		W
+src: Without the March relief package, the interest rates would have been higher over the last seven years.
+tar: 如果没有 3 月份的救助计划，过去七年的利率本来会更高。
+ref: 如果没有 3 月份的【…】救助计划，过去七年的利率本来会更高。
+
+Issue 21		L
+src: The ministers renewed the process of new fiscal policy, which was disrupted by the pandemic early this year.
+tar: 部长们重新启动了新的财政政策进程，该进程在今年年初因大流行病而中断。
+ref: 部长们重新启动了新的财政政策进程，该「进程【政策】」在今年年初因大流行病而中断。
+
+Issue 22		L
+src: The ministers renewed the discussion of new fiscal policy, which was disrupted by the pandemic early this morning.
+tar: 部长们重新讨论了新的财政政策，这一讨论在今天清晨因大流行病而中断。
+
+Issue 23		L
+src: The ministers renewed the discussion of new fiscal policy, which was disrupted by the pandemic early this day.
+tar: 部长们重新讨论了新的财政政策，这一讨论在今天早些时候因大流行病而中断。
+
+Issue 24		O; W
+src: Steven Kennedy, the defense secretary, used a recent speech to urge the government to lower the threshold for federal stimulus.
+tar: 美国国防部长史蒂文·肯尼迪在最近的一次演讲中敦促政府降低联邦刺激计划的门槛。
+ref: 「美国」国防部长史蒂文·肯尼迪「在最近的一次演讲中【利用最近的演讲】」敦促政府降低联邦刺激计划的门槛。
+
+Issue 25		W
+src: Ted Kennedy, the defense secretary, used a recent speech to urge the government to lower the threshold for federal stimulus.
+tar: 国防部长泰德·肯尼迪 (Ted Kennedy) 最近发表讲话，敦促政府降低联邦刺激计划的门槛。
+ref: 国防部长泰德·肯尼迪 (Ted Kennedy) 「最近发表讲话」，敦促政府降低联邦刺激计划的门槛。
+
+Issue 26		W
+src: Anthony Kennedy, the defense secretary, used a recent speech to urge the government to lower the threshold for federal stimulus.
+tar: 国防部长安东尼·肯尼迪 (Anthony Kennedy) 最近发表讲话，敦促政府降低联邦刺激计划的门槛。
+
+Issue 27		W
+src: John Kennedy, the defense secretary, used a recent speech to urge the government to lower the threshold for federal stimulus.
+tar: 国防部长约翰肯尼迪最近发表讲话，敦促政府降低联邦刺激计划的门槛。
+
+Issue 28		O; W
+src: Steven Chu, the defense secretary, used a recent speech to urge the government to lower the threshold for federal stimulus.
+tar: 美国国防部长朱棣文最近发表讲话，敦促政府降低联邦刺激计划的门槛。
+
+Issue 29		W
+src: Steven Kennedy, the treasury secretary, used a recent speech to urge the government to lower the threshold for federal stimulus.
+tar: 财政部长史蒂文·肯尼迪 (Steven Kennedy) 最近发表讲话，敦促政府降低联邦刺激计划的门槛。
+
+Issue 30		W
+src: Steven Kennedy, the budget secretary, used a recent speech to urge the government to lower the threshold for federal stimulus.
+tar: 预算部长史蒂文·肯尼迪(Steven Kennedy)最近发表讲话，敦促政府降低联邦刺激计划的门槛。
+
+Issue 31		W
+src: Steven Kennedy, the defense secretary, used a televised speech to urge the government to lower the threshold for federal stimulus.
+tar: 国防部长史蒂文肯尼迪通过电视讲话敦促政府降低联邦刺激计划的门槛。
+ref: 国防部长史蒂文肯尼迪「通过【利用】」电视讲话敦促政府降低联邦刺激计划的门槛。
+
+Issue 32		O
+src: Steven Kennedy, the defense secretary, used a similar speech to urge the government to lower the threshold for federal stimulus.
+tar: 国防部长史蒂文·肯尼迪 (Steven Kennedy) 也用类似的讲话敦促政府降低联邦刺激计划的门槛。
+ref: 国防部长史蒂文·肯尼迪 (Steven Kennedy) 「也」用类似的讲话敦促政府降低联邦刺激计划的门槛。
+
+Issue 33		O
+src: Steven Kennedy, the defense secretary, used a long speech to urge the government to lower the threshold for federal stimulus.
+tar: 美国国防部长史蒂文·肯尼迪用长篇演讲敦促政府降低联邦刺激计划的门槛。
+ref: 「美国」国防部长史蒂文·肯尼迪用长篇演讲敦促政府降低联邦刺激计划的门槛。
+
+Issue 34		O
+src: Steven Kennedy, the defense secretary, used a previous speech to urge the government to lower the threshold for federal stimulus.
+tar: 美国国防部长史蒂文·肯尼迪利用此前的一次讲话敦促政府降低联邦刺激计划的门槛。
+
+Issue 35		O; U
+src: Steven Kennedy, the defense secretary, used a recent article to urge the government to lower the threshold for federal stimulus.
+tar: 美国国防部长史蒂文肯尼迪最近发表文章敦促政府降低联邦刺激计划的门槛。
+ref: 「美国」国防部长史蒂文肯尼迪【利用】最近发表文章敦促政府降低联邦刺激计划的门槛。
+
+Issue 36		O
+src: Steven Kennedy, the defense secretary, used a recent controversy to urge the government to lower the threshold for federal stimulus.
+tar: 美国国防部长史蒂文肯尼迪利用最近的一场争议敦促政府降低联邦刺激计划的门槛。
+
+Issue 37		L; O
+src: Steven Kennedy, the defense secretary, used a recent video to urge the government to lower the threshold for federal stimulus.
+tar: 美国国防部长史蒂文·肯尼迪(Steven Kennedy)最近用一段视频敦促政府降低联邦刺激计划的门槛。
+ref: 「美国」国防部长史蒂文·肯尼迪(Steven Kennedy)「最近」用一段【最近的】视频敦促政府降低联邦刺激计划的门槛。
+
+Issue 38		O
+src: Steven Kennedy, the defense secretary, used a recent scandal to urge the government to lower the threshold for federal stimulus.
+tar: 美国国防部长史蒂文肯尼迪利用最近的丑闻敦促政府降低联邦刺激计划的门槛。
+
+Issue 39		W
+src: Steven Kennedy, the defense secretary, used a recent quote to urge the government to lower the threshold for federal stimulus.
+tar: 国防部长史蒂文·肯尼迪 (Steven Kennedy) 最近引用了一句话敦促政府降低联邦刺激计划的门槛。
+
+Issue 40		W
+src: Steven Kennedy, the defense secretary, used a recent speech to urge the administration to lower the threshold for federal stimulus.
+tar: 国防部长史蒂文·肯尼迪 (Steven Kennedy) 在最近的一次演讲中敦促政府降低联邦刺激计划的门槛。
+ref: 国防部长史蒂文·肯尼迪 (Steven Kennedy) 「在最近的一次演讲中」敦促政府降低联邦刺激计划的门槛。
+
+Issue 41		W
+src: Steven Kennedy, the defense secretary, used a recent speech to urge the government to lower the price for federal stimulus.
+tar: 国防部长史蒂文·肯尼迪 (Steven Kennedy) 在最近的一次演讲中敦促政府降低联邦刺激计划的价格。
+
+Issue 42		W
+src: Steven Kennedy, the defense secretary, used a recent speech to urge the government to lower the cost for federal stimulus.
+tar: 国防部长史蒂文·肯尼迪 (Steven Kennedy) 在最近的一次演讲中敦促政府降低联邦刺激计划的成本。
+
+Issue 43		W
+src: Steven Kennedy, the defense secretary, used a recent speech to urge the government to lower the funding for federal stimulus.
+tar: 国防部长史蒂文·肯尼迪 (Steven Kennedy) 在最近的一次演讲中敦促政府降低联邦刺激计划的资金。
+
+Issue 44		W
+src: Steven Kennedy, the defense secretary, used a recent speech to urge the government to lower the need for federal stimulus.
+tar: 国防部长史蒂文·肯尼迪 (Steven Kennedy) 在最近的一次演讲中敦促政府降低对联邦刺激计划的需求。
+
+Issue 45		W
+src: Steven Kennedy, the defense secretary, used a recent speech to urge the government to lower the rate for federal stimulus.
+tar: 国防部长史蒂文·肯尼迪 (Steven Kennedy) 在最近的一次演讲中敦促政府降低联邦刺激计划的利率。
+
+Issue 46		W
+src: Steven Kennedy, the defense secretary, used a recent speech to urge the government to lower the cap for federal stimulus.
+tar: 国防部长史蒂文·肯尼迪 (Steven Kennedy) 在最近的一次演讲中敦促政府降低联邦刺激计划的上限。
+
+Issue 47		O; W
+src: Steven Kennedy, the defense secretary, used a recent speech to urge the government to lower the threshold for economic stimulus.
+tar: 美国国防部长史蒂文肯尼迪最近发表讲话，敦促政府降低经济刺激的门槛。
+ref: 「美国」国防部长史蒂文肯尼迪「最近发表讲话」，敦促政府降低经济刺激的门槛。
+
+Issue 48		O; W
+src: Steven Kennedy, the defense secretary, used a recent speech to urge the government to lower the threshold for fiscal stimulus.
+tar: 美国国防部长史蒂文肯尼迪最近发表讲话，敦促政府降低财政刺激的门槛。
+
+Issue 49		O; W
+src: Steven Kennedy, the defense secretary, used a recent speech to urge the government to lower the threshold for financial stimulus.
+tar: 美国国防部长史蒂文肯尼迪最近发表讲话，敦促政府降低财政刺激的门槛。
+
+Issue 50		O; W
+src: Steven Kennedy, the defense secretary, used a recent speech to urge the government to lower the threshold for military stimulus.
+tar: 美国国防部长史蒂文肯尼迪最近发表讲话，敦促政府降低军事刺激的门槛。
+
+Issue 51		O; W
+src: Steven Kennedy, the defense secretary, used a recent speech to urge the government to lower the threshold for monetary stimulus.
+tar: 美国国防部长史蒂文肯尼迪最近发表讲话，敦促政府降低货币刺激的门槛。
+
+Issue 52		O; W
+src: Steven Kennedy, the defense secretary, used a recent speech to urge the government to lower the threshold for federal aid.
+tar: 美国国防部长史蒂文肯尼迪最近发表讲话，敦促政府降低联邦援助的门槛。
+
+Issue 53		O; W
+src: Steven Kennedy, the defense secretary, used a recent speech to urge the government to lower the threshold for federal protection.
+tar: 美国国防部长史蒂文肯尼迪最近发表讲话，敦促政府降低联邦保护的门槛。
+
+Issue 54		L
+src: At least 22 people, mostly students, were killed and another 27 wounded when three students stormed the university on Monday.
+tar: 周一，三名学生冲进大学，造成至少 22 人死亡，其中大部分是学生，另有 27 人受伤。
+ref: 周一，「三名学生冲进大学，造成【(当)三名学生 冲进/突然袭击 大学时，】」至少 22 人死亡，其中大部分是学生，另有 27 人受伤。
+
+Issue 55		L
+src: At least 22 people, mostly students, were killed and another 27 wounded when three militants stormed the university on Monday.
+tar: 周一，三名武装分子袭击该大学，造成至少 22 人死亡，其中大部分是学生，另有 27 人受伤。
+
+Issue 56		L
+src: Despite the downgrading, the Honduran government on Wednesday declared a national state of emergency due to the passage of the law.
+tar: 尽管降级，但洪都拉斯政府周三宣布由于法律的通过而进入国家紧急状态。
+ref: 尽管降级，但【由于法律的通过，】洪都拉斯政府周三宣布「由于法律的通过而」进入国家紧急状态。
+
+Issue 57		L
+src: Despite the downgrading, the Honduran government on Wednesday declared a general state of emergency due to the passage of the law.
+tar: 尽管降级，洪都拉斯政府周三宣布由于法律的通过进入全面紧急状态。
+
+Issue 58		L
+src: Despite the downgrading, the Honduran government on Wednesday declared a virtual state of emergency due to the passage of the law.
+tar: 尽管降级，洪都拉斯政府周三宣布由于法律的通过实际上进入紧急状态。
+
+Issue 59		L; W
+src: Despite the downgrading, the Honduran government on Wednesday declared a declared state of emergency due to the passage of the law.
+tar: 尽管降级，洪都拉斯政府周三宣布由于法律的通过宣布进入紧急状态。
+ref: 尽管降级，【由于法律的通过，】洪都拉斯政府周三宣布「由于法律的通过」「宣布」进入【公开声明的】紧急状态。
+
+Issue 60		O
+src: Despite the downgrading, the Honduran government on Wednesday declared a national state of emergency due to the passage of the bill.
+tar: 尽管评级被降级，洪都拉斯政府周三仍因该法案的通过宣布全国进入紧急状态。
+ref: 尽管「评级被降级」，洪都拉斯政府周三仍因该法案的通过宣布全国进入紧急状态。
+
+Issue 61		O
+src: Despite the downgrading, the Honduran government on Wednesday declared a national state of emergency due to the passage of the legislation.
+tar: 尽管评级被降级，洪都拉斯政府周三仍因立法的通过宣布全国进入紧急状态。
+
+Issue 62		L
+src: Despite the downgrading, the Honduran government on Wednesday declared a national state of emergency due to the passage of the storm.
+tar: 尽管降级，洪都拉斯政府周三宣布由于风暴过境全国进入紧急状态。
+
+Issue 63		O
+src: Despite the downgrading, the Honduran government on Wednesday declared a national state of emergency due to the passage of the hurricane.
+tar: 尽管飓风降级，洪都拉斯政府周三仍宣布全国进入紧急状态，原因是飓风过境。
+ref: 尽管「飓风」降级，洪都拉斯政府周三仍宣布全国进入紧急状态，原因是飓风过境。
+
+Issue 64		W
+src: Parents and carers were not allowed to use physical force to discipline their children if it was considered reasonable behavior.
+tar: 如果被认为是合理的行为，父母和照顾者不得使用体力来管教他们的孩子。
+ref: 如果被认为是合理的行为，父母和照顾者不得使用「体力【暴力/武力】」来管教他们的孩子。
+
+Issue 65		W
+src: Parents and carers were not allowed to use physical force to discipline their children if it was considered unacceptable behavior.
+tar: 如果被认为是不可接受的行为，父母和照顾者不得使用体力来管教他们的孩子。
+
+Issue 66		W
+src: Parents and carers were not allowed to use physical force to discipline their children if it was considered acceptable behavior.
+tar: 如果被认为是可以接受的行为，父母和照顾者不得使用体力来管教他们的孩子。
+
+Issue 67		U
+src: This summer has witnessed several severe floods and powerful typhoons across the country, causing severe damage to local people and their properties.
+tar: 今年夏天，全国多地发生特大洪涝灾害和强台风，给当地人民群众和财产造成严重损失。
+ref: 今年夏天【见证了】，全国多地发生特大洪涝灾害和强台风，给当地人民群众和财产造成严重损失。
+
+Issue 68		U
+src: This year has witnessed several severe floods and powerful typhoons across the country, causing severe damage to local people and their properties.
+tar: 今年以来，全国先后发生多起特大洪涝灾害和强台风灾害，给当地群众和财产造成了严重损失。
+
+Issue 69		W
+src: This region has witnessed several severe floods and powerful typhoons across the country, causing severe damage to local people and their properties.
+tar: 该地区在全国经历了数次特大洪水和强台风袭击，给当地人民和财产造成了严重损失。
+ref: 「该地区在全国经历了数次特大洪水和强台风袭击」，给当地人民和财产造成了严重损失。
+
+Issue 70		W
+src: This area has witnessed several severe floods and powerful typhoons across the country, causing severe damage to local people and their properties.
+tar: 该地区曾多次遭受全国特大洪涝灾害和强台风袭击，给当地群众和财产造成了严重损失。
+
+Issue 71		U
+src: This month has witnessed several severe floods and powerful typhoons across the country, causing severe damage to local people and their properties.
+tar: 本月以来，全国多地发生特大洪涝灾害和强台风，给当地群众和财产造成严重损失。
+
+Issue 72		U
+src: This century has witnessed several severe floods and powerful typhoons across the country, causing severe damage to local people and their properties.
+tar: 本世纪以来，全国经历了数次特大洪水和强台风袭击，给当地人民和财产造成了严重破坏。
+
+Issue 73		U
+src: This decade has witnessed several severe floods and powerful typhoons across the country, causing severe damage to local people and their properties.
+tar: 近十年来，全国经历了数次特大洪水和强台风袭击，给当地人民群众和财产造成了严重破坏。
+
+Issue 74		U
+src: This summer has witnessed several flash floods and powerful typhoons across the country, causing severe damage to local people and their properties.
+tar: 今年夏天，全国发生多起山洪暴发和强台风，给当地群众和财产造成了严重损失。
+
+Issue 75		U
+src: This summer has witnessed several severe storms and powerful typhoons across the country, causing severe damage to local people and their properties.
+tar: 今年夏天，全国遭遇多场强风暴雨和强台风袭击，给当地人民群众和财产造成了严重损失。
+
+Issue 76		U
+src: This summer has witnessed several severe earthquakes and powerful typhoons across the country, causing severe damage to local people and their properties.
+tar: 今年夏天，全国多地发生强烈地震和强台风，给当地群众和财产造成严重损失。
+
+Issue 77		U
+src: This summer has witnessed several severe floods and strong typhoons across the country, causing severe damage to local people and their properties.
+tar: 今年夏天，全国先后发生多起特大洪涝灾害和强台风，给当地群众和财产造成了严重损失。
+
+Issue 78		U
+src: This summer has witnessed several severe floods and major typhoons across the country, causing severe damage to local people and their properties.
+tar: 今年夏天，全国多地发生特大洪涝灾害和特大台风，给当地群众和财产造成了严重损失。
+
+Issue 79		U
+src: This summer has witnessed several severe floods and powerful typhoons across the province, causing severe damage to local people and their properties.
+tar: 今年夏天，全省发生多起特大洪涝灾害和强台风，给当地群众和财产造成了严重损失。
+
+Issue 80		U
+src: This summer has witnessed several severe floods and powerful typhoons across the country, causing extensive damage to local people and their properties.
+tar: 今年夏天，全国发生多起特大洪涝灾害和强台风，给当地群众和财产造成了巨大损失。
+
+Issue 81		U
+src: This summer has witnessed several severe floods and powerful typhoons across the country, causing significant damage to local people and their properties.
+tar: 今年夏天，全国发生多起特大洪涝灾害和强台风，给当地群众和财产造成重大损失。
+
+Issue 82		U
+src: This summer has witnessed several severe floods and powerful typhoons across the country, causing considerable damage to local people and their properties.
+tar: 今年夏天，全国发生多起特大洪涝灾害和强台风，给当地群众和财产造成了较大损失。
+
+Issue 83		U
+src: This summer has witnessed several severe floods and powerful typhoons across the country, causing severe damage to local populations and their properties.
+tar: 今年夏天，全国发生多起特大洪涝灾害和强台风，给当地群众和财产造成了严重损失。
+
+Issue 84		U
+src: European nations are reintroducing strict measures aimed at stopping the spread of the novel coronavirus after infections and hospitalizations because of COVID-19 infection.
+tar: 欧洲国家正在重新采取严格措施，旨在阻止因 COVID-19 感染而感染和住院后新型冠状病毒的传播。
+ref: 欧洲国家正在重新采取严格措施，旨在阻止因 「COVID-19」 感染而感染和住院后新型冠状病毒的传播。
+
+Issue 85		L; U
+src: Many nations are reintroducing strict measures aimed at stopping the spread of the novel coronavirus after infections and hospitalizations because of COVID-19 infection.
+tar: 由于 COVID-19 感染，许多国家正在重新采取旨在阻止新型冠状病毒感染和住院后传播的严格措施。
+ref: 「由于 COVID-19 感染，」许多国家正在重新采取旨在阻止新型冠状病毒【因新冠肺炎感染的】感染和住院后传播的严格措施。
+
+Issue 86		L; U
+src: European nations are reintroducing strict measures aimed at stopping the spread of the novel coronavirus after births and hospitalizations because of COVID-19 infection.
+tar: 由于 COVID-19 感染，欧洲国家正在重新采取旨在阻止新型冠状病毒在出生和住院后传播的严格措施。
+
+Issue 87		U
+src: European nations are reintroducing strict measures aimed at stopping the spread of the novel coronavirus after infections and hospitalizations because of COVID-19 vaccine.
+tar: 欧洲国家正在重新采取严格措施，旨在阻止因 COVID-19 疫苗感染和住院后新型冠状病毒的传播。
+
+Issue 88		L
+src: Wednesday's meeting also adopted conclusions on an action plan against money laundering and illegal financing presented by the european commission in May.
+tar: 周三的会议还通过了欧盟委员会 5 月份提出的反洗钱和非法融资行动计划的结论。
+ref: 周三的会议还通过了欧盟委员会 5 月份提出的反洗钱和【打击/反】非法融资行动计划的结论。
+
+Issue 89		U
+src: The guidelines had said the virus spreads only through transmission in respiratory droplets, touching contaminated surfaces and nodding greetings like handshakes and hugs.
+tar: 该指南曾表示，该病毒仅通过呼吸道飞沫、接触受污染的表面以及握手和拥抱等点头问候传播。
+ref: 该指南曾表示，该病毒仅通过呼吸道飞沫【的传播】、接触受污染的表面以及握手和拥抱等点头问候传播。
+
+Issue 90		W
+src: It is important that learning is applied to planning for this winter, and what services can be delivered safely.
+tar: 重要的是将学习应用于今年冬天的计划，以及可以安全提供哪些服务。
+ref: 重要的是将「学习【知识】」应用于今年冬天的计划，以及可以安全提供哪些服务。
+
+Issue 91		W
+src: It is essential that learning is applied to planning for this winter, and what services can be delivered safely.
+tar: 必须将学习应用于今年冬天的规划，以及可以安全提供哪些服务。
+
+Issue 92		W
+src: It is crucial that learning is applied to planning for this winter, and what services can be delivered safely.
+tar: 将学习应用于今年冬天的规划以及可以安全提供哪些服务至关重要。
+
+Issue 93		W
+src: It is critical that learning is applied to planning for this winter, and what services can be delivered safely.
+tar: 将学习应用于今年冬天的规划以及可以安全提供哪些服务至关重要。
+
+Issue 94		W
+src: It is important that learning is applied to planning for this project, and what services can be delivered safely.
+tar: 重要的是将学习应用于该项目的规划，以及可以安全提供哪些服务。
+
+Issue 95		W
+src: It is important that learning is applied to planning for this service, and what services can be delivered safely.
+tar: 重要的是将学习应用于此服务的规划，以及可以安全提供哪些服务。
+
+Issue 96		W
+src: It is important that learning is applied to planning for this future, and what services can be delivered safely.
+tar: 重要的是将学习应用于规划未来，以及可以安全提供哪些服务。
+
+Issue 97		W
+src: It is important that learning is applied to planning for this change, and what services can be delivered safely.
+tar: 重要的是将学习应用于规划此更改以及可以安全提供哪些服务。
+
+Issue 98		W
+src: It is important that learning is applied to planning for this development, and what services can be delivered safely.
+tar: 重要的是将学习应用于此开发的规划，以及可以安全提供哪些服务。
+
+Issue 99		W
+src: It is important that learning is applied to planning for this winter, and what services can be delivered first.
+tar: 重要的是要将学习应用于今年冬天的计划，以及可以首先提供哪些服务。
+
+Issue 100		W
+src: It is important that learning is applied to planning for this winter, and what services can be delivered locally.
+tar: 重要的是将学习应用于今年冬天的规划，以及可以在当地提供哪些服务。
+
+Issue 101		U
+src: Then when there is a fire in it in a day or a month, the liquid air will be warmed so it burns.
+tar: 然后当一天或一个月内有火时，液态空气将被加热而燃烧。
+ref: 然后当一天或一个月内【，里面】有火时，液态空气将被加热而燃烧。
+
+Issue 102		U
+src: Then when there is a fire in it in a day or a month, the inside air will be warmed so it burns.
+tar: 然后当一天或一个月内有火时，里面的空气会变热而燃烧。
+
+Issue 103		U; W
+src: Then when there is a fire in it in a day or a month, the liquid fire will be warmed so it burns.
+tar: 一日或一月内有火，液火温而燃。
+
+Issue 104		U; W
+src: Then when there is a fire in it in a day or a month, the liquid wine will be warmed so it burns.
+tar: 日或月内有火，温酒而烧之。
+
+Issue 105		U
+src: Then when there is a fire in it in a day or a month, the liquid inside will be warmed so it burns.
+tar: 日后或月内有火时，其内液体受热而燃烧。
+
+Issue 106		W
+src: The EU recognizes the waters as belonging to greece and said it would be necessary for fishing to conduct drilling and energy exploration there.
+tar: 欧盟承认该水域属于希腊，并表示有必要在那里进行渔业钻探和能源勘探。
+ref: 欧盟承认该水域属于希腊，并表示有必要在那里「进行渔业【捕鱼 以实施】」钻探和能源勘探。
+
+Issue 107		W
+src: The EU recognizes the waters as belonging to greece and said it would be possible for fishing to conduct drilling and energy exploration there.
+tar: 欧盟承认该水域属于希腊，并表示可以在那里进行渔业钻探和能源勘探。
+
+Issue 108		U; W
+src: Financial services firms entered the pandemic in a position of capital strength and have supported the community and business to unprecedented heights since March.
+tar: 自 3 月以来，金融服务公司以资本实力进入大流行，并为社区和企业提供了前所未有的支持。
+ref: 自 3 月以来，金融服务公司以资本实力【的地位】进入「大流行【病】」，并「为社区和企业提供了前所未有的支持【对社会和企业的支持达到了前所未有的高度】」。
+
+Issue 109		W
+src: Financial services firms entered the pandemic in a surge of capital strength and have supported the community and business to unprecedented heights since March.
+tar: 金融服务公司在资本实力激增的情况下进入大流行，并自 3 月以来对社区和企业的支持达到了前所未有的高度。
+ref: 金融服务公司在资本实力激增的情况下进入「大流行」，并自 3 月以来对社区和企业的支持达到了前所未有的高度。
+
+Issue 110		W
+src: Financial services firms entered the pandemic in a burst of capital strength and have supported the community and business to unprecedented heights since March.
+tar: 金融服务公司在资本实力爆发的情况下进入大流行，并自 3 月以来对社区和企业的支持达到了前所未有的高度。
+
+Issue 111		U; W
+src: Financial services firms entered the pandemic in a show of capital strength and have supported the community and business to unprecedented heights since March.
+tar: 自 3 月以来，金融服务公司为了展示资本实力而进入大流行，并为社区和企业提供了前所未有的支持。
+ref: 自 3 月以来，金融服务公司「为了展示资本实力」而进入「大流行」，并「为社区和企业提供了前所未有的支持」。
+
+Issue 112		W
+src: Financial services firms entered the pandemic in a state of capital strength and have supported the community and business to unprecedented heights since March.
+tar: 金融服务公司以资本实力的状态进入大流行，并自 3 月以来对社区和企业的支持达到前所未有的高度。
+
+Issue 113		W
+src: Financial services firms entered the pandemic in a crisis of capital strength and have supported the community and business to unprecedented heights since March.
+tar: 金融服务公司在资本实力危机中进入大流行，并自 3 月以来对社区和企业的支持达到了前所未有的高度。
+
+Issue 114		U; W
+src: Financial services firms entered the pandemic in a position of capital strength and have supported the community and business to great heights since March.
+tar: 自 3 月以来，金融服务公司以资本实力进入大流行，并为社区和企业提供了支持。
+
+Issue 115		U
+src: Search and rescue operations have been going on around the clock in the area of a total of eight collapsed buildings in the area.
+tar: 该地区共有8座倒塌建筑物，搜救工作一直在全天候进行。
+ref: 该地区共有8座倒塌建筑物，搜救工作一直在【该地区】全天候进行。
+
+Issue 116		U
+src: Search and recovery operations have been going on around the clock in the area of a total of eight collapsed buildings in the area.
+tar: 该地区共有八座倒塌建筑物的搜索和恢复行动一直在全天候进行。
+ref: 该地区共有八座倒塌建筑物【的区域】的搜索和恢复行动一直在全天候进行。
+
+Issue 117		U
+src: Search and rescue operations have been going on around the city in the area of a total of eight collapsed buildings in the area.
+tar: 该地区共有8座倒塌建筑物，搜救行动一直在全市范围内进行。
+
+Issue 118		O
+src: Search and rescue operations have been going on around the area in the area of a total of eight collapsed buildings in the area.
+tar: 在该地区共有8座倒塌建筑物的范围内，搜索和救援行动一直在该地区的周围进行。
+ref: 在该地区共有8座倒塌建筑物「的范围内」，搜索和救援行动一直在该地区的周围进行。
+
+Issue 119		U
+src: Search and rescue operations have been going on around the world in the area of a total of eight collapsed buildings in the area.
+tar: 搜救行动一直在全球范围内进行，该地区共有8座倒塌的建筑物。
+
+Issue 120		U
+src: Search and rescue operations have been going on around the town in the area of a total of eight collapsed buildings in the area.
+tar: 该地区共有八座倒塌建筑物，搜救行动一直在城镇周边进行。
+
+Issue 121		U
+src: Search and rescue operations have been going on around the country in the area of a total of eight collapsed buildings in the area.
+tar: 搜救行动一直在全国范围内进行，该地区共有八座倒塌的建筑物。
+
+Issue 122		W
+src: Search and rescue operations have been going on around the site in the area of a total of eight collapsed buildings in the area.
+tar: 在该地区共有八座倒塌建筑物的范围内，搜救行动一直在现场周围进行。
+ref: 在该地区共有八座倒塌建筑物「的范围内」，搜救行动一直在现场周围【的区域】进行。
+
+Issue 123		L; U
+src: Search and rescue operations have been going on around the village in the area of a total of eight collapsed buildings in the area.
+tar: 该地区共有8座倒塌的建筑物在村庄周围进行搜救行动。
+
+Issue 124		U
+src: Search and rescue operations have been going on around the clock in the area of a complex of eight collapsed buildings in the area.
+tar: 搜救行动一直在该地区八座倒塌建筑群的区域内全天候进行。
+ref: 搜救行动一直在该地区八座倒塌【建筑物的】建筑群的区域内全天候进行。
+
+Issue 125		W
+src: Search and rescue operations have been going on around the clock in the area of a total of six collapsed buildings in the area.
+tar: 在该地区共有6座倒塌建筑物的范围内，搜救行动一直在全天候进行。
+
+Issue 126		U
+src: Search and rescue operations have been going on around the clock in the area of a total of eight residential buildings in the area.
+tar: 该地区共有8栋住宅楼的搜救行动一直在全天候进行。
+
+Issue 127		W
+src: Search and rescue operations have been going on around the clock in the area of a total of eight collapsed buildings in the region.
+tar: 在该地区共有八座倒塌建筑物的范围内，搜救行动一直在全天候进行。
+
+Issue 128		U; W
+src: Many universities in the United Kingdom are chartering flights to help the thousands of Chinese students to stay in the country despite the COVID-19 pandemic.
+tar: 尽管发生了 COVID-19 大流行，英国的许多大学都包机帮助成千上万的中国学生留在英国。
+ref: 尽管「发生了 COVID-19 大流行【出现了新冠肺炎大流行病/新冠肺炎大流行】」，英国的许多大学「都【正在】」包机帮助成千上万的中国学生留在英国。
+
+Issue 129		U; W
+src: Many universities in the United Kingdom are chartering scholarships to help the thousands of Chinese students to stay in the country despite the COVID-19 pandemic.
+tar: 尽管发生了 COVID-19 大流行，英国的许多大学都在设立奖学金，以帮助成千上万的中国学生留在英国。
+ref: 尽管「发生了 COVID-19 大流行」，英国的许多大学都在设立奖学金，以帮助成千上万的中国学生留在英国。
+
+Issue 130		U
+src: Many universities in the United Kingdom are chartering flights to help the thousands of affected students to stay in the country despite the COVID-19 pandemic.
+tar: 尽管 COVID-19 大流行，英国的许多大学都在包机，以帮助成千上万受影响的学生留在该国。
+ref: 尽管 「COVID-19」 大流行，英国的许多大学都在包机，以帮助成千上万受影响的学生留在该国。
+
+Issue 131		U; W
+src: Many universities in the United Kingdom are chartering flights to help the thousands of infected students to stay in the country despite the COVID-19 pandemic.
+tar: 尽管发生了 COVID-19 大流行，英国的许多大学都在包机，以帮助数千名受感染的学生留在该国。
+
+Issue 132		U; W
+src: Many universities in the United Kingdom are chartering flights to help the thousands of stranded students to stay in the country despite the COVID-19 pandemic.
+tar: 尽管发生了 COVID-19 大流行，英国的许多大学都在包机帮助成千上万滞留的学生留在英国。
+
+Issue 133		U; W
+src: Many universities in the United Kingdom are chartering flights to help the thousands of sick students to stay in the country despite the COVID-19 pandemic.
+tar: 尽管发生了 COVID-19 大流行，英国的许多大学都在包机帮助成千上万生病的学生留在英国。
+
+Issue 134		U
+src: Many universities in the United Kingdom are chartering flights to help the thousands of evacuated students to stay in the country despite the COVID-19 pandemic.
+tar: 尽管 COVID-19 大流行，英国的许多大学都在包机，以帮助成千上万撤离的学生留在该国。
+
+Issue 135		L; U
+src: Many universities in the United Kingdom are chartering flights to help the thousands of American students to stay in the country despite the COVID-19 pandemic.
+tar: 英国的许多大学都在包机，以帮助成千上万的美国学生在 COVID-19 大流行的情况下留在该国。
+ref: 英国的许多大学都在包机，以帮助成千上万的美国学生「在 COVID-19 大流行的情况下」留在该国。
+
+Issue 136		W
+src: Xi called on the two nations to jointly uphold multilateralism and firmly safeguard the international law and system with the United Nations at the table.
+tar: 习近平呼吁两国共同维护多边主义，在联合国面前坚定维护国际法和国际体系。
+ref: 习近平【在谈判时】呼吁两国【与联合国一起】共同维护多边主义，「在联合国面前」坚定维护国际法和国际体系。
+
+Issue 137		U
+src: Xi called on the two nations to jointly uphold multilateralism and firmly safeguard the international law and system with the United Nations at the moment.
+tar: 当前，习近平呼吁两国共同维护多边主义，坚定维护国际法和国际体系。
+ref: 当前，习近平呼吁两国【与联合国一起】共同维护多边主义，坚定维护国际法和国际体系。
+
+Issue 138		U
+src: Xi called on the two nations to jointly uphold multilateralism and firmly safeguard the international law and system with the United Nations at the time.
+tar: 当时，习近平呼吁两国共同维护多边主义，坚定维护国际法和国际体系。
+
+Issue 139		W
+src: It allowed local authorities to ask drivers to move their vehicles to car parks near disused railways, cafes and restaurants while protests take place.
+tar: 它允许地方当局在抗议发生时要求司机将车辆移至废弃铁路、咖啡馆和餐馆附近的停车场。
+ref: 它允许地方当局在「抗议【活动】」发生时要求司机将车辆移至废弃铁路、咖啡馆和餐馆附近的停车场。
+
+Issue 140		W
+src: It allowed local authorities to ask drivers to move their cars to car parks near disused railways, cafes and restaurants while protests take place.
+tar: 它允许地方当局在抗议活动发生时要求司机将汽车开到废弃铁路、咖啡馆和餐馆附近的停车场。
+ref: 它允许地方当局在抗议活动发生时要求司机将汽车「开到【移至】」废弃铁路、咖啡馆和餐馆附近的停车场。
+
+Issue 141		W
+src: It allowed local authorities to ask drivers to move their vehicles to car parks near disused pubs, cafes and restaurants while protests take place.
+tar: 它允许地方当局在抗议活动发生时要求司机将车辆停在废弃的酒吧、咖啡馆和餐馆附近的停车场。
+ref: 它允许地方当局在抗议活动发生时要求司机将车辆「停在【移至】」废弃的酒吧、咖啡馆和餐馆附近的停车场。
+
+Issue 142		W
+src: It allowed local authorities to ask drivers to move their vehicles to car parks near disused factories, cafes and restaurants while protests take place.
+tar: 它允许地方当局在抗议活动发生时要求司机将车辆停在废弃工厂、咖啡馆和餐馆附近的停车场。
+
+Issue 143		W
+src: It allowed local authorities to ask drivers to move their vehicles to car parks near disused hotels, cafes and restaurants while protests take place.
+tar: 它允许地方当局在抗议活动发生时要求司机将车辆停在废弃的旅馆、咖啡馆和餐馆附近的停车场。
+
+Issue 144		W
+src: It allowed local authorities to ask drivers to move their vehicles to car parks near disused buildings, cafes and restaurants while protests take place.
+tar: 它允许地方当局在抗议活动发生时要求司机将车辆停在废弃建筑、咖啡馆和餐馆附近的停车场。
+
+Issue 145		W
+src: It allowed local authorities to ask drivers to move their vehicles to car parks near disused schools, cafes and restaurants while protests take place.
+tar: 它允许地方当局在抗议活动发生时要求司机将车辆停在废弃学校、咖啡馆和餐馆附近的停车场。
+
+Issue 146		W
+src: It allowed local authorities to ask drivers to move their vehicles to car parks near disused railways, cafes and factories while protests take place.
+tar: 它允许地方当局在抗议活动发生时要求司机将车辆停在废弃铁路、咖啡馆和工厂附近的停车场。
+
+Issue 147		U; W
+src: A government report concluded in the aftermath that Home Secretary Priti Patel had broken rules on ministers' behaviour, sources associated with the contents say.
+tar: 一份政府报告的结论是，内政大臣普里蒂帕特尔违反了有关部长行为的规定，与内容相关的消息人士称。
+ref: 一份政府报告「的结论是【事后得出结论】」，内政大臣普里蒂帕特尔违反了有关部长行为的规定，与内容相关的消息人士称。
+
+Issue 148		O
+src: A government report concluded in the summer that Home Secretary Priti Patel had broken rules on judges' behaviour, sources associated with the contents say.
+tar: 与报告内容相关的消息人士称，一份政府报告在今年夏天得出结论称，内政大臣普里蒂帕特尔违反了有关法官行为的规定。
+ref: 与「报告」内容相关的消息人士称，一份政府报告在今年夏天得出结论称，内政大臣普里蒂帕特尔违反了有关法官行为的规定。
+
+Issue 149		O
+src: A government report concluded in the summer that Home Secretary Priti Patel had broken rules on ministers'discretion, sources associated with the contents say.
+tar: 与报告内容相关的消息人士称，一份政府报告在今年夏天得出结论称，内政大臣普里蒂帕特尔违反了有关部长自由裁量权的规定。
+
+Issue 150		L; U
+src: Boris Johnson has defended how Covid statistics are being used after data analysis in a presentation to explain the lockdown in England had to be revised.
+tar: 鲍里斯·约翰逊 (Boris Johnson) 在演示文稿中进行数据分析以解释必须修改英格兰的封锁措施后，为如何使用 Covid 统计数据进行了辩护。
+ref: 鲍里斯·约翰逊 (Boris Johnson) 在演示文稿中「进行数据分析以解释必须修改英格兰的封锁措施后，为如何使用 Covid 统计数据进行了辩护【为数据分析后 如何使用新冠肺炎统计数据 进行了辩护，以解释英格兰的封锁必须修改】」。
+
+Issue 151		L; U
+src: Chris Johnson has defended how Covid statistics are being used after data analysis in a presentation to explain the lockdown in England had to be revised.
+tar: 克里斯·约翰逊在演示文稿中解释了英格兰的封锁必须修改后，为如何使用 Covid 统计数据进行了辩护。
+ref: 克里斯·约翰逊在演示文稿中「解释了英格兰的封锁必须修改后，为如何使用 Covid 统计数据进行了辩护」。
+
+Issue 152		L; U
+src: Paul Johnson has defended how Covid statistics are being used after data analysis in a presentation to explain the lockdown in England had to be revised.
+tar: 保罗·约翰逊在演示文稿中解释了英格兰的封锁必须修改后，为如何使用 Covid 统计数据进行了辩护。
+
+Issue 153		L; U
+src: Peter Johnson has defended how Covid statistics are being used after data analysis in a presentation to explain the lockdown in England had to be revised.
+tar: 彼得·约翰逊在演示文稿中解释了英格兰的封锁必须修改后，为如何使用 Covid 统计数据进行了辩护。
+
+Issue 154		L; U
+src: Mark Johnson has defended how Covid statistics are being used after data analysis in a presentation to explain the lockdown in England had to be revised.
+tar: 马克·约翰逊在演示文稿中解释了英格兰的封锁必须修改后，为如何使用 Covid 统计数据进行了辩护。
+
+Issue 155		L; U
+src: Andrew Johnson has defended how Covid statistics are being used after data analysis in a presentation to explain the lockdown in England had to be revised.
+tar: 安德鲁·约翰逊在演示文稿中解释了英格兰的封锁必须修改后，为如何使用 Covid 统计数据进行了辩护。
+
+Issue 156		L; U
+src: Boris Johnson has defended how Covid statistics are being used after data analysis in a study to explain the lockdown in England had to be revised.
+tar: 在一项研究中的数据分析解释了必须修改英格兰的封锁措施后，鲍里斯·约翰逊为如何使用 Covid 统计数据进行了辩护。
+
+Issue 157		L; U
+src: Boris Johnson has defended how Covid statistics are being used after data analysis in a report to explain the lockdown in England had to be revised.
+tar: 在一份报告中的数据分析解释了必须修改英格兰的封锁措施后，鲍里斯·约翰逊为如何使用 Covid 统计数据进行了辩护。
+
+Issue 158		L; U
+src: Boris Johnson has defended how Covid statistics are being used after data analysis in a project to explain the lockdown in England had to be revised.
+tar: 在解释英格兰封锁的项目中的数据分析必须修改后，鲍里斯·约翰逊为如何使用 Covid 统计数据进行了辩护。
+ref: 在「解释英格兰封锁的项目中的数据分析必须修改」后，鲍里斯·约翰逊为如何使用 「Covid」 统计数据进行了辩护。
+
+Issue 159		U
+src: Boris Johnson has defended how Covid statistics are being used after data analysis in a bid to explain the lockdown in England had to be revised.
+tar: 鲍里斯·约翰逊 (Boris Johnson) 为在数据分析后如何使用 Covid 统计数据进行辩护，以解释必须修改英格兰的封锁措施。
+ref: 鲍里斯·约翰逊 (Boris Johnson) 为在数据分析后如何使用 「Covid」 统计数据进行辩护，以解释必须修改英格兰的封锁措施。
+
+Issue 160		L; U
+src: Boris Johnson has defended how Covid statistics are being used after data analysis in a campaign to explain the lockdown in England had to be revised.
+tar: 鲍里斯·约翰逊 (Boris Johnson) 在一场解释英格兰封锁必须修改的运动中进行数据分析后，为如何使用 Covid 统计数据进行了辩护。
+ref: 鲍里斯·约翰逊 (Boris Johnson) 在一场「解释英格兰封锁必须修改的运动中进行数据分析」后，为如何使用 「Covid」 统计数据进行了辩护。
+
+Issue 161		L; U
+src: Boris Johnson has defended how Covid statistics are being used after data analysis in a plan to explain the lockdown in England had to be revised.
+tar: 在一项解释英格兰封锁的计划中的数据分析必须修改后，鲍里斯·约翰逊为如何使用 Covid 统计数据进行了辩护。
+
+Issue 162		L; U
+src: Boris Johnson has defended how Covid statistics are being used after data analysis in a proposal to explain the lockdown in England had to be revised.
+tar: 鲍里斯·约翰逊 (Boris Johnson) 在一项解释英格兰封锁的提案中的数据分析后，为如何使用 Covid 统计数据进行了辩护。
+
+Issue 163		L; U
+src: Boris Johnson has defended how Covid statistics are being used after data analysis in a programme to explain the lockdown in England had to be revised.
+tar: 在解释英格兰封锁的程序中的数据分析必须修改后，鲍里斯·约翰逊为如何使用 Covid 统计数据进行了辩护。
+
+Issue 164		U
+src: Boris Johnson has defended how Covid statistics are being used after data analysis in a survey to explain the lockdown in England had to be revised.
+tar: 在一项调查中的数据分析解释了必须修改英格兰的封锁措施后，鲍里斯·约翰逊为如何使用 Covid 统计数据进行了辩护。
+
+Issue 165		L; U
+src: Boris Johnson has defended how Covid statistics are being used after data analysis in a scheme to explain the lockdown in England had to be revised.
+tar: 在一项解释英格兰封锁的计划中的数据分析必须修改后，鲍里斯·约翰逊为如何使用 Covid 统计数据进行了辩护。
+
+Issue 166		L; U
+src: Boris Johnson has defended how Covid statistics are being used after data analysis in a presentation to explain the lockdown in London had to be revised.
+tar: 鲍里斯·约翰逊 (Boris Johnson) 在演示文稿中解释了必须修改伦敦的封锁措施后的数据分析后，为如何使用 Covid 统计数据进行了辩护。
+ref: 鲍里斯·约翰逊 (Boris Johnson) 在演示文稿中「解释了必须修改伦敦的封锁措施后的数据分析后，为如何使用 Covid 统计数据进行了辩护」。
+
+Issue 167		W
+src: A Chinese citizen, who worked at the same restaurant, was injured in the attack and is now in stable care, the embassy said.
+tar: 大使馆说，一名在同一家餐厅工作的中国公民在袭击中受伤，目前正在接受稳定治疗。
+ref: 大使馆说，一名在同一家餐厅工作的中国公民在袭击中受伤，目前正在接受稳定「治疗【护理】」。
+
+Issue 168		L; U
+src: The EU and UK chief negotiators have stepped back from post-Brexit trade talks after a member of the EU had tested positive for Covid-19.
+tar: 在一名欧盟成员国对 Covid-19 检测呈阳性后，欧盟和英国的首席谈判代表退出了脱欧后的贸易谈判。
+ref: 在一名欧盟成员国「对 Covid-19」 检测呈阳性后，欧盟和英国的首席谈判代表退出了脱欧后的贸易谈判。
+
+Issue 169		U
+src: The EU and UK chief negotiators have stepped back from post-Brexit membership talks after a member of the EU had tested positive for Covid-19.
+tar: 在一名欧盟成员国的 Covid-19 检测呈阳性后，欧盟和英国的首席谈判代表退出了脱欧后的成员国谈判。
+ref: 在一名欧盟成员国的 「Covid-19」 检测呈阳性后，欧盟和英国的首席谈判代表退出了脱欧后的成员国谈判。
+
+Issue 170		U; W
+src: He said the move would allow the government to boost the economy whenever it is needed rather than just after a major shock such as the pandemic.
+tar: 他表示，此举将使政府能够在需要时提振经济，而不是在大流行等重大冲击之后才采取行动。
+ref: 他表示，此举将使政府能够在需要时提振经济，而不是【仅仅】在「大流行【病】」等重大冲击之后才采取行动。
+
+Issue 171		W
+src: He said the move would allow the government to boost the economy whenever it is needed rather than just after a natural shock such as the pandemic.
+tar: 他说，此举将使政府能够在需要时提振经济，而不是仅仅在大流行等自然冲击之后。
+
+Issue 172		U; W
+src: He said the move would allow the government to boost the economy whenever it is needed rather than just after a big shock such as the pandemic.
+tar: 他说，此举将使政府能够在需要时提振经济，而不是在大流行等大冲击之后才采取行动。
+
+Issue 173		U; W
+src: He said the move would allow the government to boost the economy whenever it is needed rather than just after a large shock such as the pandemic.
+tar: 他说，此举将使政府能够在需要时提振经济，而不是在大流行等大冲击之后才采取行动。
+
+Issue 174		W
+src: He said the move would allow the government to boost the economy whenever it is needed rather than just after a global shock such as the pandemic.
+tar: 他说，此举将使政府能够在需要时提振经济，而不是仅仅在大流行等全球冲击之后。
+
+Issue 175		W
+src: He said the move would allow the government to boost the economy whenever it is needed rather than just after a small shock such as the pandemic.
+tar: 他说，此举将使政府能够在需要时提振经济，而不是仅仅在大流行等小冲击之后。
+
+Issue 176		W
+src: He said the move would allow the government to boost the economy whenever it is needed rather than just after a minor shock such as the pandemic.
+tar: 他说，此举将使政府能够在需要时提振经济，而不是仅仅在大流行等轻微冲击之后。
+
+Issue 177		W
+src: He said the move would allow the government to boost the economy whenever it is needed rather than just after a major event such as the pandemic.
+tar: 他说，此举将使政府能够在需要时提振经济，而不是仅仅在大流行等重大事件之后。
+
+Issue 178		W
+src: He said the move would allow the government to boost the economy whenever it is needed rather than just after a major crisis such as the pandemic.
+tar: 他说，此举将使政府能够在需要时提振经济，而不是仅仅在大流行等重大危机之后。
+
+Issue 179		W
+src: He said the move would allow the government to boost the economy whenever it is needed rather than just after a major emergency such as the pandemic.
+tar: 他说，此举将使政府能够在需要时提振经济，而不是仅仅在大流行等重大紧急情况之后。
+
+Issue 180		N
+src: A railway line used in Prince Charles' investiture at Caernarfon in 1969 should be considered for reopening, a Member of the Senedd has said.
+tar: Senedd 的一名成员表示，应该考虑重新开放 1969 年查尔斯王子在卡那封授勋时使用的一条铁路线。
+ref: 「Senedd」 的一名成员表示，应该考虑重新开放 1969 年查尔斯王子在卡那封授勋时使用的一条铁路线。
+
+Issue 181		N
+src: A railway carriage used in Prince Charles' investiture at Caernarfon in 1969 should be considered for reopening, a Member of the Senedd has said.
+tar: Senedd 的一名成员表示，1969 年查尔斯王子在卡那封授勋时使用的火车车厢应该考虑重新开放。
+ref: 「Senedd」 的一名成员表示，1969 年查尔斯王子在卡那封授勋时使用的火车车厢应该考虑重新开放。
+
+Issue 182		O
+src: The Chinese embassy urged Chinese residents, students and police in the Chinese enterprises to abide by Austrian police rules and stay at home to protect their safety.
+tar: 中国使馆敦促在奥中资企业的中国居民、学生和警察遵守奥地利警方的规定，留在家中，保护自身安全。
+ref: 中国使馆敦促「在奥」中资企业的中国居民、学生和警察遵守奥地利警方的规定，留在家中，保护自身安全。
+
+Issue 183		O; W
+src: The Chinese embassy urged Chinese residents, students and police in the Chinese enterprises to abide by Austrian residency rules and stay at home to protect their safety.
+tar: 中国使馆敦促在奥中资企业的中国居民、留学生和警察遵守在奥居留规定，居家隔离，注意安全。
+ref: 中国使馆敦促「在奥」中资企业的中国居民、「留学生」和警察遵守在奥居留规定，居家「隔离」，「注意安全」。
+
+Issue 184		O; W
+src: The Chinese embassy urged Chinese residents, students and police in the Chinese enterprises to abide by Austrian residence rules and stay at home to protect their safety.
+tar: 中国使馆敦促在奥中资企业的中国居民、留学生和警察遵守在奥居留规定，居家隔离，注意安全。
+
+Issue 185		U; W
+src: The toughest social curbs were announced amid concerns that hospitalisations and deaths could exceed those seen during the first wave of the virus in the next six months.
+tar: 由于担心未来六个月的住院和死亡人数可能超过第一波病毒浪潮期间的人数，因此宣布了最严厉的社会限制措施。
+ref: 「由于【在】」担心未来六个月的住院和死亡人数可能超过第一波病毒浪潮期间【看到】的人数【时/的情况下】，「因此」宣布了最严厉的社会限制措施。
+
+Issue 186		O; U
+src: The toughest social curbs were announced amid warnings that hospitalisations and deaths could exceed those seen during the first wave of the virus in the next six months.
+tar: 在警告称未来六个月的住院和死亡人数可能超过第一波病毒浪潮期间的情况下，政府宣布了最严厉的社会限制措施。
+ref: 在警告称未来六个月的住院和死亡人数可能超过第一波病毒浪潮期间【看到】的情况下，「政府」宣布了最严厉的社会限制措施。
+
+Issue 187		O; U
+src: The toughest social curbs were announced amid predictions that hospitalisations and deaths could exceed those seen during the first wave of the virus in the next six months.
+tar: 在预测未来六个月的住院和死亡人数可能超过第一波病毒浪潮期间的情况下，政府宣布了最严厉的社会限制措施。
+
+Issue 188		U; W
+src: The toughest social curbs were announced amid concerns that hospitalisations and deaths could exceed those seen during the initial wave of the virus in the next six months.
+tar: 由于担心住院和死亡人数可能会超过未来六个月病毒最初浪潮期间的人数，因此宣布了最严厉的社会限制措施。
+
+Issue 189		U; W
+src: The toughest social curbs were announced amid concerns that hospitalisations and deaths could exceed those seen during the first phase of the virus in the next six months.
+tar: 由于担心住院和死亡人数可能会超过未来六个月病毒第一阶段的人数，因此宣布了最严厉的社会限制措施。
+
+Issue 190		U; W
+src: The toughest social curbs were announced amid concerns that hospitalisations and deaths could exceed those seen during the first detection of the virus in the next six months.
+tar: 由于担心住院和死亡人数可能会超过未来六个月首次检测到该病毒时的人数，因此宣布了最严厉的社会限制措施。
+
+Issue 191		U; W
+src: The toughest social curbs were announced amid concerns that hospitalisations and deaths could exceed those seen during the first diagnosis of the virus in the next six months.
+tar: 由于担心住院和死亡人数可能会超过未来六个月首次诊断出该病毒时的人数，因此宣布了最严厉的社会限制措施。
+
+Issue 192		U; W
+src: The toughest social curbs were announced amid concerns that hospitalisations and deaths could exceed those seen during the first wave of the virus in the previous six months.
+tar: 由于担心住院和死亡人数可能超过前六个月第一波病毒期间的人数，因此宣布了最严厉的社会限制措施。
+
+Issue 193		U; W
+src: The toughest social curbs were announced amid concerns that hospitalisations and deaths could exceed those seen during the first wave of the virus in the past six months.
+tar: 由于担心住院和死亡人数可能超过过去六个月第一波病毒浪潮期间的人数，因此宣布了最严厉的社会限制措施。
+
+Issue 194		U; W
+src: The toughest social curbs were announced amid concerns that hospitalisations and deaths could exceed those seen during the first wave of the virus in the last six months.
+tar: 由于担心住院和死亡人数可能超过过去六个月第一波病毒浪潮期间的人数，因此宣布了最严厉的社会限制措施。
+
+Issue 195		U; W
+src: The toughest social curbs were announced amid concerns that hospitalisations and deaths could exceed those seen during the first wave of the virus in the first six months.
+tar: 由于担心住院和死亡人数可能会超过前六个月第一波病毒浪潮中的人数，因此宣布了最严厉的社会限制措施。
+
+Issue 196		U; W
+src: The toughest social curbs were announced amid concerns that hospitalisations and deaths could exceed those seen during the first wave of the virus in the prior six months.
+tar: 由于担心住院和死亡人数可能超过前六个月第一波病毒浪潮中的人数，因此宣布了最严厉的社会限制措施。
+
+Issue 197		U
+src: Chinese photographers enjoyed more international success as the result of the 56th Wldlife Photographer of the year awards were held at the natural history museum in London on Tuesday.
+tar: 由于第 56 届 Wldlife 摄影师年度大奖于周二在伦敦自然历史博物馆举行，中国摄影师在国际上取得了更大的成功。
+ref: 由于第 56 届 「Wldlife」 摄影师年度大奖于周二在伦敦自然历史博物馆举行，中国摄影师在国际上取得了更大的成功。
+
+Issue 198		U
+src: Chinese birds enjoyed more international success as the result of the 56th Wldlife Photographer of the year awards were held at the natural history museum in London on Tuesday.
+tar: 周二，在伦敦自然历史博物馆举行的第 56 届年度野生动物摄影师颁奖典礼上，中国鸟类在国际上获得了更大的成功。
+ref: 周二，「在【由于】」伦敦自然历史博物馆举行的第 56 届年度野生动物摄影师颁奖典礼「上」，中国鸟类在国际上获得了更大的成功。
+
+Issue 199		U
+src: Chinese scientists enjoyed more international success as the result of the 56th Wldlife Photographer of the year awards were held at the natural history museum in London on Tuesday.
+tar: 周二在伦敦自然历史博物馆举行的第 56 届年度野生动物摄影师颁奖典礼上，中国科学家在国际上取得了更大的成功。
+
+Issue 200		U
+src: Chinese photographers enjoyed more mainstream success as the result of the 56th Wldlife Photographer of the year awards were held at the natural history museum in London on Tuesday.
+tar: 由于第 56 届 Wldlife 摄影师年度大奖于周二在伦敦自然历史博物馆举行，中国摄影师获得了更多的主流成功。
+
+Issue 201		U
+src: Chinese photographers enjoyed more widespread success as the result of the 56th Wldlife Photographer of the year awards were held at the natural history museum in London on Tuesday.
+tar: 由于第 56 届 Wldlife 摄影师年度大奖于周二在伦敦自然历史博物馆举行，中国摄影师获得了更广泛的成功。
+
+Issue 202		U; W
+src: Chinese photographers enjoyed more popular success as the result of the 56th Wldlife Photographer of the year awards were held at the natural history museum in London on Tuesday.
+tar: 由于第 56 届 Wldlife 摄影师年度大奖于周二在伦敦自然历史博物馆举行，中国摄影师获得了更多的成功。
+ref: 由于第 56 届 「Wldlife」 摄影师年度大奖于周二在伦敦自然历史博物馆举行，中国摄影师获得了「更多的【更普遍的】」成功。
+
+Issue 203		U
+src: Chinese photographers enjoyed more international acclaim as the result of the 56th Wldlife Photographer of the year awards were held at the natural history museum in London on Tuesday.
+tar: 周二，在伦敦自然历史博物馆举行的第 56 届 Wldlife 年度摄影师颁奖典礼上，中国摄影师获得了更多的国际赞誉。
+
+Issue 204		U
+src: Chinese photographers enjoyed more international success as the ceremony of the 56th Wldlife Photographer of the year awards were held at the natural history museum in London on Tuesday.
+tar: 周二，第 56 届 Wldlife 摄影师年度颁奖典礼在伦敦自然历史博物馆举行，中国摄影师在国际上取得了更大的成功。
+
+Issue 205		U
+src: Chinese photographers enjoyed more international success as the announcement of the 56th Wldlife Photographer of the year awards were held at the natural history museum in London on Tuesday.
+tar: 周二，在伦敦自然历史博物馆举行的第 56 届 Wldlife 摄影师年度颁奖典礼上，中国摄影师在国际上取得了更大的成功。
+
+Issue 206		L; U
+src: US president Donald Trump's youngest son Barron Trump had COVID-19 with no symptoms and now is negative, first lady Melania Trump in a family health update on Wednesday.
+tar: 美国总统唐纳德·特朗普的小儿子巴伦·特朗普感染了 COVID-19，没有任何症状，现在呈阴性，第一夫人梅拉尼娅·特朗普在周三的家庭健康更新中。
+ref: 美国总统唐纳德·特朗普的小儿子巴伦·特朗普感染了 「COVID-19」，没有任何症状，现在呈阴性，第一夫人梅拉尼娅·特朗普「在周三的家庭健康更新中」。
+
+Issue 207		L; U
+src: US president Donald Trump's youngest son Barron Trump had COVID-19 with no problems and now is negative, first lady Melania Trump in a family health update on Wednesday.
+tar: 美国总统唐纳德·特朗普的小儿子巴伦·特朗普毫无问题地感染了 COVID-19，现在呈阴性，第一夫人梅拉尼娅·特朗普在周三的家庭健康更新中。
+
+Issue 208		U; W
+src: US president Donald Trump's youngest son Barron Trump had COVID-19 with no symptoms and now is alive, first lady Melania Trump in a family health update on Wednesday.
+tar: 美国总统唐纳德·特朗普的小儿子巴伦·特朗普感染了 COVID-19，没有任何症状，现在还活着，第一夫人梅拉尼娅·特朗普周三在家庭健康报告中说。
+ref: 美国总统唐纳德·特朗普的小儿子巴伦·特朗普感染了 「COVID-19」，没有任何症状，现在还活着，第一夫人梅拉尼娅·特朗普周三在家庭健康「报告中说【中 更新】」。
+
+Issue 209		U; W
+src: US president Donald Trump's youngest son Barron Trump had COVID-19 with no symptoms and now is dead, first lady Melania Trump in a family health update on Wednesday.
+tar: 美国总统唐纳德·特朗普的小儿子巴伦·特朗普感染了 COVID-19，没有任何症状，现在已经去世，第一夫人梅拉尼娅·特朗普周三在家庭健康报告中说。
+
+Issue 210		L; N; U
+src: US president Donald Trump's youngest son Barron Trump had COVID-19 with no symptoms and now is negative, first lady Melania Trump in a family health update on Twitter.
+tar: 美国总统唐纳德·特朗普的小儿子巴伦·特朗普感染了 COVID-19，没有任何症状，现在呈阴性，第一夫人梅拉尼娅·特朗普在 Twitter 上更新了家庭健康状况。
+ref: 美国总统唐纳德·特朗普的小儿子巴伦·特朗普感染了 「COVID-19」，没有任何症状，现在呈阴性，第一夫人梅拉尼娅·特朗普在 「Twitter」 上「更新了家庭健康状况」。
+
+Issue 211		L; N; U
+src: US president Donald Trump's youngest son Barron Trump had COVID-19 with no symptoms and now is negative, first lady Melania Trump in a family health update on Facebook.
+tar: 美国总统唐纳德·特朗普的小儿子巴伦·特朗普感染了 COVID-19，没有任何症状，现在呈阴性，第一夫人梅拉尼娅·特朗普在 Facebook 上更新了家庭健康状况。
+
+Issue 212		L; N; U
+src: US president Donald Trump's youngest son Barron Trump had COVID-19 with no symptoms and now is negative, first lady Melania Trump in a family health update on YouTube.
+tar: 美国总统唐纳德·特朗普的小儿子巴伦·特朗普感染了 COVID-19，没有任何症状，现在呈阴性，第一夫人梅拉尼娅·特朗普在 YouTube 上更新了家庭健康状况。
+
+Issue 213		U
+src: Experts predict road use will decline again this time around but, with roads and businesses staying open, the effect is not likely to be as dramatic as before.
+tar: 专家预测，这一次道路使用量将再次下降，但随着道路和企业的开放，影响可能不会像以前那样显着。
+ref: 专家预测，这一次道路使用量将再次下降，但随着道路和企业「的【保持】」开放，影响可能不会像以前那样显着。
+
+Issue 214		W
+src: Emanuel has expressed his concern in the post, telling allies that the nation's infrastructure challenges are so dire that a person with experience from the executive and legislative levels would be an asset.
+tar: 伊曼纽尔在帖子中表达了他的担忧，告诉盟友国家的基础设施挑战如此严峻，拥有行政和立法层面经验的人将是一笔财富。
+ref: 伊曼纽尔在帖子中表达了他的担忧，告诉盟友国家的基础设施挑战如此严峻，拥有行政和立法层面经验的人将是「一笔财富【有价值的人】」。
+
+Issue 215		L; W
+src: Emanuel has expressed his concern in the matter, telling allies that the nation's infrastructure challenges are so dire that a person with experience from the executive and legislative levels would be an asset.
+tar: 伊曼纽尔表达了他对此事的担忧，他告诉盟友，国家的基础设施挑战如此严峻，拥有行政和立法层面经验的人将是一笔财富。
+ref: 伊曼纽尔【在此事件中】表达了他「对此事」的担忧，他告诉盟友，国家的基础设施挑战如此严峻，拥有行政和立法层面经验的人将是「一笔财富」。
+
+Issue 216		L; W
+src: Emanuel has expressed his concern in the position, telling allies that the nation's infrastructure challenges are so dire that a person with experience from the executive and legislative levels would be an asset.
+tar: 伊曼纽尔表达了他对这一立场的担忧，他告诉盟友国家的基础设施挑战如此严峻，拥有行政和立法层面经验的人将是一笔财富。
+
+Issue 217		L; W
+src: Emanuel has expressed his concern in the appointment, telling allies that the nation's infrastructure challenges are so dire that a person with experience from the executive and legislative levels would be an asset.
+tar: 伊曼纽尔表达了他对这一任命的担忧，他告诉盟友，国家的基础设施挑战如此严峻，拥有行政和立法层面经验的人将是一笔财富。
+
+Issue 218		L; W
+src: Emanuel has expressed his concern in the role, telling allies that the nation's infrastructure challenges are so dire that a person with experience from the executive and legislative levels would be an asset.
+tar: 伊曼纽尔表达了他对这个角色的担忧，他告诉盟友国家的基础设施挑战如此严峻，拥有行政和立法层面经验的人将是一笔财富。
+
+Issue 219		L; W
+src: Emanuel has expressed his concern in the future, telling allies that the nation's infrastructure challenges are so dire that a person with experience from the executive and legislative levels would be an asset.
+tar: 伊曼纽尔表达了他对未来的担忧，他告诉盟友国家的基础设施挑战如此严峻，拥有行政和立法层面经验的人将是一笔财富。
+
+Issue 220		W
+src: Emanuel has expressed his concern in the post, telling reporters that the nation's infrastructure challenges are so dire that a person with experience from the executive and legislative levels would be an asset.
+tar: 伊曼纽尔在帖子中表达了他的担忧，他告诉记者，国家的基础设施挑战如此严峻，拥有行政和立法层面经验的人将是一笔财富。
+
+Issue 221		W
+src: Emanuel has expressed his concern in the post, telling voters that the nation's infrastructure challenges are so dire that a person with experience from the executive and legislative levels would be an asset.
+tar: 伊曼纽尔在帖子中表达了他的担忧，他告诉选民，国家的基础设施挑战如此严峻，拥有行政和立法层面经验的人将是一笔财富。
+
+Issue 222		W
+src: Emanuel has expressed his concern in the post, telling supporters that the nation's infrastructure challenges are so dire that a person with experience from the executive and legislative levels would be an asset.
+tar: 伊曼纽尔在帖子中表达了他的担忧，他告诉支持者国家的基础设施挑战如此严峻，拥有行政和立法层面经验的人将是一笔财富。
+
+Issue 223		W
+src: Emanuel has expressed his concern in the post, telling colleagues that the nation's infrastructure challenges are so dire that a person with experience from the executive and legislative levels would be an asset.
+tar: 伊曼纽尔在帖子中表达了他的担忧，他告诉同事，国家的基础设施挑战如此严峻，拥有行政和立法层面经验的人将是一笔财富。
+
+Issue 224		W
+src: Emanuel has expressed his concern in the post, telling constituents that the nation's infrastructure challenges are so dire that a person with experience from the executive and legislative levels would be an asset.
+tar: 伊曼纽尔在帖子中表达了他的担忧，他告诉选民，国家的基础设施挑战如此严峻，拥有行政和立法层面经验的人将是一笔财富。
+
+Issue 225		W
+src: Emanuel has expressed his concern in the post, telling critics that the nation's infrastructure challenges are so dire that a person with experience from the executive and legislative levels would be an asset.
+tar: 伊曼纽尔在帖子中表达了他的担忧，他告诉批评者，国家的基础设施挑战如此严峻，拥有行政和立法层面经验的人将是一笔财富。
+
+Issue 226		W
+src: Emanuel has expressed his concern in the post, telling journalists that the nation's infrastructure challenges are so dire that a person with experience from the executive and legislative levels would be an asset.
+tar: 伊曼纽尔在帖子中表达了他的担忧，他告诉记者，国家的基础设施挑战如此严峻，拥有行政和立法层面经验的人将是一笔财富。
+
+Issue 227		U
+src: Models of our scientists suggest that unless we leave now, we could see numbers over the winter that are twice as many or more compared with the first wave.
+tar: 我们科学家的模型表明，除非我们现在离开，否则我们可以看到整个冬天的数字是第一波的两倍或更多。
+ref: 我们科学家的模型表明，除非我们现在离开，否则我们可以看到整个冬天的数字【相比于第一波，】是第一波的两倍或更多。
+
+Issue 228		U
+src: Models of our scientists suggest that unless we leave now, we could see changes over the winter that are twice as many or more compared with the first wave.
+tar: 我们科学家的模型表明，除非我们现在离开，否则我们可以看到整个冬天的变化是第一波浪潮的两倍或更多。
+
+Issue 229		U
+src: Models of our scientists suggest that unless we leave now, we could see deaths over the ocean that are twice as many or more compared with the first wave.
+tar: 我们科学家的模型表明，除非我们现在离开，否则我们可能会看到海洋死亡人数是第一波浪潮的两倍或更多。
+
+Issue 230		U
+src: Models of our scientists suggest that unless we leave now, we could see deaths over the summer that are twice as many or more compared with the first wave.
+tar: 我们科学家的模型表明，除非我们现在离开，否则我们可能会看到夏季的死亡人数是第一波的两倍或更多。
+
+Issue 231		U
+src: Models of our scientists suggest that unless we leave now, we could see deaths over the winter that are twice as many or more compared with the previous wave.
+tar: 我们科学家的模型表明，除非我们现在离开，否则我们可能会看到冬季的死亡人数是上一波的两倍或更多。
+
+Issue 232		U
+src: Models of our scientists suggest that unless we leave now, we could see deaths over the winter that are twice as many or more compared with the original wave.
+tar: 我们科学家的模型表明，除非我们现在离开，否则我们可能会看到整个冬天的死亡人数是最初一波的两倍或更多。
+
+Issue 233		U
+src: Models of our scientists suggest that unless we leave now, we could see deaths over the winter that are twice as many or more compared with the first year.
+tar: 我们科学家的模型表明，除非我们现在离开，否则我们可能会看到冬季的死亡人数是第一年的两倍或更多。
+
+Issue 234		U
+src: Models of our scientists suggest that unless we leave now, we could see deaths over the winter that are twice as many or more compared with the first summer.
+tar: 我们科学家的模型表明，除非我们现在离开，否则我们可能会看到冬季的死亡人数是第一个夏季的两倍或更多。
+
+Issue 235		U
+src: Models of our scientists suggest that unless we leave now, we could see deaths over the winter that are twice as many or more compared with the first one.
+tar: 我们科学家的模型表明，除非我们现在离开，否则我们可能会看到冬天的死亡人数是第一个冬天的两倍或更多。
+
+Issue 236		U
+src: Models of our scientists suggest that unless we leave now, we could see deaths over the winter that are twice as many or more compared with the first season.
+tar: 我们科学家的模型表明，除非我们现在离开，否则我们可能会看到冬季的死亡人数是第一季的两倍或更多。
+
+Issue 237		U
+src: Models of our scientists suggest that unless we leave now, we could see deaths over the winter that are twice as many or more compared with the first month.
+tar: 我们科学家的模型表明，除非我们现在离开，否则我们可能会看到冬季的死亡人数是第一个月的两倍或更多。
+
+Issue 238		U
+src: President Trump said he feels good after testing positive for Covid-19 months ago and couldn't recall whether he was positive on the day of the first presidential inauguration.
+tar: 特朗普总统说，他在几个月前对 Covid-19 检测呈阳性后感觉很好，但不记得他在第一次总统就职典礼那天是否呈阳性。
+ref: 特朗普总统说，他在几个月前对 「Covid-19」 检测呈阳性后感觉很好，但不记得他在第一次总统就职典礼那天是否呈阳性。
+
+Issue 239		U
+src: President Trump said he feels good after testing positive for Covid-19 months ago and couldn't recall whether he was positive on the morning of the first presidential inauguration.
+tar: 特朗普总统说，他在几个月前对 Covid-19 检测呈阳性后感觉很好，但不记得他在第一次总统就职典礼那天早上是否呈阳性。
+
+Issue 240		W
+src: The rapid growth of artificial intelligence presents an opportunity for Africa to seek solutions to some of its most pressing problems, such as information security, healthcare and social services.
+tar: 人工智能的快速发展为非洲提供了寻求解决其一些最紧迫问题的机会，例如信息安全、医疗保健和社会服务。
+ref: 人工智能的快速发展为非洲提供了寻求「解决其一些最紧迫问题【的方法/其一些最紧迫问题的解决方法】」的机会，例如信息安全、医疗保健和社会服务。
+
+Issue 241		L
+src: AI is considered a combination of principles that allow machines to adopt humanlike intelligence to sense and understand their environments, and consequently take specific actions to fulfill a particular task.
+tar: 人工智能被认为是多种原则的结合，这些原则允许机器采用类人智能来感知和理解其环境，并因此采取特定行动来完成特定任务。
+ref: 人工智能被认为是多种原则的结合，「这些原则」允许机器采用类人智能来感知和理解其环境，并因此采取特定行动来完成特定任务。
+
+Issue 242		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a new market.
+tar: 随着一份设想新市场的报告的发布，非洲改善其能源部门并将更多家庭和企业连接到电力供应的计划正在酝酿之中。
+ref: 随着一份设想新市场的报告的发布，非洲改善其能源部门并将更多家庭和企业「连接到电力供应【与电力供应联系起来】」的计划正在「酝酿之中【聚集能量】」。
+
+Issue 243		O; W
+src: Projects for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a new market.
+tar: 随着一份设想新市场的报告的发布，非洲旨在改善其能源部门并使更多家庭和企业接入电力供应的项目正在加速推进。
+ref: 随着一份设想新市场的报告的发布，非洲「旨在」改善其能源部门并使更多家庭和企业「接入电力供应」的项目正在「加速推进」。
+
+Issue 244		W
+src: Plans for Africa to improve its energy security and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a new market.
+tar: 随着一份设想新市场的报告的发布，非洲改善能源安全和让更多家庭和企业接入电力供应的计划正在加速推进。
+
+Issue 245		W
+src: Plans for Africa to improve its energy infrastructure and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a new market.
+tar: 随着一份设想新市场的报告的发布，非洲改善其能源基础设施并使更多家庭和企业接入电力供应的计划正在加速推进。
+
+Issue 246		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power plants are gathering steam with the release of a report that envisages a new market.
+tar: 随着一份设想新市场的报告的发布，非洲改善其能源部门并将更多家庭和企业连接到发电厂的计划正在加速推进。
+
+Issue 247		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power grid are gathering steam with the release of a report that envisages a new market.
+tar: 随着一份设想新市场的报告的发布，非洲改善其能源部门并将更多家庭和企业接入电网的计划正在加速推进。
+
+Issue 248		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power sources are gathering steam with the release of a report that envisages a new market.
+tar: 随着一份设想新市场的报告的发布，非洲改善其能源部门并将更多家庭和企业连接到电源的计划正在加速进行。
+
+Issue 249		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power networks are gathering steam with the release of a report that envisages a new market.
+tar: 随着一份设想新市场的报告的发布，非洲改善其能源部门并将更多家庭和企业连接到电力网络的计划正在酝酿之中。
+
+Issue 250		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the development of a report that envisages a new market.
+tar: 随着一份设想新市场的报告的制定，非洲改善其能源部门并为更多家庭和企业连接电力供应的计划正在加速推进。
+
+Issue 251		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the preparation of a report that envisages a new market.
+tar: 随着一份设想新市场的报告的准备，非洲改善其能源部门并使更多家庭和企业接入电力供应的计划正在加速推进。
+
+Issue 252		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a plan that envisages a new market.
+tar: 随着一项设想新市场的计划的发布，非洲改善其能源部门并将更多家庭和企业连接到电力供应的计划正在加速推进。
+
+Issue 253		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a study that envisages a new market.
+tar: 随着一项设想新市场的研究的发布，非洲改善其能源部门并为更多家庭和企业连接电力供应的计划正在加速推进。
+
+Issue 254		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a paper that envisages a new market.
+tar: 随着一份设想新市场的文件的发布，非洲改善其能源部门并为更多家庭和企业连接电力供应的计划正在加速推进。
+
+Issue 255		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a law that envisages a new market.
+tar: 随着一项设想新市场的法律的发布，非洲改善其能源部门并将更多家庭和企业连接到电力供应的计划正在加速进行。
+
+Issue 256		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a strategy that envisages a new market.
+tar: 随着一项设想新市场的战略的发布，非洲改善其能源部门并将更多家庭和企业连接到电力供应的计划正在加速推进。
+
+Issue 257		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a bill that envisages a new market.
+tar: 随着一项设想新市场的法案的发布，非洲改善其能源部门并将更多家庭和企业连接到电力供应的计划正在加速进行。
+
+Issue 258		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a global market.
+tar: 随着一份设想全球市场的报告的发布，非洲改善其能源部门并使更多家庭和企业接入电力供应的计划正在加速推进。
+
+Issue 259		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a green market.
+tar: 随着一份设想绿色市场的报告的发布，非洲改善其能源部门并将更多家庭和企业连接到电力供应的计划正在加速进行。
+
+Issue 260		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a single market.
+tar: 随着一份设想单一市场的报告的发布，非洲改善其能源部门并为更多家庭和企业连接电力供应的计划正在加速推进。
+
+Issue 261		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a competitive market.
+tar: 随着一份设想竞争激烈的市场的报告的发布，非洲改善其能源部门并将更多家庭和企业连接到电力供应的计划正在酝酿之中。
+
+Issue 262		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a common market.
+tar: 随着一份设想共同市场的报告的发布，非洲改善其能源部门并使更多家庭和企业接入电力供应的计划正在加速推进。
+
+Issue 263		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a new strategy.
+tar: 随着一份设想新战略的报告的发布，非洲改善其能源部门并使更多家庭和企业接入电力供应的计划正在加速推进。
+
+Issue 264		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a new decade.
+tar: 随着一份展望新十年的报告的发布，非洲改善其能源部门并为更多家庭和企业提供电力供应的计划正在酝酿之中。
+ref: 随着一份展望新十年的报告的发布，非洲改善其能源部门并为更多家庭和企业「提供」电力供应的计划正在「酝酿之中」。
+
+Issue 265		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a new economy.
+tar: 随着一份设想新经济的报告的发布，非洲改善其能源部门并为更多家庭和企业提供电力供应的计划正在加速推进。
+
+Issue 266		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a new policy.
+tar: 随着一份设想新政策的报告的发布，非洲改善其能源部门并为更多家庭和企业连接电力供应的计划正在加速推进。
+
+Issue 267		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a new infrastructure.
+tar: 随着一份设想新基础设施的报告的发布，非洲改善其能源部门并为更多家庭和企业连接电力供应的计划正在加速推进。
+
+Issue 268		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a new generation.
+tar: 随着一份设想新一代的报告的发布，非洲改善其能源部门并为更多家庭和企业连接电力供应的计划正在加速推进。
+
+Issue 269		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a new agenda.
+tar: 随着一份设想新议程的报告的发布，非洲改善其能源部门并为更多家庭和企业连接电力供应的计划正在加速推进。
+
+Issue 270		W
+src: Plans for Africa to improve its energy sector and connect more households and enterprises to power supplies are gathering steam with the release of a report that envisages a new plan.
+tar: 随着一份设想新计划的报告的发布，非洲改善其能源部门并为更多家庭和企业连接电力供应的计划正在加速推进。
+
+Issue 271		W
+src: The lockdown, which begins on Thursday, calls for non-essential shops to close, and to work from home if required, and most sporting and leisure facilities to be closed.
+tar: 周四开始的封锁要求关闭非必需品商店，并在需要时在家工作，并关闭大多数体育和休闲设施。
+ref: 周四开始的封锁要求关闭非必需品商店，并「在需要时【如果需要】」在家工作，并关闭大多数体育和休闲设施。
+
+Issue 272		W
+src: The lockdown, which begins on Thursday, calls for non-essential workers to close, and to work from home if required, and most sporting and leisure facilities to be closed.
+tar: 封锁从周四开始，要求非必要工作人员关闭，并在需要时在家工作，并关闭大多数体育和休闲设施。
+
+Issue 273		W
+src: The lockdown, which begins on Thursday, calls for non-essential personnel to close, and to work from home if required, and most sporting and leisure facilities to be closed.
+tar: 封锁从周四开始，要求非必要人员关闭，并在需要时在家工作，并关闭大多数体育和休闲设施。
+
+Issue 274		W
+src: The lockdown, which begins on Thursday, calls for non-essential employees to close, and to work from home if required, and most sporting and leisure facilities to be closed.
+tar: 封锁于周四开始，要求非必要员工关闭，并在需要时在家工作，并关闭大多数体育和休闲设施。
+
+Issue 275		U
+src: New Zealand's election will hardly change the historical course of the country's history with China despite some challenging moments during the election, analysts said ahead of the election on Saturday.
+tar: 分析人士在周六的选举前表示，尽管在选举期间遇到了一些具有挑战性的时刻，但新西兰的选举几乎不会改变该国与中国的历史进程。
+ref: 分析人士在周六的选举前表示，尽管在选举期间遇到了一些具有挑战性的时刻，但新西兰的选举几乎不会改变该国与中国【历史】的历史进程。
+
+Issue 276		W
+src: Greg Abbott's order limiting ballot drop boxes to one per county, creating more uncertainty into the battle over mail-in voting in the state.
+tar: 格雷格·阿博特 (Greg Abbott) 的命令将选票投递箱限制在每个县一个，这给该州邮寄投票的斗争带来了更多不确定性。
+ref: 格雷格·阿博特 (Greg Abbott) 的命令将选票投递箱限制在每个县一个，这给该州邮寄投票的斗争「带来【创造】」了更多不确定性。
+
+Issue 277		W
+src: Governor Abbott's order limiting ballot drop boxes to one per county, creating more uncertainty into the battle over mail-in voting in the state.
+tar: 州长阿博特下令限制每个县只能使用一个投票箱，这给该州邮寄投票的斗争带来了更多不确定性。
+
+Issue 278		W
+src: Greg Abbott's decision limiting ballot drop boxes to one per county, creating more uncertainty into the battle over mail-in voting in the state.
+tar: 格雷格·阿博特 (Greg Abbott) 决定将每个县的投票箱限制在一个，这给该州邮寄投票的斗争带来了更多不确定性。
+
+Issue 279		W
+src: Greg Abbott's order limiting ballot drop votes to one per county, creating more uncertainty into the battle over mail-in voting in the state.
+tar: 格雷格·阿博特 (Greg Abbott) 的命令将选票限制为每个县只能投一票，这给该州邮寄投票的斗争带来了更多不确定性。
+
+Issue 280		W
+src: Greg Abbott's order limiting ballot drop boxes to one per ballot, creating more uncertainty into the battle over mail-in voting in the state.
+tar: 格雷格·阿博特 (Greg Abbott) 的命令将选票投递箱限制为每张选票只能使用一个，这给该州邮寄投票的斗争带来了更多不确定性。
+
+Issue 281		W
+src: Greg Abbott's order limiting ballot drop boxes to one per household, creating more uncertainty into the battle over mail-in voting in the state.
+tar: 格雷格·阿博特 (Greg Abbott) 的命令将选票投递箱限制在每户一个，这给该州邮寄投票的斗争带来了更多不确定性。
+
+Issue 282		W
+src: Greg Abbott's order limiting ballot drop boxes to one per state, creating more uncertainty into the battle over mail-in voting in the state.
+tar: 格雷格·阿博特 (Greg Abbott) 的命令将每个州的投票箱限制在一个，这给该州邮寄投票的斗争带来了更多不确定性。
+
+Issue 283		W
+src: Greg Abbott's order limiting ballot drop boxes to one per person, creating more uncertainty into the battle over mail-in voting in the state.
+tar: 格雷格·阿博特 (Greg Abbott) 的命令将选票投递箱限制在每人一个，这给该州邮寄投票的斗争带来了更多不确定性。
+
+Issue 284		W
+src: Greg Abbott's order limiting ballot drop boxes to one per county, creating more uncertainty into the battle over mail-in voting in the district.
+tar: 格雷格·阿博特 (Greg Abbott) 的命令将选票投递箱限制在每个县一个，这给该地区邮寄投票的斗争带来了更多不确定性。
+
+Issue 285		W
+src: Greg Abbott's order limiting ballot drop boxes to one per county, creating more uncertainty into the battle over mail-in voting in the region.
+tar: 格雷格·阿博特 (Greg Abbott) 的命令将选票投递箱限制在每个县一个，这给该地区邮寄投票的斗争带来了更多不确定性。
+
+Issue 286		L
+src: Trump extended the invitation on Thursday morning to the Michigan lawmakers by becoming the state senate's Republican majority leader, the person familiar said.
+tar: 知情人士说，周四上午，特朗普成为州参议院共和党多数党领袖，向密歇根州议员发出了邀请。
+ref: 知情人士说，周四上午，特朗普【通过】成为州参议院共和党多数党领袖，向密歇根州议员发出了邀请。
+
+Issue 287		L; U
+src: Trump extended the invitation on Thursday morning to the Michigan lawmakers by becoming the state senate's Republican majority leader, the word familiar said.
+tar: 周四上午，特朗普成为州参议院共和党多数党领袖，向密歇根州议员发出了邀请。
+ref: 【…】周四上午，特朗普【…】成为州参议院共和党多数党领袖，向密歇根州议员发出了邀请。
+
+Issue 288		O; U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Tuesday, four days after the devastating earthquake.
+tar: 周二，即毁灭性地震发生四天后，救援人员救出幸存者的希望开始渺茫，但救援人员还是从一座倒塌的教堂建筑的废墟中救出了一名年轻女孩。
+ref: 周二，即毁灭性地震发生四天后，【即使/在】「救援人员」救出幸存者的希望开始渺茫【时】，「但」救援人员还是从一座倒塌的教堂建筑的废墟中【活着】救出了一名年轻女孩。
+
+Issue 289		U
+src: Just as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Tuesday, four days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，周二，也就是毁灭性地震发生四天后，救援人员将一名年轻女孩从一座倒塌的教堂建筑的废墟中救了出来。
+
+Issue 290		L
+src: Even as hope of reaching survivors began to fade, rescuers pulled a small girl out alive from the rubble of a collapsed church building on Tuesday, four days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，救援人员在毁灭性地震发生四天后的周二，从一座倒塌的教堂建筑的废墟中救出了一名活着的小女孩。
+ref: 就在救助幸存者的希望开始消退之际，救援人员在毁灭性地震发生四天后的周二，从一座倒塌的教堂建筑的废墟中【活着】救出了一名「活着的」小女孩。
+
+Issue 291		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young woman out alive from the rubble of a collapsed church building on Tuesday, four days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，周二，也就是毁灭性地震发生四天后，救援人员从一座倒塌的教堂建筑的废墟中救出了一名年轻女子。
+
+Issue 292		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young priest out alive from the rubble of a collapsed church building on Tuesday, four days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，救援人员在周二，也就是毁灭性地震发生四天后，将一名年轻的牧师从一座倒塌的教堂建筑的废墟中救了出来。
+
+Issue 293		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the roof of a collapsed church building on Tuesday, four days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，周二，也就是毁灭性地震发生四天后，救援人员将一名年轻女孩从倒塌的教堂屋顶上救了出来。
+
+Issue 294		O; U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a nearby church building on Tuesday, four days after the devastating earthquake.
+tar: 周二，即毁灭性地震发生四天后，救援人员救出幸存者的希望开始渺茫，但救援人员还是从附近一座教堂的废墟中救出了一名年轻女孩。
+
+Issue 295		O; U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a local church building on Tuesday, four days after the devastating earthquake.
+tar: 周二，即毁灭性地震发生四天后，救援人员救出幸存者的希望开始渺茫，但救援人员还是从当地一座教堂的废墟中救出了一名年轻女孩。
+
+Issue 296		O; U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a large church building on Tuesday, four days after the devastating earthquake.
+tar: 周二，在毁灭性地震发生四天后，救援人员救出幸存者的希望开始渺茫，但救援人员还是从一座大型教堂建筑的废墟中救出了一名年轻女孩。
+
+Issue 297		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a small church building on Tuesday, four days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，周二，也就是毁灭性地震发生四天后，救援人员从一座小教堂的废墟中救出了一名年轻女孩。
+
+Issue 298		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed government building on Tuesday, four days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，周二，也就是毁灭性地震发生四天后，救援人员从一座倒塌的政府大楼的废墟中救出了一名年轻女孩。
+
+Issue 299		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church church on Tuesday, four days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，周二，也就是毁灭性地震发生四天后，救援人员从一座倒塌的教堂的废墟中救出了一名年轻女孩。
+
+Issue 300		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church roof on Tuesday, four days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，救援人员在毁灭性地震发生四天后的周二，将一名年轻女孩从倒塌的教堂屋顶的废墟中救了出来。
+
+Issue 301		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church basement on Tuesday, four days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，救援人员在毁灭性地震发生四天后的周二，将一名年轻女孩从倒塌的教堂地下室的废墟中救了出来。
+
+Issue 302		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Sunday, four days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，周日，也就是毁灭性地震发生四天后，救援人员从一座倒塌的教堂建筑的废墟中救出了一名年轻女孩。
+
+Issue 303		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Saturday, four days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，周六，也就是毁灭性地震发生四天后，救援人员从一座倒塌的教堂建筑的废墟中救出了一名年轻女孩。
+
+Issue 304		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Friday, four days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，救援人员在毁灭性地震发生四天后的周五，从一座倒塌的教堂建筑的废墟中救出了一名年轻女孩。
+
+Issue 305		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Wednesday, four days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，救援人员于周三，也就是毁灭性地震发生四天后，从一座倒塌的教堂建筑的废墟中救出了一名年轻女孩。
+
+Issue 306		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Thursday, four days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，救援人员于星期四，也就是毁灭性地震发生四天后，从一座倒塌的教堂建筑的废墟中救出了一名年轻女孩。
+
+Issue 307		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Monday, four days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始渺茫之际，周一，也就是毁灭性地震发生四天后，救援人员从一座倒塌的教堂建筑的废墟中救出了一名年轻女孩。
+
+Issue 308		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Halloween, four days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始渺茫之际，救援人员在万圣节，也就是毁灭性地震发生四天后，从一座倒塌的教堂建筑的废墟中救出了一名年轻女孩。
+
+Issue 309		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Christmas, four days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始渺茫之际，救援人员在毁灭性地震发生四天后的圣诞节那天，从倒塌的教堂建筑的废墟中救出了一名年轻女孩。
+
+Issue 310		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Tuesday, two days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，周二，也就是毁灭性地震发生两天后，救援人员从一座倒塌的教堂建筑的废墟中救出了一名年轻女孩。
+
+Issue 311		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Tuesday, three days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，救援人员在毁灭性地震发生三天后的周二，将一名年轻女孩从一座倒塌的教堂建筑的废墟中救了出来。
+
+Issue 312		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Tuesday, six days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，周二，也就是毁灭性地震发生六天后，救援人员从一座倒塌的教堂建筑的废墟中救出了一名年轻女孩。
+
+Issue 313		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Tuesday, eight days after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，周二，也就是毁灭性地震发生八天后，救援人员将一名年轻女孩从一座倒塌的教堂建筑的废墟中救了出来。
+
+Issue 314		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Tuesday, four weeks after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，周二，也就是毁灭性地震发生四个星期后，救援人员从一座倒塌的教堂建筑的废墟中救出了一名年轻女孩。
+
+Issue 315		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Tuesday, four months after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，周二，即毁灭性地震发生四个月后，救援人员将一名年轻女孩从一座倒塌的教堂建筑的废墟中救了出来。
+
+Issue 316		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Tuesday, four years after the devastating earthquake.
+tar: 就在救助幸存者的希望开始消退之际，周二，在毁灭性地震发生四年后，救援人员从一座倒塌的教堂建筑的废墟中救出了一名年轻女孩。
+
+Issue 317		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Tuesday, four days after the devastating fire.
+tar: 就在救助幸存者的希望开始消退之际，救援人员在毁灭性大火发生四天后的周二，将一名年轻女孩从倒塌的教堂建筑的废墟中救了出来。
+
+Issue 318		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Tuesday, four days after the devastating tornado.
+tar: 就在救助幸存者的希望开始消退之际，救援人员在毁灭性龙卷风发生四天后的周二，将一名年轻女孩从一座倒塌的教堂建筑的废墟中救了出来。
+
+Issue 319		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Tuesday, four days after the devastating explosion.
+tar: 就在救助幸存者的希望开始消退之际，救援人员在毁灭性爆炸发生四天后的周二，从一座倒塌的教堂建筑的废墟中救出了一名年轻女孩。
+
+Issue 320		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Tuesday, four days after the devastating disaster.
+tar: 就在救助幸存者的希望开始消退之际，周二，也就是毁灭性灾难发生四天后，救援人员从一座倒塌的教堂建筑的废墟中救出了一名年轻女孩。
+
+Issue 321		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Tuesday, four days after the devastating hurricane.
+tar: 就在救助幸存者的希望开始消退之际，周二，也就是毁灭性飓风发生四天后，救援人员从一座倒塌的教堂建筑的废墟中救出了一名年轻女孩。
+
+Issue 322		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Tuesday, four days after the devastating flood.
+tar: 就在救助幸存者的希望开始消退之际，周二，也就是毁灭性洪水发生四天后，救援人员从一座倒塌的教堂建筑的废墟中救出了一名年轻女孩。
+
+Issue 323		U
+src: Even as hope of reaching survivors began to fade, rescuers pulled a young girl out alive from the rubble of a collapsed church building on Tuesday, four days after the devastating blaze.
+tar: 就在救助幸存者的希望开始消退之际，救援人员在毁灭性大火发生四天后的周二，将一名年轻女孩从倒塌的教堂建筑的废墟中救了出来。
+
+Issue 324		N
+src: It is taking shape under a collaboration with the university of Southern California's Shoah Foundation, which uses technology to not only digitally capture survivors'narratives but also allow them to interact online with visitors.
+tar: 它正在与南加州大学 Shoah Foundation 的合作下成形，该基金会使用技术不仅以数字方式捕捉幸存者的叙述，还允许他们与访客在线互动。
+ref: 它正在与南加州大学 「Shoah Foundation」 的合作下成形，该基金会使用技术不仅以数字方式捕捉幸存者的叙述，还允许他们与访客在线互动。
+
+Issue 325		N; U
+src: It is taking shape under a partnership with the university of Southern California's Shoah Foundation, which uses technology to not only digitally capture survivors' narratives but also allow them to interact online with visitors.
+tar: 它正在与南加州大学的 Shoah Foundation 建立合作伙伴关系，该基金会不仅使用技术以数字方式捕捉幸存者的叙述，还允许他们与访客在线互动。
+ref: 它正在与南加州大学的 「Shoah Foundation」 建立合作伙伴关系【(的情况)下 成型/形成/初具规模】，该基金会不仅使用技术以数字方式捕捉幸存者的叙述，还允许他们与访客在线互动。
+
+Issue 326		N
+src: It is taking shape under a collaboration with the university of Northern California's Shoah Foundation, which uses technology to not only digitally capture survivors' narratives but also allow them to interact online with visitors.
+tar: 它正在与北加州大学的 Shoah Foundation 合作下成形，该基金会不仅使用技术以数字方式捕捉幸存者的叙述，还允许他们与访客在线互动。
+
+Issue 327		N
+src: It is taking shape under a collaboration with the university of Southern California's Shoah Project, which uses technology to not only digitally capture survivors' narratives but also allow them to interact online with visitors.
+tar: 它正在与南加州大学的 Shoah Project 合作下成形，该项目不仅使用技术以数字方式捕捉幸存者的叙述，还允许他们与访客在线互动。
+
+Issue 328		N
+src: It is taking shape under a collaboration with the university of Southern California's Shoah Initiative, which uses technology to not only digitally capture survivors' narratives but also allow them to interact online with visitors.
+tar: 它正在与南加州大学的 Shoah Initiative 合作下成形，该计划不仅使用技术以数字方式捕捉幸存者的叙述，还允许他们与访客在线互动。
+
+Issue 329		N
+src: It is taking shape under a collaboration with the university of Southern California's Shoah Program, which uses technology to not only digitally capture survivors' narratives but also allow them to interact online with visitors.
+tar: 它正在与南加州大学的 Shoah 计划合作下成形，该计划不仅使用技术以数字方式捕捉幸存者的叙述，还允许他们与访客在线互动。
+
+Issue 330		N
+src: It is taking shape under a collaboration with the university of Southern California's Shoah Foundation, which uses technology to not only digitally capture survivors' narratives but also allow them to interact online with survivors.
+tar: 在与南加州大学 Shoah Foundation 的合作下，它正在成形，该基金会不仅使用技术以数字方式捕捉幸存者的叙述，还允许他们与幸存者在线互动。
+
+Issue 331		N
+src: It is taking shape under a collaboration with the university of Southern California's Shoah Foundation, which uses technology to not only digitally capture survivors' narratives but also allow them to interact online with viewers.
+tar: 它正在与南加州大学的 Shoah Foundation 合作下成形，该基金会不仅使用技术以数字方式捕捉幸存者的叙述，还允许他们与观众在线互动。
+
+Issue 332		L
+src: The vote had been initiated by the populist right-wing swiss people's party, known as the SVP, which claimed current events would lead to overpopulation, rising housing costs and a strained welfare system.
+tar: 投票是由民粹主义右翼瑞士人民党发起的，称为 SVP，声称当前的事件将导致人口过剩、住房成本上升和福利制度紧张。
+ref: 投票是由【被称为SVP的】民粹主义右翼瑞士人民党发起的「，称为 SVP，【该党】」声称当前的事件将导致人口过剩、住房成本上升和福利制度紧张。
+
+Issue 333		L
+src: The revolt had been initiated by the populist right-wing swiss people's party, known as the SVP, which claimed current events would lead to overpopulation, rising housing costs and a strained welfare system.
+tar: 叛乱是由民粹主义右翼瑞士人民党发起的，被称为 SVP，该党声称当前的事件将导致人口过剩、住房成本上升和福利制度紧张。
+
+Issue 334		L
+src: The vote had been initiated by the populist right-wing swiss people's movement, known as the SVP, which claimed current events would lead to overpopulation, rising housing costs and a strained welfare system.
+tar: 投票是由民粹主义右翼瑞士人民运动发起的，被称为 SVP，该运动声称当前的事件将导致人口过剩、住房成本上升和福利体系紧张。
+
+Issue 335		W
+src: Gyms and non-essential facilities in all levels are expected to be allowed to reopen when Friday's lockdown begins.
+tar: 周五的封锁开始后，各级健身房和非必要设施预计将被允许重新开放。
+ref: 【当】周五的封锁开始「后【时】」，各级健身房和非必要设施预计将被允许重新开放。
+
+Issue 336		L; U
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible option to get this virus under control at a local level, with strong local leadership and strong local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为在地方一级和强有力的地方领导下，尝试一切可能的选择来控制这种病毒是正确的。
+ref: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为在「地方一级和」强有力的地方领导【和 强有力的地方领导】下，尝试一切可能的选择来【在地方层面】控制这种病毒是正确的。
+
+Issue 337		L
+src: I know some in the Council believe we should have reached this decision earlier, but I believe it was right to try every possible option to get this virus under control at a local level, with strong local leadership and strong local leadership.
+tar: 我知道理事会中的一些人认为我们应该早点做出这个决定，但我认为尝试一切可能的选择是正确的，以便在地方层面控制这种病毒，并有强有力的地方领导和强有力的地方领导。
+ref: 我知道理事会中的一些人认为我们应该早点做出这个决定，但我认为【在 强有力的地方领导和强有力的地方领导 下】尝试一切可能的选择是正确的，以便在地方层面控制这种病毒「，并有强有力的地方领导和强有力的地方领导」。
+
+Issue 338		L
+src: I know some in the House believe we should have reached this conclusion earlier, but I believe it was right to try every possible option to get this virus under control at a local level, with strong local leadership and strong local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点得出这个结论，但我认为尝试一切可能的选择是正确的，以便在地方层面控制这种病毒，并有强有力的地方领导和强有力的地方领导。
+
+Issue 339		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every available option to get this virus under control at a local level, with strong local leadership and strong local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为尝试一切可用的选择是正确的，以便在地方层面控制这种病毒，并有强有力的地方领导和强有力的地方领导。
+
+Issue 340		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every feasible option to get this virus under control at a local level, with strong local leadership and strong local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为尝试一切可行的选择是正确的，以便在地方层面控制这种病毒，并有强有力的地方领导和强有力的地方领导。
+
+Issue 341		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible way to get this virus under control at a local level, with strong local leadership and strong local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为在地方层面上尽一切可能控制这种病毒是正确的，并有强有力的地方领导和强有力的地方领导。
+
+Issue 342		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible method to get this virus under control at a local level, with strong local leadership and strong local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为在地方层面上尝试一切可能的方法来控制这种病毒是正确的，并且要有强有力的地方领导和强有力的地方领导。
+
+Issue 343		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible option to get this problem under control at a local level, with strong local leadership and strong local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为尝试一切可能的选择是正确的，以便在地方层面控制这个问题，并有强有力的地方领导和强有力的地方领导。
+
+Issue 344		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible option to get this issue under control at a local level, with strong local leadership and strong local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为尝试一切可能的选择是正确的，以便在地方层面控制这个问题，并有强有力的地方领导和强有力的地方领导。
+
+Issue 345		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible option to get this thing under control at a local level, with strong local leadership and strong local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为尝试一切可能的选择是正确的，以便在地方层面控制这件事，并有强有力的地方领导和强有力的地方领导。
+
+Issue 346		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible option to get this mess under control at a local level, with strong local leadership and strong local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为尝试一切可能的选择是正确的，以便在地方层面控制住这个烂摊子，并有强有力的地方领导和强有力的地方领导。
+
+Issue 347		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible option to get this virus under control at a national level, with strong local leadership and strong local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为在国家层面上尝试一切可能的选择来控制这种病毒是正确的，并有强有力的地方领导和强有力的地方领导。
+
+Issue 348		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible option to get this virus under control at a global level, with strong local leadership and strong local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为在全球范围内尝试一切可能的选择来控制这种病毒是正确的，在强有力的地方领导和强有力的地方领导下。
+
+Issue 349		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible option to get this virus under control at a federal level, with strong local leadership and strong local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为在联邦层面尝试一切可能的选择来控制这种病毒是正确的，并有强有力的地方领导和强有力的地方领导。
+
+Issue 350		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible option to get this virus under control at a regional level, with strong local leadership and strong local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为在地区层面上尝试一切可能的选择来控制这种病毒是正确的，并有强有力的地方领导和强有力的地方领导。
+
+Issue 351		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible option to get this virus under control at a statewide level, with strong local leadership and strong local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为在全州范围内尝试一切可能的选择来控制这种病毒是正确的，并有强有力的地方领导和强有力的地方领导。
+
+Issue 352		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible option to get this virus under control at a nationwide level, with strong local leadership and strong local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为在全国范围内尝试一切可能的选择来控制这种病毒是正确的，并且要有强有力的地方领导和强有力的地方领导。
+
+Issue 353		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible option to get this virus under control at a local level, with efficient local leadership and strong local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为尝试一切可能的选择是正确的，以便在地方层面控制这种病毒，并有高效的地方领导和强有力的地方领导。
+
+Issue 354		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible option to get this virus under control at a local level, with strong local security and strong local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为尝试一切可能的选择是正确的，以在地方层面控制这种病毒，并有强大的地方安全和强有力的地方领导。
+
+Issue 355		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible option to get this virus under control at a local level, with strong local infrastructure and strong local leadership.
+tar: 我知道众议院的一些人认为我们应该早点做出这个决定，但我认为尝试一切可能的选择是正确的，以便在地方层面控制这种病毒，并拥有强大的地方基础设施和强有力的地方领导。
+
+Issue 356		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible option to get this virus under control at a local level, with strong local leadership and effective local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为在地方层面上尝试一切可能的选择来控制这种病毒是正确的，地方领导层要强有力，地方领导层要有效。
+
+Issue 357		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible option to get this virus under control at a local level, with strong local leadership and supportive local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为在地方领导强有力和支持的情况下，在地方层面尝试一切可能的选择来控制这种病毒是正确的。
+ref: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为在地方领导强有力和支持的情况下，「在地方层面」尝试一切可能的选择来【在地方层面】控制这种病毒是正确的。
+
+Issue 358		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible option to get this virus under control at a local level, with strong local leadership and competent local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为在地方层面上尝试一切可能的选择来控制这种病毒是正确的，并有强有力的地方领导和称职的地方领导。
+
+Issue 359		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible option to get this virus under control at a local level, with strong local leadership and loyal local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为在地方层面上尝试一切可能的选择来控制这种病毒是正确的，并有强有力的地方领导和忠诚的地方领导。
+
+Issue 360		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible option to get this virus under control at a local level, with strong local leadership and capable local leadership.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为在地方层面上尝试一切可能的选择来控制这种病毒是正确的，并有强有力的地方领导和有能力的地方领导。
+
+Issue 361		L
+src: I know some in the House believe we should have reached this decision earlier, but I believe it was right to try every possible option to get this virus under control at a local level, with strong local leadership and strong local funding.
+tar: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为在地方层面强有力的领导和强大的地方资金支持下，尝试一切可能的选择来控制这种病毒是正确的。
+ref: 我知道众议院中的一些人认为我们应该早点做出这个决定，但我认为「在地方层面」强有力的领导和强大的地方资金支持下，尝试一切可能的选择来【…】控制这种病毒是正确的。
+
+Issue 362		N
+src: Offices at Marquette City Hall, the arts and Culture Center in Peter White Public Library, the Service Center and Lakeview Arena will be closed for the Christmas and Halloween holidays.
+tar: Marquette 市政厅的办公室、Peter White 公共图书馆的艺术和文化中心、服务中心和 Lakeview Arena 将在圣诞节和万圣节假期期间关闭。
+ref: 「Marquette」 市政厅的办公室、「Peter White」 公共图书馆的艺术和文化中心、服务中心和 「Lakeview Arena」 将在圣诞节和万圣节假期期间关闭。
+
+Issue 363		N
+src: Offices at Marquette City Hall, the arts and Culture Center in Peter White Public Library, the Service Center and Lakeview Hospital will be closed for the Christmas and Halloween holidays.
+tar: Marquette 市政厅的办公室、Peter White 公共图书馆的艺术和文化中心、服务中心和湖景医院将在圣诞节和万圣节假期期间关闭。
+
+Issue 364		L
+src: A liquor shop salesman, who sold liquor to some men on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 星期六晚上，一名卖酒给一些男人的酒类商店售货员周日在警察局巴塔村的丹考尔地区被枪杀。
+ref: 「星期六晚上，」一名【在星期六晚上】卖酒给一些男人的酒类商店售货员周日在警察局巴塔村的丹考尔地区被枪杀。
+
+Issue 365		N
+src: A coffee shop salesman, who sold liquor to some men on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 星期六晚上，一名咖啡店售货员向一些男人卖酒，周日在警察局 Bhatta 村的 Dankaur 地区被枪杀。
+ref: 星期六晚上，一名咖啡店售货员向一些男人卖酒，周日在警察局 「Bhatta 村的 Dankaur」 地区被枪杀。
+
+Issue 366		N
+src: A tea shop salesman, who sold liquor to some men on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 星期六晚上，一名茶叶店售货员向一些男人卖酒，周日在警察局 Bhatta 村的 Dankaur 地区被枪杀。
+
+Issue 367		N
+src: A pawn shop salesman, who sold liquor to some men on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 星期六晚上，一名当铺售货员向一些男子卖酒，周日在警察局 Bhatta 村的 Dankaur 地区被枪杀。
+
+Issue 368		L; N; U
+src: A beer shop salesman, who sold liquor to some men on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 周日晚上，一名啤酒店售货员在警察局 Bhatta 村的 Dankaur 地区向一些男子出售酒类，被枪杀。
+
+Issue 369		N
+src: A tobacco shop salesman, who sold liquor to some men on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 一名烟草店售货员星期六晚上向一些男人卖酒，周日在警察局 Bhatta 村的 Dankaur 地区被枪杀。
+
+Issue 370		L; N; U
+src: A liquor trade salesman, who sold liquor to some men on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 周日晚上，一名酒类贸易推销员在警察局 Bhatta 村的 Dankaur 地区向一些男子出售酒类，被枪杀。
+
+Issue 371		L; N; U
+src: A liquor service salesman, who sold liquor to some men on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 周日晚上，一名酒类服务推销员在警察局 Bhatta 村的 Dankaur 地区向一些男子出售酒类，被枪杀。
+
+Issue 372		N
+src: A liquor shop owner, who sold liquor to some men on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 星期六晚上，一名酒类店老板向一些男子出售酒类，周日在警察局 Bhatta 村的 Dankaur 地区被枪杀。
+
+Issue 373		N
+src: A liquor shop proprietor, who sold liquor to some men on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 星期六晚上，一名酒类商店老板向一些男子出售酒类，周日在警察局 Bhatta 村的 Dankaur 地区被枪杀。
+
+Issue 374		N
+src: A liquor shop keeper, who sold liquor to some men on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 星期六晚上，一名酒类店主向一些男子出售酒类，周日在警察局 Bhatta 村的 Dankaur 地区被枪杀。
+
+Issue 375		N
+src: A liquor shop employee, who sold liquor to some men on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 星期六晚上，一名酒类商店员工向一些男子出售酒类，周日在警察局 Bhatta 村的 Dankaur 地区被枪杀。
+
+Issue 376		N
+src: A liquor shop salesman, who sold liquor to some youths on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 星期六晚上，一名酒类商店售货员向一些年轻人出售酒类，周日在警察局 Bhatta 村的 Dankaur 地区被枪杀。
+
+Issue 377		N
+src: A liquor shop salesman, who sold liquor to some locals on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 星期六晚上，一名酒类商店售货员向一些当地人出售酒类，周日在警察局 Bhatta 村的 Dankaur 地区被枪杀。
+
+Issue 378		N
+src: A liquor shop salesman, who sold liquor to some devotees on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 星期六晚上，一名酒类商店售货员向一些信徒出售酒类，周日在警察局 Bhatta 村的 Dankaur 地区被枪杀。
+
+Issue 379		N
+src: A liquor shop salesman, who sold liquor to some tourists on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 星期六晚上，一名酒类商店售货员向一些游客出售酒类，周日在警察局 Bhatta 村的 Dankaur 地区被枪杀。
+
+Issue 380		N
+src: A liquor shop salesman, who sold liquor to some students on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 星期六晚上，一名酒类商店售货员向一些学生出售酒类，周日在警察局 Bhatta 村的 Dankaur 地区被枪杀。
+
+Issue 381		L; N; U
+src: A liquor shop salesman, who sold liquor to some men on Friday night, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 周日晚上，一名酒类商店售货员在警察局 Bhatta 村的 Dankaur 地区向一些男子出售酒类，被枪杀。
+
+Issue 382		L; N; U
+src: A liquor shop salesman, who sold liquor to some men on Sunday night, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 周日晚上，一名酒类商店售货员在警察局 Bhatta 村的 Dankaur 地区向一些男子出售酒类，周日被枪杀。
+
+Issue 383		L; N; U
+src: A liquor shop salesman, who sold liquor to some men on Monday night, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 周日晚上，一名酒类商店售货员在警察局 Bhatta 村的 Dankaur 地区向一些男子出售酒类，被枪杀。
+
+Issue 384		N
+src: A liquor shop salesman, who sold liquor to some men on Wednesday night, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 星期三晚上，一名酒类商店售货员向一些男子出售酒类，周日在警察局 Bhatta 村的 Dankaur 地区被枪杀。
+
+Issue 385		N
+src: A liquor shop salesman, who sold liquor to some men on Saturday evening, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 星期六晚上，一名酒类商店售货员向一些男子出售酒类，周日在警察局 Bhatta 村的 Dankaur 地区被枪杀。
+
+Issue 386		N
+src: A liquor shop salesman, who sold liquor to some men on Saturday afternoon, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 星期六下午，一名酒类商店售货员向一些男子出售酒类，周日在警察局巴塔村丹考尔地区被枪杀。
+
+Issue 387		L
+src: A liquor shop salesman, who sold liquor to some men on Saturday day, was shot dead in Dankaur area of Bhatta village, police station on Sunday.
+tar: 周日，一名酒类商店售货员在巴塔村警察局的丹考尔地区向一些男子出售酒类，周日被枪杀。
+ref: 周日，一名酒类商店售货员「在巴塔村警察局的丹考尔地区」向一些男子出售酒类，周日【…】被枪杀。
+
+Issue 388		L
+src: A liquor shop salesman, who sold liquor to some men on Saturday night, was shot dead in Dankaur locality of Bhatta village, police station on Sunday.
+tar: 周日晚上，一名酒类商店售货员在巴塔村丹考尔派出所被枪杀，该售货员周六晚上向一些男子出售酒类。
+
+Issue 389		L; N; U
+src: A liquor shop salesman, who sold liquor to some men on Saturday night, was shot dead in Dankaur hamlet of Bhatta village, police station on Sunday.
+tar: 周日晚上，一名酒类商店售货员在警察局 Bhatta 村的 Dankaur 小村庄向一些男子出售酒类，被枪杀。
+
+Issue 390		L; N; U
+src: A liquor shop salesman, who sold liquor to some men on Saturday night, was shot dead in Dankaur area of Bhatta village, near station on Sunday.
+tar: 周日晚上，一名酒类商店售货员在车站附近的 Bhatta 村 Dankaur 地区向一些男子出售酒类，被枪杀。
+
+Issue 391		L; N; U
+src: A liquor shop salesman, who sold liquor to some men on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Monday.
+tar: 周一晚上，一名酒类商店售货员在警察局 Bhatta 村的 Dankaur 地区向一些男子出售酒类，被枪杀。
+
+Issue 392		N
+src: A liquor shop salesman, who sold liquor to some men on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Saturday.
+tar: 星期六晚上，一名酒类商店售货员向一些男子出售酒类，星期六在警察局 Bhatta 村的 Dankaur 地区被枪杀。
+
+Issue 393		L
+src: A liquor shop salesman, who sold liquor to some men on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Tuesday.
+tar: 周二晚上，一名酒类商店售货员在警察局巴塔村的丹考尔地区向一些男子出售酒类，被枪杀。
+
+Issue 394		L; N; U
+src: A liquor shop salesman, who sold liquor to some men on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Friday.
+tar: 周五晚上，一名酒类商店售货员在警察局 Bhatta 村的 Dankaur 地区向一些男子出售酒类，被枪杀。
+
+Issue 395		L; W
+src: A liquor shop salesman, who sold liquor to some men on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Wednesday.
+tar: 星期三晚上，一名酒类商店售货员在警察局巴塔村的丹考尔地区向一些男子出售酒类，周三被枪杀。
+
+Issue 396		L; N; U
+src: A liquor shop salesman, who sold liquor to some men on Saturday night, was shot dead in Dankaur area of Bhatta village, police station on Thursday.
+tar: 周四晚上，一名酒类商店售货员在警察局 Bhatta 村的 Dankaur 地区向一些男子出售酒类，被枪杀。
+

@@ -1,0 +1,1518 @@
+Issue 1		U
+src: The state public health authorities and nursing homes have ongoing reservations about the rapid tests.
+tar: 州公共卫生当局和疗养院对快速检测持保留态度。
+ref: 州公共卫生当局和疗养院对快速检「测持【持续的】保留态度【/一直持保留态度】」。
+
+Issue 2		W
+src: The state public health authorities and nursing homes have ongoing protests about the rapid tests.
+tar: 州公共卫生当局和疗养院正在抗议快速检测。
+ref: 州公共卫生当局和疗养院「正在【一直/持续/不断】」抗议快速检测。
+
+Issue 3		W
+src: They try to be optimistic about the wisdom of rolling out such an unprecedented immunization program.
+tar: 他们试图对推出这样一个前所未有的免疫计划是否明智持乐观态度。
+ref: 他们试图对推出这样一个前所未有的免疫计划「是否明智【的智慧】」持乐观态度。
+
+Issue 4		U
+src: Health care providers see testing as the single most important tool they have in managing the disease.
+tar: 医疗保健提供者将测试视为他们管理疾病的最重要工具。
+ref: 医疗保健提供者将测试视为他们管理疾病的【唯一】最重要工具。
+
+Issue 5		U
+src: Health care providers see testing as the single most important tool they have in managing the patient.
+tar: 医疗保健提供者将测试视为他们管理患者时最重要的工具。
+ref: 医疗保健提供者将测试视为他们管理患者时【…】最重要的工具。
+
+Issue 6		U
+src: Health care providers see testing as the single most important tool they have in managing the population.
+tar: 医疗保健提供者将测试视为他们管理人口中最重要的工具。
+
+Issue 7		U
+src: Health care providers see testing as the single most important tool they have in managing the system.
+tar: 医疗保健提供者将测试视为他们在管理系统中最重要的工具。
+
+Issue 8		U
+src: The result is said to be planning legislation which will regulate the movement of staff between airports.
+tar: 据说其结果是计划立法，规范工作人员在机场之间的流动。
+ref: 据说其结果「是【正在】」计划立法，规范工作人员在机场之间的流动。
+
+Issue 9		W
+src: To test that magnifier, the researchers identified clusters of gene exons that function differently during fetal development.
+tar: 为了测试放大镜，研究人员确定了在胎儿发育过程中功能不同的基因外显子簇。
+ref: 为了测试放大镜，研究人员确定了在胎儿发育过程中「功能不同【起 不同 作用】的」基因外显子簇。
+
+Issue 10		L
+src: To test that magnifier, the researchers identified clusters of gene exons that function primarily during fetal development.
+tar: 为了测试放大镜，研究人员确定了主要在胎儿发育过程中起作用的基因外显子簇。
+ref: 为了测试放大镜，研究人员确定了「主要」在胎儿发育过程中起【主要】作用的基因外显子簇。
+
+Issue 11		W
+src: This could be linked to their physical health or drugs prescribed to mental disorders, the researchers said.
+tar: 研究人员说，这可能与他们的身体健康或精神障碍处方药物有关。
+ref: 研究人员说，这可能与他们的身体健康或「精神障碍处方【为精神障碍(疾病)开具的】药物」有关。
+
+Issue 12		W
+src: This could be linked to their poor health or drugs prescribed to mental disorders, the researchers said.
+tar: 研究人员说，这可能与他们健康状况不佳或精神障碍处方药物有关。
+ref: 研究人员说，这可能与他们健康状况不佳或「精神障碍处方药物」有关。
+
+Issue 13		W
+src: This could be linked to their physical health or drugs prescribed to psychological disorders, the researchers said.
+tar: 研究人员说，这可能与他们的身体健康或治疗心理障碍的药物有关。
+ref: 研究人员说，这可能与他们的身体健康或「治疗心理障碍的药物」有关。
+
+Issue 14		U
+src: Imagine going to a hospital so small, doctors and nurses with Covid-19 are allowed to keep working.
+tar: 想象一下，去一家这么小的医院，允许患有Covid-19的医生和护士继续工作。
+ref: 想象一下，去一家这么小的医院，允许患有「Covid-19」的医生和护士继续工作。
+
+Issue 15		U
+src: Imagine going to a town so small, doctors and nurses with Covid-19 are allowed to keep working.
+tar: 想象一下，去一个这么小的城镇，患有Covid-19的医生和护士被允许继续工作。
+
+Issue 16		U
+src: Imagine going to a world so small, doctors and nurses with Covid-19 are allowed to keep working.
+tar: 想象一下，去一个如此小的世界，患有 Covid-19 的医生和护士被允许继续工作。
+
+Issue 17		U
+src: The coronavirus vaccine developed by the University of Oxford is highly effective at stopping people developing Covid-19 symptoms, a large study shows.
+tar: 一项大型研究表明，牛津大学开发的冠状病毒疫苗在阻止人们出现 Covid-19 症状方面非常有效。
+ref: 一项大型研究表明，牛津大学开发的冠状病毒疫苗在阻止人们出现 「Covid-19」 症状方面非常有效。
+
+Issue 18		U
+src: The coronavirus vaccine developed by the University of Oxford is highly effective at stopping people developing Covid-19 symptoms, a recent study shows.
+tar: 最近的一项研究表明，牛津大学开发的冠状病毒疫苗在阻止人们出现 Covid-19 症状方面非常有效。
+
+Issue 19		U
+src: The coronavirus vaccine developed by the University of Oxford is highly effective at stopping people developing Covid-19 symptoms, a large sample shows.
+tar: 大量样本显示，牛津大学开发的冠状病毒疫苗在阻止人们出现 Covid-19 症状方面非常有效。
+
+Issue 20		U
+src: The coronavirus vaccine developed by the University of Oxford is highly effective at stopping people developing Covid-19 symptoms, a large number shows.
+tar: 大量数据显示，牛津大学开发的冠状病毒疫苗在阻止人们出现 Covid-19 症状方面非常有效。
+
+Issue 21		U
+src: The coronavirus vaccine developed by the University of Oxford is highly effective at stopping people developing Covid-19 symptoms, a large population shows.
+tar: 大量人口显示，牛津大学开发的冠状病毒疫苗在阻止人们出现 Covid-19 症状方面非常有效。
+
+Issue 22		U
+src: The coronavirus vaccine developed by the University of Oxford is highly effective at stopping people developing Covid-19 symptoms, a large group shows.
+tar: 一个大型团体表示，牛津大学开发的冠状病毒疫苗在阻止人们出现 Covid-19 症状方面非常有效。
+
+Issue 23		U
+src: The coronavirus tests will be offered to close contacts of people who have tested positive in England, as a way to reduce the required 14-day quarantine.
+tar: 冠状病毒检测将提供给在英格兰检测呈阳性的人的密切接触者，以减少所需的 14 天隔离。
+ref: 冠状病毒检测将提供给在英格兰检测呈阳性的人的密切接触者，「以减少所需的 14 天隔离【(以此)作为减少所需的 14 天隔离期的一种方式】」。
+
+Issue 24		U
+src: The coronavirus tests will be offered to close contacts of people who have tested positive in England, as a way to reduce the normal 14-day quarantine.
+tar: 冠状病毒检测将提供给在英格兰检测呈阳性的人的密切接触者，以减少正常的14天隔离。
+
+Issue 25		U
+src: The coronavirus tests will be offered to close contacts of people who have tested positive in England, as a way to reduce the usual 14-day quarantine.
+tar: 冠状病毒检测将提供给在英格兰检测呈阳性的人的密切接触者，以减少通常的14天隔离。
+
+Issue 26		U
+src: The coronavirus tests will be offered to close contacts of people who have tested positive in England, as a way to reduce the current 14-day quarantine.
+tar: 冠状病毒测试将提供给在英格兰检测呈阳性的人的密切接触者，以减少目前14天的隔离。
+
+Issue 27		U
+src: The coronavirus tests will be offered to close contacts of people who have tested positive in England, as a way to reduce the typical 14-day quarantine.
+tar: 冠状病毒测试将提供给在英格兰检测呈阳性的人的密切接触者，以减少典型的14天隔离。
+
+Issue 28		U
+src: The coronavirus tests will be offered to close contacts of people who have tested positive in England, as a way to reduce the traditional 14-day quarantine.
+tar: 冠状病毒测试将提供给在英格兰检测呈阳性的人的密切接触者，以减少传统的14天隔离。
+
+Issue 29		U
+src: The coronavirus tests will be offered to close contacts of people who have tested positive in England, as a way to reduce the recommended 14-day quarantine.
+tar: 冠状病毒测试将提供给在英格兰检测呈阳性的人的密切接触者，以减少建议的 14 天隔离。
+
+Issue 30		W
+src: Fluid from a nasal swab or saliva goes on one end, then a marking begins if you are positive.
+tar: 来自鼻拭子或唾液的液体流到一端，如果您呈阳性，则开始标记。
+ref: 来自鼻拭子或唾液的液体「流到一端【在一端流出】」，如果您呈阳性，则开始标记。
+
+Issue 31		W
+src: Fluid from a nasal swab or saliva goes on one side, then a marking begins if you are positive.
+tar: 鼻拭子或唾液中的液体流到一侧，如果您呈阳性，则开始标记。
+
+Issue 32		W
+src: Fluid from a nasal swab or saliva goes on one hand, then a marking begins if you are positive.
+tar: 来自鼻拭子或唾液的液体一只手流出，如果您呈阳性，则开始标记。
+ref: 来自鼻拭子或唾液的液体「一只手【在手上】流出」，如果您呈阳性，则开始标记。
+
+Issue 33		W
+src: Fluid from a nasal swab or saliva goes on one end, then a spray begins if you are positive.
+tar: 鼻拭子或唾液中的液体流到一端，然后如果您呈阳性，则开始喷洒。
+
+Issue 34		L
+src: This means care providers are allocated a certain type of equipment based on the number of people they look after.
+tar: 这意味着护理提供者根据他们照顾的人数分配某种类型的设备。
+ref: 这意味着【为】护理提供者根据他们照顾的人数分配某种类型的设备。
+
+Issue 35		L
+src: This means care providers are allocated a special type of equipment based on the number of people they look after.
+tar: 这意味着护理提供者根据他们照顾的人数分配了一种特殊类型的设备。
+
+Issue 36		U
+src: We have more confidence that our staff are indeed Covid free or that they are out and not as residents.
+tar: 我们更有信心我们的员工确实没有 Covid，或者他们外出而不是作为居民。
+ref: 我们更有信心我们的员工确实没有 「Covid」，或者他们外出而不是作为居民。
+
+Issue 37		U
+src: We have more evidence that our staff are indeed Covid free or that they are out and not as residents.
+tar: 我们有更多的证据表明我们的员工确实没有 Covid，或者他们外出而不是作为居民。
+
+Issue 38		O; U
+src: We have more proof that our staff are indeed Covid free or that they are out and not as residents.
+tar: 我们有更多的证据表明我们的员工确实没有 Covid，或者他们已经外出而不是作为居民。
+ref: 我们有更多的证据表明我们的员工确实没有 「Covid」，或者他们「已经」外出而不是作为居民。
+
+Issue 39		U
+src: We have more doubt that our staff are indeed Covid free or that they are out and not as residents.
+tar: 我们更怀疑我们的员工是否确实没有 Covid，或者他们外出而不是作为居民。
+
+Issue 40		U
+src: We have more hope that our staff are indeed Covid free or that they are out and not as residents.
+tar: 我们更希望我们的员工确实没有 Covid，或者他们外出而不是作为居民。
+
+Issue 41		O; U
+src: We have more confidence that our staff are currently Covid free or that they are out and not as residents.
+tar: 我们更有信心我们的员工目前没有 Covid，或者他们已经外出而不是作为居民。
+
+Issue 42		L
+src: Scientists are locked in an ongoing effort to repel invasive plant species that threaten China's ecosystem, Li Yingxue reports.
+tar: 李映雪报道，科学家们被锁定在不断努力击退威胁中国生态系统的入侵植物物种中。
+ref: 李映雪报道，科学家们「被锁定在不断努力击退威胁中国生态系统的入侵植物物种中」。
+
+Issue 43		U
+src: Scientists are locked in an ongoing battle to repel invasive fish species that threaten China's ecosystem, Li Yingxue reports.
+tar: 李迎雪报道，科学家们陷入了一场持续不断的战斗，以击退威胁中国生态系统的入侵鱼类。
+ref: 李迎雪报道，科学家们陷入了一场持续不断的战斗，以击退威胁中国生态系统的入侵鱼类【物种】。
+
+Issue 44		W
+src: Some have called for more isolation, arguing a shorter separation will be more effective in controlling the spread of the virus because of the compliance.
+tar: 一些人呼吁进行更多的隔离，认为由于依从性，缩短隔离时间将更有效地控制病毒的传播。
+ref: 一些人呼吁进行更多的隔离，认为由于依从性，「缩短隔离时间」将更有效地控制病毒的传播。
+
+Issue 45		W
+src: Some have called for more isolation, arguing a shorter interval will be more effective in controlling the spread of the virus because of the compliance.
+tar: 一些人呼吁进行更多的隔离，认为由于依从性，缩短间隔将更有效地控制病毒的传播。
+ref: 一些人呼吁进行更多的隔离，认为由于依从性，「缩短间隔」将更有效地控制病毒的传播。
+
+Issue 46		O
+src: Some have called for more isolation, arguing a shorter isolation will be more effective in controlling the spread of the virus because of the distance.
+tar: 一些人呼吁进行更多的隔离，认为由于距离较远，较短的隔离将更有效地控制病毒的传播。
+ref: 一些人呼吁进行更多的隔离，认为由于距离「较远」，较短的隔离将更有效地控制病毒的传播。
+
+Issue 47		W
+src: Scientists suspect the virus spreads in mink coats through infectious diseases, on feed or bedding, or in bags containing droppings.
+tar: 科学家怀疑该病毒通过传染病，饲料或床上用品或装有粪便的袋子在水貂大衣中传播。
+ref: 科学家怀疑该病毒通过传染病，饲料或「床上用品」或装有粪便的袋子在水貂大衣中传播。
+
+Issue 48		W
+src: Scientists suspect the virus spreads in mink farms through infectious diseases, on skin or bedding, or in bags containing droppings.
+tar: 科学家怀疑该病毒通过传染病，皮肤或床上用品或装有粪便的袋子在水貂养殖场传播。
+
+Issue 49		W
+src: Scientists suspect the virus spreads in mink farms through infectious diseases, on hay or bedding, or in bags containing droppings.
+tar: 科学家怀疑该病毒通过传染病，干草或床上用品或装有粪便的袋子在水貂农场传播。
+
+Issue 50		U
+src: Before the war, there was only limited use of gloves, aprons, and in particular masks, in care cases.
+tar: 战前，在护理病例中，手套、围裙，特别是口罩的使用有限。
+ref: 战前，在护理病例中，手套、围裙，特别是口罩的「使用有限」。
+
+Issue 51		U; W
+src: Each kit contains a packet of assorted sesame seeds, an instruction set and sample designs for them, container and vegetable gardens.
+tar: 每个套件都包含一包各种芝麻、指令集和样品设计、容器和菜园。
+ref: 每个套件都包含一包各种芝麻、「指令集【一套说明书】」和【他们的】样品设计、容器和菜园。
+
+Issue 52		U
+src: Each box contains a packet of assorted sesame seeds, an instruction set and sample designs for them, container and vegetable gardens.
+tar: 每个盒子都包含一包什锦芝麻，一套说明书和样品设计，容器和菜园。
+ref: 每个盒子都包含一包什锦芝麻，一套说明书和【…】样品设计，容器和菜园。
+
+Issue 53		U; W
+src: Each package contains a packet of assorted sesame seeds, an instruction set and sample designs for them, container and vegetable gardens.
+tar: 每个包装都包含一包什锦芝麻，一个指令集和样品设计，容器和菜园。
+
+Issue 54		U
+src: Each edition contains a packet of assorted sesame seeds, an instruction set and sample designs for them, container and vegetable gardens.
+tar: 每个版本都包含一包什锦芝麻，说明集和样品设计，容器和菜园。
+
+Issue 55		U
+src: Each volume contains a packet of assorted sesame seeds, an instruction set and sample designs for them, container and vegetable gardens.
+tar: 每卷包含一包什锦芝麻，一套说明书和样品设计，容器和菜园。
+
+Issue 56		U
+src: Each pack contains a packet of assorted sesame seeds, an instruction set and sample designs for them, container and vegetable gardens.
+tar: 每个包装包含一包什锦芝麻，说明集和样品设计，容器和菜园。
+
+Issue 57		U
+src: Each kit contains a set of assorted sesame seeds, an instruction set and sample designs for them, container and vegetable gardens.
+tar: 每个套件都包含一组什锦芝麻、一套说明书和样品设计、容器和菜园。
+
+Issue 58		U
+src: Each kit contains a box of assorted sesame seeds, an instruction set and sample designs for them, container and vegetable gardens.
+tar: 每个套件包含一盒什锦芝麻、一套说明书和样品设计、容器和菜园。
+
+Issue 59		U
+src: Each kit contains a bag of assorted sesame seeds, an instruction set and sample designs for them, container and vegetable gardens.
+tar: 每个套件都包含一袋什锦芝麻、一套说明书和样品设计、容器和菜园。
+
+Issue 60		U
+src: Each kit contains a packet of assorted sesame seeds, an equipment set and sample designs for them, container and vegetable gardens.
+tar: 每个套件包含一包什锦芝麻，一套设备及其样品设计，容器和菜园。
+
+Issue 61		U
+src: Each kit contains a packet of assorted sesame seeds, an instrument set and sample designs for them, container and vegetable gardens.
+tar: 每个套件包含一包什锦芝麻、一套仪器和样品设计、容器和菜园。
+
+Issue 62		U
+src: Each kit contains a packet of assorted sesame seeds, an ice set and sample designs for them, container and vegetable gardens.
+tar: 每个套件都包含一包什锦芝麻、一套冰和样品设计、容器和菜园。
+
+Issue 63		U
+src: Each kit contains a packet of assorted sesame seeds, an object set and sample designs for them, container and vegetable gardens.
+tar: 每个套件包含一包什锦芝麻、对象集和样品设计、容器和菜园。
+
+Issue 64		U
+src: Each kit contains a packet of assorted sesame seeds, an instruction manual and sample designs for them, container and vegetable gardens.
+tar: 每个套件都包含一包什锦芝麻，说明手册和样品设计，容器和菜园。
+
+Issue 65		U
+src: Each kit contains a packet of assorted sesame seeds, an instruction booklet and sample designs for them, container and vegetable gardens.
+tar: 每个套件包含一包什锦芝麻，说明书和样品设计，容器和菜园。
+
+Issue 66		U
+src: Each kit contains a packet of assorted sesame seeds, an instruction set and garden designs for them, container and vegetable gardens.
+tar: 每个套件都包含一包什锦芝麻、一套说明书和花园设计、容器和菜园。
+
+Issue 67		U
+src: Each kit contains a packet of assorted sesame seeds, an instruction set and cover designs for them, container and vegetable gardens.
+tar: 每个套件都包含一包什锦芝麻、一套说明书和封面设计、容器和菜园。
+
+Issue 68		U
+src: Each kit contains a packet of assorted sesame seeds, an instruction set and design designs for them, container and vegetable gardens.
+tar: 每个套件都包含一包什锦芝麻、一套说明和设计设计、容器和菜园。
+
+Issue 69		U
+src: Each kit contains a packet of assorted sesame seeds, an instruction set and sample recipes for them, container and vegetable gardens.
+tar: 每个套件都包含一包什锦芝麻、一套说明书和样品食谱、容器和菜园。
+
+Issue 70		U
+src: Each kit contains a packet of assorted sesame seeds, an instruction set and sample tools for them, container and vegetable gardens.
+tar: 每个套件都包含一包什锦芝麻、一套说明书和样品工具、容器和菜园。
+
+Issue 71		U
+src: Each kit contains a packet of assorted sesame seeds, an instruction set and sample ingredients for them, container and vegetable gardens.
+tar: 每个套件都包含一包什锦芝麻、一套说明书和样品成分、容器和菜园。
+
+Issue 72		U
+src: Each kit contains a packet of assorted sesame seeds, an instruction set and sample designs for them, fruit and vegetable gardens.
+tar: 每个套件都包含一包什锦芝麻、一套说明书和样品设计、水果和蔬菜园。
+
+Issue 73		U
+src: Each kit contains a packet of assorted sesame seeds, an instruction set and sample designs for them, container and mobile gardens.
+tar: 每个套件包含一包什锦芝麻、一套说明书和样品设计、容器和移动花园。
+
+Issue 74		U; W
+src: Each kit contains a packet of assorted sesame seeds, an instruction set and sample designs for them, container and vegetable parts.
+tar: 每个套件包含一包什锦芝麻、指令集和样品设计、容器和蔬菜部件。
+
+Issue 75		U
+src: Each kit contains a packet of assorted sesame seeds, an instruction set and sample designs for them, container and vegetable accessories.
+tar: 每个套件包含一包什锦芝麻、一套说明书和样品设计、容器和蔬菜配件。
+
+Issue 76		W
+src: That board will look to see how many of the participants who have ill received the vaccine and how few received the placebo.
+tar: 该委员会将研究有多少生病的参与者接受了疫苗，有多少人接受了安慰剂。
+ref: 该委员会将「研究【观察】」有多少生病的参与者接受了疫苗，有多少人接受了安慰剂。
+
+Issue 77		U; W
+src: That board will look to see how many of the people who have ill received the vaccine and how few received the placebo.
+tar: 该委员会将研究有多少人接受了疫苗，有多少人接受了安慰剂。
+ref: 该委员会将「研究」有多少「人【有疾病的参与者】」接受了疫苗，有多少人接受了安慰剂。
+
+Issue 78		U; W
+src: That board will look to see how many of the individuals who have ill received the vaccine and how few received the placebo.
+tar: 该委员会将研究有多少人接受了疫苗，有多少人接受了安慰剂。
+
+Issue 79		U; W
+src: That board will look to see how many of the participants who have ill received the treatment and how few received the placebo.
+tar: 该委员会将研究有多少参与者接受了治疗，有多少人接受了安慰剂。
+
+Issue 80		U
+src: That means sticking with the false distancing and the masks, and testing people who may have the virus and asking them to isolate.
+tar: 这意味着坚持虚假的距离和口罩，并对可能感染病毒的人进行检测并要求他们隔离。
+ref: 这意味着坚持【保持】虚假的距离和【戴】口罩，并对可能感染病毒的人进行检测并要求他们隔离。
+
+Issue 81		U
+src: That means sticking with the moral distancing and the masks, and testing people who may have the virus and asking them to isolate.
+tar: 这意味着坚持道德距离和口罩，对可能感染病毒的人进行检测并要求他们隔离。
+
+Issue 82		U
+src: That means sticking with the psychological distancing and the masks, and testing people who may have the virus and asking them to isolate.
+tar: 这意味着坚持心理距离和口罩，并对可能感染病毒的人进行检测并要求他们隔离。
+
+Issue 83		U
+src: That means sticking with the double distancing and the masks, and testing people who may have the virus and asking them to isolate.
+tar: 这意味着坚持双重距离和口罩，并对可能感染病毒的人进行检测并要求他们隔离。
+
+Issue 84		U
+src: That means sticking with the subtle distancing and the masks, and testing people who may have the virus and asking them to isolate.
+tar: 这意味着坚持微妙的距离和口罩，并对可能感染病毒的人进行测试并要求他们隔离。
+
+Issue 85		U
+src: That means sticking with the natural distancing and the masks, and testing people who may have the virus and asking them to isolate.
+tar: 这意味着坚持自然距离和口罩，并对可能感染病毒的人进行检测并要求他们隔离。
+
+Issue 86		U
+src: That means sticking with the social distancing and the boundaries, and testing people who may have the virus and asking them to isolate.
+tar: 这意味着坚持社交距离和界限，对可能感染病毒的人进行检测并要求他们隔离。
+ref: 这意味着坚持【保持】社交距离和界限，对可能感染病毒的人进行检测并要求他们隔离。
+
+Issue 87		U
+src: Unless we have people to isolate, they are never going to stop carrying on with their lives and start passing on the virus.
+tar: 除非我们有人要隔离，否则他们永远不会停止生活并开始传播病毒。
+ref: 除非我们有人要隔离，否则他们永远不会停止【继续 他们的】生活并开始传播病毒。
+
+Issue 88		U
+src: Unless we have people to isolate, they are eventually going to stop carrying on with their lives and start passing on the virus.
+tar: 除非我们有需要隔离的人，否则他们最终将停止继续生活并开始传播病毒。
+ref: 除非我们有需要隔离的人，否则他们最终将停止继续【他们的】生活并开始传播病毒。
+
+Issue 89		U
+src: Unless we have people to isolate, they are simply going to stop carrying on with their lives and start passing on the virus.
+tar: 除非我们有人需要隔离，否则他们只会停止继续生活并开始传播病毒。
+
+Issue 90		U
+src: Unless we have people to isolate, they are probably going to stop carrying on with their lives and start passing on the virus.
+tar: 除非我们有人需要隔离，否则他们可能会停止继续生活并开始传播病毒。
+
+Issue 91		U
+src: Unless we have people to isolate, they are soon going to stop carrying on with their lives and start passing on the virus.
+tar: 除非我们有人需要隔离，否则他们很快就会停止继续生活并开始传播病毒。
+
+Issue 92		U
+src: Unless we have people to isolate, they are also going to stop carrying on with their lives and start passing on the virus.
+tar: 除非我们有人要隔离，否则他们也将停止继续生活并开始传播病毒。
+
+Issue 93		U
+src: There is large, accelerating community spread across the top half of the country, where temperatures have risen and Americans have grown indoors.
+tar: 在全国上半部有一个庞大而加速的社区，那里的温度上升，美国人在室内长大。
+ref: 「在全国上半部有一个庞大而加速的社区【这个国家的上半部分(地区) 遍布 庞大的、加速(发展)的社区】」，那里的温度上升，美国人在室内长大。
+
+Issue 94		L; U
+src: There is large, accelerating community growth across the top half of the country, where temperatures have risen and Americans have grown indoors.
+tar: 全国上半部的社区正在加速增长，气温上升，美国人在室内长大。
+ref: 全国上半部的「社区正在加速增长」，气温上升，美国人在室内长大。
+
+Issue 95		L; U
+src: There is large, accelerating community change across the top half of the country, where temperatures have risen and Americans have grown indoors.
+tar: 美国上半部的社区变化正在加速，气温上升，美国人在室内长大。
+ref: 「美国」上半部的社区「变化正在加速」，气温上升，美国人在室内长大。
+
+Issue 96		L; U
+src: There is large, accelerating community development across the top half of the country, where temperatures have risen and Americans have grown indoors.
+tar: 美国上半部的社区发展正在加速，气温上升，美国人在室内长大。
+
+Issue 97		L
+src: There is large, accelerating community expansion across the top half of the country, where temperatures have risen and Americans have grown indoors.
+tar: 全国上半部的社区正在大规模加速扩张，气温上升，美国人在室内长大。
+
+Issue 98		L
+src: The guide contains eight chapters highlighting the importance of nutritional intake, nutritional support for those with tumors at different phases and receiving various services.
+tar: 该指南包含八章，强调营养摄入的重要性，对不同阶段的肿瘤患者提供营养支持并接受各种服务。
+ref: 该指南包含八章，强调营养摄入「的重要性」，对不同阶段的肿瘤患者提供营养支持并接受各种服务【的重要性】。
+
+Issue 99		L
+src: The guide contains eight chapters highlighting the importance of nutritional intake, nutritional support for those with symptoms at different phases and receiving various services.
+tar: 该指南包含八章，强调营养摄入的重要性，对不同阶段有症状的人的营养支持以及接受各种服务。
+
+Issue 100		L
+src: The guide contains eight chapters highlighting the importance of nutritional intake, nutritional support for those with tumors at early phases and receiving various services.
+tar: 该指南包含八章，强调了营养摄入、早期肿瘤患者的营养支持和接受各种服务的重要性。
+
+Issue 101		L
+src: The guide contains eight chapters highlighting the importance of nutritional intake, nutritional support for those with tumors at advanced phases and receiving various services.
+tar: 该指南包含八章，强调了营养摄入的重要性，对晚期肿瘤患者的营养支持以及接受各种服务。
+
+Issue 102		L
+src: The guide contains eight chapters highlighting the importance of nutritional intake, nutritional support for those with tumors at different rates and receiving various services.
+tar: 该指南包含八章，强调了营养摄入的重要性，对不同比率的肿瘤患者的营养支持以及接受各种服务。
+
+Issue 103		L
+src: The guide contains eight chapters highlighting the importance of nutritional intake, nutritional support for those with tumors at different phases and receiving various treatments.
+tar: 该指南包含八章，强调了营养摄入的重要性，对不同阶段的肿瘤患者和接受各种治疗的营养支持。
+ref: 该指南包含八章，强调了营养摄入「的重要性」，对不同阶段的肿瘤患者【…】和接受各种治疗「的营养支持」【的重要性】。
+
+Issue 104		N
+src: The NHS is setting up coronavirus vaccination centres across the UK in preparation for any jab being received, Health Secretary Matt Hancock has said.
+tar: 卫生大臣马特·汉考克（Matt Hancock）表示，NHS正在英国各地建立冠状病毒疫苗接种中心，为接受的任何疫苗接种做准备。
+ref: 卫生大臣马特·汉考克（Matt Hancock）表示，「NHS」正在英国各地建立冠状病毒疫苗接种中心，为接受的任何疫苗接种做准备。
+
+Issue 105		O
+src: The UK is setting up coronavirus vaccination centres across the UK in preparation for any jab being received, Health Secretary Matt Hancock has said.
+tar: 英国卫生大臣马特·汉考克（Matt Hancock）表示，英国正在英国各地建立冠状病毒疫苗接种中心，为接受的任何疫苗接种做准备。
+ref: 「英国」卫生大臣马特·汉考克（Matt Hancock）表示，英国正在英国各地建立冠状病毒疫苗接种中心，为接受的任何疫苗接种做准备。
+
+Issue 106		U
+src: Mass testing is being touted as a way of getting us much closer to a normal life and even of avoiding it in the future.
+tar: 大规模测试被吹捧为让我们更接近正常生活甚至在未来避免正常生活的一种方式。
+ref: 大规模测试【正在】被吹捧为让我们更接近正常生活甚至在未来避免正常生活的一种方式。
+
+Issue 107		L; U
+src: Mass testing is being touted as a way of getting us much closer to a human life and even of avoiding it in the future.
+tar: 大规模测试被吹捧为让我们更接近人类生活甚至避免未来生活的一种方式。
+ref: 大规模测试【正在】被吹捧为让我们更接近人类生活甚至「避免未来生活」的一种方式。
+
+Issue 108		L; U
+src: Mass testing is being touted as a way of getting us much closer to a good life and even of avoiding it in the future.
+tar: 大规模测试被吹捧为让我们更接近美好生活甚至避免未来美好生活的一种方式。
+
+Issue 109		L; U
+src: Mass testing is being touted as a way of getting us much closer to a normal life and hopefully of avoiding it in the future.
+tar: 大规模测试被吹捧为让我们更接近正常生活的一种方式，并希望在未来避免这种情况。
+ref: 大规模测试【正在】被吹捧为让我们更接近正常生活的一种方式，并希望在未来「避免这种情况」。
+
+Issue 110		U
+src: Mass testing is being touted as a way of getting us much closer to a normal life and even of avoiding it in the meantime.
+tar: 大规模测试被吹捧为让我们更接近正常生活的一种方式，甚至同时避免正常生活。
+
+Issue 111		U
+src: Mass testing is being touted as a way of getting us much closer to a normal life and even of avoiding it in the end.
+tar: 大规模测试被吹捧为让我们更接近正常生活甚至最终避免正常生活的一种方式。
+
+Issue 112		U
+src: Mass testing is being touted as a way of getting us much closer to a normal life and even of avoiding it in the extreme.
+tar: 大规模测试被吹捧为让我们更接近正常生活的一种方式，甚至可以极端地避免它。
+
+Issue 113		L; U
+src: Mass testing is being touted as a way of getting us much closer to a normal life and even of avoiding it in the past.
+tar: 大规模测试被吹捧为让我们更接近正常生活的一种方式，甚至避免过去的生活。
+ref: 大规模测试【正在】被吹捧为让我们更接近正常生活的一种方式，甚至「避免过去的生活」。
+
+Issue 114		U
+src: Mass testing is being touted as a way of getting us much closer to a normal life and even of avoiding it in the dark.
+tar: 大规模测试被吹捧为让我们更接近正常生活的一种方式，甚至可以避免在黑暗中生活。
+
+Issue 115		L; W
+src: We have also developed packaging and storage innovations to be fit for use for the range of locations where we believe this will take place.
+tar: 我们还开发了包装和存储创新，以适应我们认为将要实现的一系列地点。
+ref: 我们还开发了包装和存储创新，「以适应我们认为将要实现的一系列地点【以适用于 我们认为会发生这种情况的地点范围】」。
+
+Issue 116		L; W
+src: We have also developed packaging and product innovations to be fit for use for the range of locations where we believe this will take place.
+tar: 我们还开发了包装和产品创新，以适应我们认为将要发生的一系列地点。
+
+Issue 117		W
+src: The relationship between source control and personal protection is likely complementary and possibly synergistic, so that individual benefit exists with the community mask use.
+tar: 源头控制和个人保护之间的关系可能是互补的，也可能是协同的，因此社区口罩的使用存在个人利益。
+ref: 源头控制和个人保护之间的关系可能是互补的，也可能是协同的，因此「社区口罩的使用存在个人利益【个人利益与社区口罩的使用共存】」。
+
+Issue 118		W
+src: The relationship between source control and environmental protection is likely complementary and possibly synergistic, so that individual benefit exists with the community mask use.
+tar: 源头控制和环境保护之间的关系可能是互补的，也可能是协同的，因此个人利益与社区口罩的使用是存在的。
+ref: 源头控制和环境保护之间的关系可能是互补的，也可能是协同的，因此个人利益与社区口罩的使用「是存在的」。
+
+Issue 119		W
+src: The relationship between source control and personal benefit is likely complementary and possibly synergistic, so that individual benefit exists with the community mask use.
+tar: 源头控制与个人利益之间的关系可能是互补的，也可能是协同的，因此个人利益与社区口罩的使用是存在的。
+
+Issue 120		W
+src: The relationship between source control and personal gain is likely complementary and possibly synergistic, so that individual benefit exists with the community mask use.
+tar: 源头控制与个人利益之间的关系可能是互补的，也可能是协同的，因此社区口罩的使用存在个人利益。
+
+Issue 121		W
+src: The relationship between source control and personal protection is likely close and possibly synergistic, so that individual benefit exists with the community mask use.
+tar: 源头控制和个人保护之间的关系可能是密切的，并且可能是协同的，因此社区口罩的使用存在个人利益。
+
+Issue 122		W
+src: The relationship between source control and personal protection is likely indirect and possibly synergistic, so that individual benefit exists with the community mask use.
+tar: 源头控制和个人保护之间的关系可能是间接的，可能是协同的，因此社区口罩的使用存在个人利益。
+
+Issue 123		W
+src: The relationship between source control and personal protection is likely complementary and often synergistic, so that individual benefit exists with the community mask use.
+tar: 源头控制和个人保护之间的关系可能是互补的，而且往往是协同的，因此社区口罩的使用存在个人利益。
+
+Issue 124		W
+src: The relationship between source control and personal protection is likely complementary and perhaps synergistic, so that individual benefit exists with the community mask use.
+tar: 源头控制和个人保护之间的关系可能是互补的，也许是协同的，因此社区口罩的使用存在个人利益。
+
+Issue 125		W
+src: The relationship between source control and personal protection is likely complementary and possibly synergistic, so that mutual benefit exists with the community mask use.
+tar: 源头控制和个人防护之间的关系可能是互补的，也可能是协同的，因此与社区口罩的使用存在互惠互利。
+
+Issue 126		W
+src: The relationship between source control and personal protection is likely complementary and possibly synergistic, so that individual safety exists with the community mask use.
+tar: 源头控制和个人防护之间的关系可能是互补的，也可能是协同的，因此个人安全与社区口罩的使用是存在的。
+
+Issue 127		W
+src: The relationship between source control and personal protection is likely complementary and possibly synergistic, so that individual benefit exists with the correct mask use.
+tar: 源头控制和个人防护之间的关系可能是互补的，也可能是协同的，因此正确使用口罩可以带来个人利益。
+
+Issue 128		U
+src: It also means that elective surgeries are being put off for reasons like knee replacements, for hip surgery or heart surgery in some countries.
+tar: 这也意味着，在某些国家，由于膝关节置换、髋关节手术或心脏手术等原因，选择性手术被推迟。
+ref: 这也意味着，在某些国家，由于膝关节置换、髋关节手术或心脏手术等原因，选择性手术【正在】被推迟。
+
+Issue 129		U
+src: It also means that elective surgeries are being put off for purposes like knee replacements, for hip surgery or heart surgery in some countries.
+tar: 这也意味着在某些国家，出于膝关节置换、髋关节手术或心脏手术等目的，选择性手术被推迟。
+
+Issue 130		U; W
+src: It also means that elective surgeries are being put off for procedures like knee replacements, for hip surgery or heart surgery in some countries.
+tar: 这也意味着在一些国家，选择性手术被推迟用于膝关节置换、髋关节手术或心脏手术等手术。
+ref: 这也意味着在一些国家，选择性手术「【…】被推迟用于」膝关节置换、髋关节手术或心脏手术等手术。
+
+Issue 131		W
+src: It also means that elective surgeries are being put off for things like knee replacements, for hip surgery or heart disease in some countries.
+tar: 这也意味着在某些国家，由于膝关节置换，髋关节手术或心脏病等原因，选择性手术被推迟。
+ref: 这也意味着在某些国家，「由于膝关节置换，髋关节手术或心脏病等原因」，选择性手术被推迟。
+
+Issue 132		U
+src: The concerns of state health agencies were perhaps most evident in Nevada, where in early October the state approved antigen testing in all homes.
+tar: 州卫生机构的担忧在内华达州最为明显，10月初，该州批准在所有家庭中进行抗原检测。
+ref: 州卫生机构的担忧在内华达州【可能】最为明显，10月初，该州批准在所有家庭中进行抗原检测。
+
+Issue 133		U
+src: The concerns of state health officials were perhaps most prominent in Nevada, where in early October the state approved antigen testing in all homes.
+tar: 州卫生官员的担忧在内华达州最为突出，10月初，该州批准在所有家庭中进行抗原检测。
+ref: 州卫生官员的担忧在内华达州【可能】最为突出，10月初，该州批准在所有家庭中进行抗原检测。
+
+Issue 134		U
+src: The concerns of state health officials were perhaps most evident in Nevada, where in early October the state approved antigen testing in all children.
+tar: 州卫生官员的担忧在内华达州最为明显，10月初，该州批准对所有儿童进行抗原检测。
+ref: 州卫生官员的担忧在内华达州【可能】最为明显，10月初，该州批准对所有儿童进行抗原检测。
+
+Issue 135		U
+src: The concerns of state health officials were perhaps most evident in Nevada, where in early October the state approved antigen testing in all hospitals.
+tar: 州卫生官员的担忧在内华达州最为明显，10月初，该州批准在所有医院进行抗原检测。
+
+Issue 136		L
+src: I probably met more people and engaged in more discussions about the benefits of healthcare in China in one day than during the entire third quarter.
+tar: 我可能在一天内遇到了更多的人，并参与了更多关于中国医疗保健益处的讨论，而不是整个第三季度。
+ref: 【与整个第三季度相比，】我可能在一天内遇到了更多的人，并参与了更多关于中国医疗保健益处的讨论「，而不是整个第三季度」。
+
+Issue 137		L
+src: I probably met more people and engaged in more discussions about the benefits of healthcare in China in one day than during the entire past quarter.
+tar: 我可能在一天内遇到了更多的人，并参与了更多关于中国医疗保健益处的讨论，而不是过去整个季度。
+ref: 我可能在一天内遇到了更多的人，并参与了更多关于中国医疗保健益处的讨论「，而不是过去整个季度」。
+
+Issue 138		U
+src: Those living under level four status would be advised to avoid any unnecessary travel out of the area, and to keep journeys within the area to an absolute minimum.
+tar: 建议那些生活在四级以下的人避免任何不必要的旅行离开该地区，并将该地区的旅行保持在绝对最低限度。
+ref: 建议那些生活在四级【状态/地位】以下的人避免任何不必要的旅行离开该地区，并将该地区的旅行保持在绝对最低限度。
+
+Issue 139		U
+src: Those living under level four status would be advised to avoid any direct travel out of the area, and to keep journeys within the area to an absolute minimum.
+tar: 建议居住在四级以下的人避免直接离开该地区，并将该地区的旅行保持在绝对最低限度。
+ref: 建议居住在四级【状态/地位】以下的人避免「【任何】直接离开该地区【的旅行】」，并将该地区的旅行保持在绝对最低限度。
+
+Issue 140		U
+src: Those living under level four status would be advised to avoid any public travel out of the area, and to keep journeys within the area to an absolute minimum.
+tar: 建议居住在四级以下的人避免任何公众旅行离开该地区，并将该地区的旅行保持在绝对最低限度。
+ref: 建议居住在四级【状态/地位】以下的人避免任何公众旅行离开该地区，并将该地区的旅行保持在绝对最低限度。
+
+Issue 141		U
+src: Those living under level four status would be advised to avoid any future travel out of the area, and to keep journeys within the area to an absolute minimum.
+tar: 建议那些生活在四级以下的人避免今后离开该地区，并将该地区的旅行保持在绝对最低限度。
+ref: 建议那些生活在四级【状态/地位】以下的人避免【任何】今后离开该地区【的旅行】，并将该地区的旅行保持在绝对最低限度。
+
+Issue 142		U
+src: Those living under level four status would be advised to avoid any unnecessary travel out of the city, and to keep journeys within the area to an absolute minimum.
+tar: 建议居住在四级以下的人避免任何不必要的出城旅行，并将该地区的旅行保持在绝对最低限度。
+ref: 建议居住在四级【…】以下的人避免任何不必要的出城旅行，并将该地区的旅行保持在绝对最低限度。
+
+Issue 143		U
+src: Those living under level four status would be advised to avoid any unnecessary travel out of the country, and to keep journeys within the area to an absolute minimum.
+tar: 建议那些生活在四级以下的人避免任何不必要的出国旅行，并将该地区的旅行保持在绝对最低限度。
+
+Issue 144		U
+src: Those living under level four status would be advised to avoid any unnecessary travel out of the town, and to keep journeys within the area to an absolute minimum.
+tar: 建议那些生活在四级以下的人避免任何不必要的出城旅行，并将该地区的旅行保持在绝对最低限度。
+
+Issue 145		U
+src: Any items which are determined for use will undergo a vigorous series of safety checks, they will be absolutely safe for the public to use.
+tar: 任何确定使用的物品都将经过一系列严格的安全检查，对公众来说绝对安全。
+ref: 任何确定使用的物品都将经过一系列严格的安全检查，对公众【使用】来说绝对安全。
+
+Issue 146		U
+src: Any items which are determined for use will undergo a full series of safety checks, they will be absolutely safe for the public to use.
+tar: 任何确定使用的物品都将经过一系列的安全检查，公众使用绝对安全。
+ref: 任何确定使用的物品都将经过一系列【完整】的安全检查，公众使用绝对安全。
+
+Issue 147		U
+src: Any items which are determined for use will undergo a long series of safety checks, they will be absolutely safe for the public to use.
+tar: 任何确定使用的物品都将经过一系列的安全检查，公众使用绝对安全。
+ref: 任何确定使用的物品都将经过一系列【…】的安全检查，公众使用绝对安全。
+
+Issue 148		U
+src: Any items which are determined for use will undergo a vigorous battery of safety checks, they will be absolutely safe for the public to use.
+tar: 任何确定使用的物品都将经过严格的安全检查，公众使用绝对安全。
+ref: 任何确定使用的物品都将经过严格的安全检查【…】，公众使用绝对安全。
+
+Issue 149		U
+src: Any items which are determined for use will undergo a vigorous course of safety checks, they will be absolutely safe for the public to use.
+tar: 任何确定使用的物品都将经过严格的安全检查，公众使用绝对安全。
+ref: 任何确定使用的物品都将经过严格的安全检查【…】，公众使用绝对安全。
+
+Issue 150		U
+src: Alternatively, once daily, testing in a hospital or nursing home could prevent an outbreak among people who are at the highest risk of infection.
+tar: 或者，每天一次，在医院或疗养院进行检测可以防止感染风险最高的人群爆发。
+ref: 或者，每天一次，在医院或疗养院进行检测可以防止感染风险最高的人群「爆发【疾病/疫情】」。
+
+Issue 151		U
+src: However, once daily, testing in a hospital or nursing home could prevent an outbreak among patients who are at the highest risk of infection.
+tar: 然而，每天一次，在医院或疗养院进行检测可以防止感染风险最高的患者爆发。
+
+Issue 152		U
+src: However, once daily, testing in a hospital or nursing home could prevent an outbreak among individuals who are at the highest risk of infection.
+tar: 然而，每天一次，在医院或疗养院进行检测可以防止感染风险最高的人群爆发。
+
+Issue 153		U
+src: However, once daily, testing in a hospital or nursing home could prevent an outbreak among children who are at the highest risk of infection.
+tar: 然而，每天一次，在医院或疗养院进行检测可以防止感染风险最高的儿童爆发。
+
+Issue 154		U
+src: However, once daily, testing in a hospital or nursing home could prevent an outbreak among people who are at the greatest risk of infection.
+tar: 然而，每天一次，在医院或疗养院进行检测可以防止感染风险最大的人群爆发。
+
+Issue 155		U
+src: However, once daily, testing in a hospital or nursing home could prevent an outbreak among people who are at the lowest risk of infection.
+tar: 然而，每天一次，在医院或疗养院进行检测可以防止感染风险最低的人群爆发。
+
+Issue 156		U
+src: However, once daily, testing in a hospital or nursing home could prevent an outbreak among people who are at the least risk of infection.
+tar: 然而，每天一次，在医院或疗养院进行检测可以防止感染风险最低的人群爆发。
+
+Issue 157		U
+src: However, once daily, testing in a hospital or nursing home could prevent an outbreak among people who are at the highest risk of disease.
+tar: 然而，每天一次，在医院或疗养院进行检测可以防止疾病风险最高的人群爆发。
+
+Issue 158		U
+src: However, once daily, testing in a hospital or nursing home could prevent an outbreak among people who are at the highest risk of illness.
+tar: 然而，每天一次，在医院或疗养院进行检测可以防止疾病风险最高的人群爆发。
+
+Issue 159		U
+src: However, once daily, testing in a hospital or nursing home could prevent an outbreak among people who are at the highest risk of cancer.
+tar: 然而，每天一次，在医院或疗养院进行检测可以防止癌症风险最高的人群爆发。
+
+Issue 160		U
+src: However, once daily, testing in a hospital or nursing home could prevent an outbreak among people who are at the highest risk of pneumonia.
+tar: 然而，每天一次，在医院或疗养院进行检测可以防止肺炎风险最高的人群爆发。
+
+Issue 161		U
+src: All over the world, many hospitals are already at their breaking point, with overwhelmed and overworked staff members and a massive surge of patients.
+tar: 在世界各地，许多医院已经处于崩溃的边缘，工作人员不堪重负，工作过度，患者激增。
+ref: 在世界各地，许多医院已经处于崩溃的边缘，工作人员不堪重负，工作过度，患者【大规模/大幅度】激增。
+
+Issue 162		U
+src: All over the world, public hospitals are already at their breaking point, with overwhelmed and overworked staff members and a massive surge of patients.
+tar: 在世界各地，公立医院已经处于崩溃的边缘，工作人员不堪重负，工作过度，患者激增。
+
+Issue 163		W
+src: All over the world, many hospitals are currently at their breaking point, with overwhelmed and overworked staff members and a massive surge of patients.
+tar: 在世界各地，许多医院目前正处于崩溃的边缘，工作人员不堪重负，过度劳累，患者大量涌入。
+ref: 在世界各地，许多医院目前正处于崩溃的边缘，工作人员不堪重负，过度劳累，患者大量「涌入」。
+
+Issue 164		L; U
+src: All over the world, many hospitals are already at their breaking point, with unpaid and overworked staff members and a massive surge of patients.
+tar: 在世界各地，许多医院已经处于崩溃的边缘，无薪和过度劳累的工作人员以及大量患者。
+ref: 在世界各地，许多医院已经处于崩溃的边缘，「无薪和过度劳累的工作人员以及大量患者」。
+
+Issue 165		L; U
+src: All over the world, many hospitals are already at their breaking point, with young and overworked staff members and a massive surge of patients.
+tar: 在世界各地，许多医院已经处于崩溃的边缘，年轻且过度劳累的工作人员和大量患者。
+
+Issue 166		L; U
+src: All over the world, many hospitals are already at their breaking point, with unemployed and overworked staff members and a massive surge of patients.
+tar: 在世界各地，许多医院已经处于崩溃的边缘，失业和过度劳累的工作人员以及大量患者。
+
+Issue 167		W
+src: The report said since the start of the pandemic adverse trends in poverty, however, employment and mental health for children and young people had worsened.
+tar: 报告称，自大流行开始以来，贫困的不利趋势，儿童和年轻人的就业和心理健康状况恶化。
+ref: 报告称，自「大流行【病】」开始以来，贫困的不利趋势，儿童和年轻人的就业和心理健康状况恶化。
+
+Issue 168		W
+src: The government said since the start of the pandemic adverse trends in poverty, however, employment and mental health for children and young people had worsened.
+tar: 然而，政府表示，自大流行开始以来，贫困的不利趋势，儿童和年轻人的就业和心理健康状况恶化。
+
+Issue 169		W
+src: The ministry said since the start of the pandemic adverse trends in poverty, however, employment and mental health for children and young people had worsened.
+tar: 该部表示，自大流行开始以来，贫困的不利趋势，然而，儿童和青少年的就业和心理健康状况恶化。
+
+Issue 170		W
+src: The paper said since the start of the pandemic adverse trends in poverty, however, employment and mental health for children and young people had worsened.
+tar: 该报称，自大流行开始以来，贫困的不利趋势，然而，儿童和年轻人的就业和心理健康状况恶化。
+
+Issue 171		W
+src: The report said since the start of the pandemic adverse trends in healthcare, however, employment and mental health for children and young people had worsened.
+tar: 报告称，自大流行开始以来，医疗保健的不利趋势，然而，儿童和青少年的就业和心理健康状况恶化。
+
+Issue 172		W
+src: The report said since the start of the pandemic adverse trends in poverty, however, employment and public health for children and young people had worsened.
+tar: 报告称，自大流行开始以来，贫困的不利趋势，儿童和年轻人的就业和公共卫生已经恶化。
+ref: 报告称，自「大流行」开始以来，贫困的不利趋势，儿童和年轻人的就业和公共卫生已经恶化。
+
+Issue 173		W
+src: The report said since the start of the pandemic adverse trends in poverty, however, employment and ill health for children and young people had worsened.
+tar: 报告称，自大流行开始以来，贫困的不利趋势，儿童和年轻人的就业和健康状况恶化。
+ref: 报告称，自「大流行」开始以来，贫困的不利趋势，儿童和年轻人的就业和健康状况【不佳(的情况 已经)】恶化。
+
+Issue 174		W
+src: The report said since the start of the pandemic adverse trends in poverty, however, employment and poor health for children and young people had worsened.
+tar: 报告称，自大流行开始以来，贫困的不利趋势，儿童和年轻人的就业和健康状况不佳的情况恶化。
+
+Issue 175		L; W
+src: The hope is this can be used to stamp out an outbreak, by allowing everyone who tests positive to isolate, without subject to strict restrictions.
+tar: 希望这可以用来消除疫情，允许每个检测呈阳性的人隔离，不受严格限制。
+ref: 希望这可以用来「消除疫情【阻止 疫情爆发】」，【通过】允许每个检测呈阳性的人隔离，不受严格限制。
+
+Issue 176		L; W
+src: The theory is this can be used to stamp out an outbreak, by allowing everyone who tests positive to isolate, without subject to strict restrictions.
+tar: 理论上，这可以用来消除疫情，允许每个检测呈阳性的人隔离，不受严格限制。
+ref: 理论上，这可以用来「消除疫情」，【…】允许每个检测呈阳性的人隔离，不受严格限制。
+
+Issue 177		W
+src: The intention is this can be used to stamp out an outbreak, by allowing everyone who tests positive to isolate, without subject to strict restrictions.
+tar: 目的是通过允许每个检测呈阳性的人隔离，而不受严格限制，从而可以用来消除疫情。
+ref: 目的是通过允许每个检测呈阳性的人隔离，而不受严格限制，从而可以用来「消除疫情」。
+
+Issue 178		L; W
+src: The hope is this can be used to stamp out an outbreak, by allowing someone who tests positive to isolate, without subject to strict restrictions.
+tar: 希望这可以用来消除疫情，允许检测呈阳性的人隔离，不受严格限制。
+
+Issue 179		L; W
+src: The hope is this can be used to stamp out an outbreak, by allowing everyone who tests positive to isolate, without subject to strict conditions.
+tar: 希望这可以用来消除疫情，允许每个检测呈阳性的人隔离，不受严格条件的限制。
+
+Issue 180		U
+src: In case of detecting suspect COVID patients, we are going to activate all the protection procedures for our staff and transport the potentially dangerous persons to hospital.
+tar: 如果发现可疑的COVID患者，我们将为我们的员工启动所有保护程序，并将潜在危险人员运送到医院。
+ref: 如果发现可疑的「COVID」患者，我们将为我们的员工启动所有保护程序，并将潜在危险人员运送到医院。
+
+Issue 181		U
+src: In order of detecting suspect COVID patients, we are going to activate all the protection procedures for our staff and transport the potentially dangerous persons to hospital.
+tar: 为了发现可疑的COVID患者，我们将启动所有保护程序，并将潜在的危险人员运送到医院。
+ref: 为了发现可疑的「COVID」患者，我们将【为我们的员工】启动所有保护程序，并将潜在的危险人员运送到医院。
+
+Issue 182		U
+src: In anticipation of detecting suspect COVID patients, we are going to activate all the protection procedures for our staff and transport the potentially dangerous persons to hospital.
+tar: 为了发现可疑的COVID患者，我们将启动所有保护程序，并将潜在的危险人员运送到医院。
+
+Issue 183		L; U
+src: In case of detecting suspect COVID patients, we are going to activate all the protection procedures for our hospital and transport the potentially dangerous persons to hospital.
+tar: 如果发现疑似COVID患者，我们将启动我们医院的所有保护程序，并将潜在危险人员运送到医院。
+ref: 如果发现疑似COVID患者，我们将【为我们的医院】启动「我们医院的」所有保护程序，并将潜在危险人员运送到医院。
+
+Issue 184		U; W
+src: Keyhole surgery can allow complicated procedures to be carried out with just a few access cuts, helping to reduce patient recovery times and the risk of infection.
+tar: 锁孔手术只需几次切口即可进行复杂的手术，有助于减少患者恢复时间和感染风险。
+ref: 锁孔手术只需「几次切口【几个 可以进入的 切口】」即可进行复杂的手术，有助于减少患者恢复时间和感染风险。
+
+Issue 185		U; W
+src: Keyhole technology can allow complicated procedures to be carried out with just a few access cuts, helping to reduce patient recovery times and the risk of infection.
+tar: 锁孔技术只需几次切入即可进行复杂的手术，有助于减少患者恢复时间和感染风险。
+ref: 锁孔技术只需「几次切入」即可进行复杂的手术，有助于减少患者恢复时间和感染风险。
+
+Issue 186		W
+src: Keyhole treatment can allow complicated procedures to be carried out with just a few access cuts, helping to reduce patient recovery times and the risk of infection.
+tar: 锁孔治疗只需几次通道切口即可进行复杂的手术，有助于减少患者恢复时间和感染风险。
+ref: 锁孔治疗只需「几次通道」切口即可进行复杂的手术，有助于减少患者恢复时间和感染风险。
+
+Issue 187		W
+src: Keyhole design can allow complicated procedures to be carried out with just a few access cuts, helping to reduce patient recovery times and the risk of infection.
+tar: 锁孔设计只需几次通道切口即可进行复杂的手术，有助于减少患者恢复时间和感染风险。
+
+Issue 188		W
+src: Keyhole extraction can allow complicated procedures to be carried out with just a few access cuts, helping to reduce patient recovery times and the risk of infection.
+tar: 锁孔提取只需几次通道切口即可进行复杂的程序，有助于减少患者恢复时间和感染风险。
+
+Issue 189		W
+src: Keyhole ventilation can allow complicated procedures to be carried out with just a few access cuts, helping to reduce patient recovery times and the risk of infection.
+tar: 锁孔通气只需几次通道切口即可进行复杂的手术，有助于减少患者恢复时间和感染风险。
+
+Issue 190		W
+src: Keyhole management can allow complicated procedures to be carried out with just a few access cuts, helping to reduce patient recovery times and the risk of infection.
+tar: 锁孔管理只需几次通道切口即可执行复杂的程序，有助于减少患者恢复时间和感染风险。
+
+Issue 191		U; W
+src: Keyhole surgery can allow complicated procedures to be carried out with just a few access cuts, helping to reduce patient wait times and the risk of infection.
+tar: 锁孔手术只需几次切口即可进行复杂的手术，有助于减少患者等待时间和感染风险。
+ref: 锁孔手术只需「几次切口」即可进行复杂的手术，有助于减少患者等待时间和感染风险。
+
+Issue 192		N
+src: A 14-year-old teenage boy is starting legal proceedings against NHS England over delays to gender reassignment treatment.
+tar: 一名14岁的十几岁男孩正在对NHS英格兰提起法律诉讼，原因是延迟了变性治疗。
+ref: 一名14岁的十几岁男孩正在对「NHS」英格兰提起法律诉讼，原因是延迟了变性治疗。
+
+Issue 193		N; W
+src: A 14-year-old transgender boy is starting legal proceedings against NHS England over delays to gender reassignment treatment.
+tar: 一名14岁的跨性别男孩正在对NHS英格兰提起法律诉讼，理由是延迟性别重新分配治疗。
+ref: 一名14岁的跨性别男孩正在对「NHS」英格兰提起法律诉讼，理由是延迟「性别重新分配【变性】」治疗。
+
+Issue 194		N; U
+src: A 14-year-old teenage girl is starting legal proceedings against NHS England over delays to gender reassignment treatment.
+tar: 一名14岁的少女因延迟变性治疗而对NHS英格兰提起法律诉讼。
+ref: 一名14岁的【十几岁】少女【正在】因延迟变性治疗而对「NHS」英格兰提起法律诉讼。
+
+Issue 195		N; U
+src: A 14-year-old teenage boy is starting legal actions against NHS England over delays to gender reassignment treatment.
+tar: 一名14岁的十几岁男孩因延迟变性治疗而对NHS英格兰提起法律诉讼。
+ref: 一名14岁的十几岁男孩【…】因延迟变性治疗而对「NHS」英格兰提起法律诉讼。
+
+Issue 196		N; W
+src: A 14-year-old teenage boy is starting legal battles against NHS England over delays to gender reassignment treatment.
+tar: 一名14岁的十几岁男孩正在与NHS英格兰就性别重新分配治疗的延迟展开法律斗争。
+
+Issue 197		N; U; W
+src: A 14-year-old teenage boy is starting legal proceedings against NHS England over objections to gender reassignment treatment.
+tar: 一名14岁的十几岁男孩因反对性别重新分配治疗而对NHS英格兰提起法律诉讼。
+
+Issue 198		N; U
+src: A 14-year-old teenage boy is starting legal proceedings against NHS England over delays to gender reassignment surgery.
+tar: 一名14岁的十几岁男孩因延迟变性手术而对NHS英格兰提起法律诉讼。
+
+Issue 199		W
+src: The results are only representative of nine marine corps recruit classes and more research is needed to determine whether similar results would emerge among other classes of young adults.
+tar: 结果仅代表九个海军陆战队新兵班级，需要更多的研究来确定其他类别的年轻人中是否会出现类似的结果。
+ref: 结果仅代表九个海军陆战队新兵班级，需要更多的研究来确定其他「类别【班级】」的年轻人中是否会出现类似的结果。
+
+Issue 200		W
+src: The findings are only representative of nine marine corps recruit classes and more research is needed to determine whether similar results would emerge among other classes of young adults.
+tar: 研究结果仅代表九个海军陆战队新兵班级，需要更多的研究来确定其他类别的年轻人中是否会出现类似的结果。
+
+Issue 201		W
+src: The data are only representative of nine marine corps recruit classes and more research is needed to determine whether similar results would emerge among other classes of young adults.
+tar: 这些数据仅代表九个海军陆战队新兵班级，需要更多的研究来确定其他类别的年轻人中是否会出现类似的结果。
+
+Issue 202		W
+src: The studies are only representative of nine marine corps recruit classes and more research is needed to determine whether similar results would emerge among other classes of young adults.
+tar: 这些研究仅代表九个海军陆战队新兵班级，需要更多的研究来确定其他类别的年轻人中是否会出现类似的结果。
+
+Issue 203		W
+src: The results are only typical of nine marine corps recruit classes and more research is needed to determine whether similar results would emerge among other classes of young adults.
+tar: 结果只是九个海军陆战队新兵班级的典型结果，需要更多的研究来确定其他类别的年轻人中是否会出现类似的结果。
+
+Issue 204		W
+src: The results are only characteristic of nine marine corps recruit classes and more research is needed to determine whether similar results would emerge among other classes of young adults.
+tar: 结果只是九个海军陆战队新兵班级的特征，需要更多的研究来确定其他类别的年轻人中是否会出现类似的结果。
+
+Issue 205		W
+src: The results are only representative of nine press corps recruit classes and more research is needed to determine whether similar results would emerge among other classes of young adults.
+tar: 结果仅代表九个记者团招募班级，需要更多的研究来确定其他类别的年轻人中是否会出现类似的结果。
+
+Issue 206		W
+src: The results are only representative of nine marine infantry recruit classes and more research is needed to determine whether similar results would emerge among other classes of young adults.
+tar: 结果仅代表九个海军陆战队步兵新兵班级，需要更多的研究来确定其他类别的年轻人中是否会出现类似的结果。
+
+Issue 207		W
+src: The results are only representative of nine marine corps recruit classes and more research is needed to determine whether similar effects would emerge among other classes of young adults.
+tar: 结果仅代表九个海军陆战队新兵班级，需要更多的研究来确定其他类别的年轻人是否会出现类似的影响。
+
+Issue 208		W
+src: The results are only representative of nine marine corps recruit classes and more research is needed to determine whether similar results would emerge among other classes of military adults.
+tar: 结果仅代表九个海军陆战队新兵班级，需要更多的研究来确定其他级别的军事成年人是否会出现类似的结果。
+ref: 结果仅代表九个海军陆战队新兵班级，需要更多的研究来确定其他「级别【班级】」的军事成年人是否会出现类似的结果。
+
+Issue 209		W
+src: The results are only representative of nine marine corps recruit classes and more research is needed to determine whether similar results would emerge among other classes of naval adults.
+tar: 结果仅代表九个海军陆战队新兵班级，需要更多的研究来确定其他级别的海军成年人是否会出现类似的结果。
+
+Issue 210		W
+src: The results are only representative of nine marine corps recruit classes and more research is needed to determine whether similar results would emerge among other classes of civilian adults.
+tar: 结果仅代表九个海军陆战队新兵班级，需要更多的研究来确定其他类别的平民成年人是否会出现类似的结果。
+
+Issue 211		W
+src: The results are only representative of nine marine corps recruit classes and more research is needed to determine whether similar results would emerge among other classes of young sailors.
+tar: 结果仅代表九个海军陆战队新兵班级，需要更多的研究来确定其他类别的年轻水手是否会出现类似的结果。
+
+Issue 212		W
+src: The results are only representative of nine marine corps recruit classes and more research is needed to determine whether similar results would emerge among other classes of young women.
+tar: 结果仅代表九个海军陆战队新兵班级，需要更多的研究来确定其他类别的年轻女性是否会出现类似的结果。
+
+Issue 213		W
+src: Sun says cat owners should create some quiet corner or a climber to give their cats a choice when they want to be alone and try not to scare them.
+tar: 孙说，猫主人应该创造一个安静的角落或登山者，让他们的猫在想独处时有一个选择，尽量不要吓到它们。
+ref: 孙说，猫主人应该创造一个安静的角落或「登山者【爬架】」，让他们的猫在想独处时有一个选择，尽量不要吓到它们。
+
+Issue 214		W
+src: Sun says cat owners should create some quiet corner or a climber to give their cats a choice when they want to be inside and try not to scare them.
+tar: 孙说，猫主人应该创造一个安静的角落或登山者，让他们的猫在想呆在里面时有一个选择，尽量不要吓到它们。
+
+Issue 215		O
+src: Argentina is a country that is in most jeopardy from invasive alien species-ones that are introduced, accidentally or intentionally, outside of their natural geographic range and which are problematic.
+tar: 阿根廷是一个最容易受到外来入侵物种危害的国家，这些外来入侵物种是在其自然地理范围之外意外或故意引入的，并且存在问题。
+ref: 阿根廷是一个「最容易受到外来入侵物种危害【最受外来入侵物种危害/受外来入侵物种危害最严重】」的国家，这些外来入侵物种是在其自然地理范围之外意外或故意引入的，并且存在问题。
+
+Issue 216		O
+src: China is a country that is in most jeopardy from invasive alien species-ones that are introduced, deliberately or intentionally, outside of their natural geographic range and which are problematic.
+tar: 中国是一个最容易受到外来入侵物种危害的国家，这些物种是有意或故意引入的，超出其自然地理范围，并且存在问题。
+ref: 中国是一个「最容易受到外来入侵物种危害」的国家，这些物种是有意或故意引入的，超出其自然地理范围，并且存在问题。
+
+Issue 217		O
+src: China is a country that is in most jeopardy from invasive alien species-ones that are introduced, accidentally or deliberately, outside of their natural geographic range and which are problematic.
+tar: 中国是一个最容易受到外来入侵物种危害的国家，这些物种是在其自然地理范围之外意外或故意引入的，并且存在问题。
+
+Issue 218		U
+src: China is a country that is in most jeopardy from invasive alien species-ones that are introduced, accidentally or otherwise, outside of their natural geographic range and which are problematic.
+tar: 中国是一个受到外来入侵物种危害最大的国家，这些外来物种是在其自然地理范围之外意外引入的，并且存在问题。
+ref: 中国是一个受到外来入侵物种危害最大的国家，这些外来物种是在其自然地理范围之外意外【或以其他方式】引入的，并且存在问题。
+
+Issue 219		U
+src: China is a country that is in most jeopardy from invasive alien species-ones that are introduced, accidentally or accidentally, outside of their natural geographic range and which are problematic.
+tar: 中国是一个受到外来入侵物种危害最大的国家，这些物种是在其自然地理范围之外意外引入的，并且存在问题。
+ref: 中国是一个受到外来入侵物种危害最大的国家，这些物种是在其自然地理范围之外意外【…】引入的，并且存在问题。
+
+Issue 220		O
+src: China is a country that is in most jeopardy from invasive alien species-ones that are introduced, accidentally or intentionally, outside of their normal geographic range and which are problematic.
+tar: 中国是一个最容易受到外来入侵物种危害的国家，这些物种是有意或无意地在其正常地理范围之外引入的，并且存在问题。
+ref: 中国是一个「最容易受到外来入侵物种危害」的国家，这些物种是有意或无意地在其正常地理范围之外引入的，并且存在问题。
+
+Issue 221		O
+src: China is a country that is in most jeopardy from invasive alien species-ones that are introduced, accidentally or intentionally, outside of their current geographic range and which are problematic.
+tar: 中国是一个最容易受到外来入侵物种危害的国家，这些外来入侵物种是在其当前地理范围之外意外或故意引入的，并且存在问题。
+
+Issue 222		O
+src: China is a country that is in most jeopardy from invasive alien species-ones that are introduced, accidentally or intentionally, outside of their limited geographic range and which are problematic.
+tar: 中国是一个最容易受到外来入侵物种危害的国家，这些外来入侵物种是在其有限的地理范围之外意外或故意引入的，并且存在问题。
+
+Issue 223		O
+src: China is a country that is in most jeopardy from invasive alien species-ones that are introduced, accidentally or intentionally, outside of their natural genetic range and which are problematic.
+tar: 中国是一个最容易受到外来入侵物种危害的国家，这些外来入侵物种是有意或无意地引入的，超出了其自然遗传范围，并且存在问题。
+
+Issue 224		O
+src: China is a country that is in most jeopardy from invasive alien species-ones that are introduced, accidentally or intentionally, outside of their natural geographic range and which are invasive.
+tar: 中国是一个最容易受到外来入侵物种危害的国家，这些外来物种是在其自然地理范围之外意外或故意引入的，并且是入侵性的。
+
+Issue 225		O
+src: China is a country that is in most jeopardy from invasive alien species-ones that are introduced, accidentally or intentionally, outside of their natural geographic range and which are destructive.
+tar: 中国是一个最容易受到外来入侵物种危害的国家，这些外来入侵物种是在其自然地理范围之外意外或故意引入的，并且具有破坏性。
+
+Issue 226		O
+src: China is a country that is in most jeopardy from invasive alien species-ones that are introduced, accidentally or intentionally, outside of their natural geographic range and which are dangerous.
+tar: 中国是一个最容易受到外来入侵物种危害的国家，这些外来入侵物种是在其自然地理范围之外意外或故意引入的，并且是危险的。
+
+Issue 227		U; W
+src: Since COVID-19 appeared, traditional Chinese medicine has taken center stage, and in line with public health needs and awareness the trend has been to the more quintessential health regime.
+tar: 自 COVID-19 出现以来，传统中医药已成为中心舞台，根据公共卫生需求和意识，趋势是更典型的卫生制度。
+ref: 自 「COVID-19」 出现以来，传统中医药已「成为【占据】」中心舞台，「根据【符合】」公共卫生需求和意识，趋势「是更典型的卫生制度」。
+
+Issue 228		U; W
+src: Since COVID-19 appeared, traditional Chinese medicine has taken center stage, and in line with contemporary health needs and awareness the trend has been to the more quintessential health regime.
+tar: 自 COVID-19 出现以来，传统中医药已成为中心舞台，并且根据当代健康需求和意识，趋势是更典型的健康制度。
+
+Issue 229		L
+src: Staff at a specialist care unit did not attempt to resuscitate a woman with epilepsy, learning difficulties and sleep apnoea when she was found dead, an alarm heard.
+tar: 一个专科护理单位的工作人员没有试图在一名患有癫痫，学习困难和睡眠呼吸暂停的妇女被发现死亡时复苏，听到警报。
+ref: 一个专科护理单位的工作人员没有试图在一名患有癫痫，学习困难和睡眠呼吸暂停的妇女被发现死亡时【对她(进行)】复苏，听到警报。
+
+Issue 230		L
+src: Staff at a specialist care unit did not attempt to resuscitate a patient with epilepsy, learning difficulties and sleep apnoea when she was found dead, an alarm heard.
+tar: 一个专科护理单位的工作人员没有试图复苏癫痫，学习困难和睡眠呼吸暂停的患者，当她被发现死亡时，听到警报。
+ref: 一个专科护理单位的工作人员没有试图复苏癫痫，学习困难和睡眠呼吸暂停的患者「，当她被发现死亡时」，听到警报。
+
+Issue 231		L
+src: Staff at a specialist care unit did not attempt to resuscitate a woman with epilepsy, learning difficulties and sleep apnoea when she was found unconscious, an alarm heard.
+tar: 专科护理单位的工作人员没有试图复苏一名患有癫痫，学习困难和睡眠呼吸暂停的妇女，当她被发现失去知觉时，听到警报。
+ref: 专科护理单位的工作人员没有试图复苏一名患有癫痫，学习困难和睡眠呼吸暂停的妇女「，当她被发现失去知觉时」，听到警报。
+
+Issue 232		L; U
+src: Staff at a specialist care unit did not attempt to resuscitate a woman with epilepsy, learning difficulties and sleep apnoea when she was found dead, an ambulance heard.
+tar: 一辆救护车听到，当一名患有癫痫，学习困难和睡眠呼吸暂停的妇女被发现死亡时，她没有试图复苏。
+ref: 一辆救护车听到，当一名患有癫痫，学习困难和睡眠呼吸暂停的妇女被发现死亡时，「她【专科护理单位的工作人员】」没有试图【…】复苏。
+
+Issue 233		L
+src: Staff at a specialist care unit did not attempt to resuscitate a woman with epilepsy, learning difficulties and sleep apnoea when she was found dead, an officer heard.
+tar: 一名官员听说，一名专科护理单位的工作人员在发现死亡时没有试图复苏一名患有癫痫，学习困难和睡眠呼吸暂停的妇女。
+ref: 一名官员听说，一名专科护理单位的工作人员「在发现死亡时」没有试图复苏一名患有癫痫，学习困难和睡眠呼吸暂停的妇女。
+
+Issue 234		L
+src: Staff at a specialist care unit did not attempt to resuscitate a woman with epilepsy, learning difficulties and sleep apnoea when she was found dead, an inquiry heard.
+tar: 一项调查听到，专科护理单位的工作人员在发现死亡时没有试图复苏一名患有癫痫，学习困难和睡眠呼吸暂停的妇女。
+
+Issue 235		L
+src: Staff at a specialist care unit did not attempt to resuscitate a woman with epilepsy, learning difficulties and sleep apnoea when she was found dead, an announcement heard.
+tar: 一个专科护理单位的工作人员在被发现死亡时没有试图复苏一名患有癫痫，学习困难和睡眠呼吸暂停的妇女。
+
+Issue 236		U
+src: The company will highlight this, as well as its own COVID-19 vaccine and vaccine programs, in addition to its portfolio of assets in china, vaccines.
+tar: 该公司将强调这一点，以及它自己的COVID-19疫苗和疫苗计划，以及其在中国的资产组合，疫苗。
+ref: 该公司将强调这一点，以及它自己的「COVID-19」疫苗和疫苗计划，以及其在中国的资产组合，疫苗。
+
+Issue 237		U
+src: The report will highlight this, as well as its own COVID-19 vaccine and vaccine programs, in addition to its portfolio of assets in china, vaccines.
+tar: 该报告将重点介绍这一点，以及其自己的COVID-19疫苗和疫苗计划，以及其在中国的资产组合，疫苗。
+
+Issue 238		U
+src: The listing will highlight this, as well as its own COVID-19 vaccine and vaccine programs, in addition to its portfolio of assets in china, vaccines.
+tar: 该列表将重点介绍这一点，以及其自己的COVID-19疫苗和疫苗计划，以及其在中国的资产组合，疫苗。
+
+Issue 239		U
+src: The company will highlight this, as well as its own COVID-19 vaccine and vaccine programs, in addition to its acquisition of assets in china, vaccines.
+tar: 除了收购中国资产疫苗外，该公司还将强调这一点，以及自己的COVID-19疫苗和疫苗计划。
+
+Issue 240		U; W
+src: Nursing homes are still taking days to get back Covid-19 test results as many as the Trump administration's central strategy to prevent the spread of the virus among old and sick Americans.
+tar: 养老院仍然需要几天时间才能获得Covid-19测试结果，这与特朗普政府防止病毒在老年人和患病美国人中传播的核心战略一样多。
+ref: 养老院仍然需要几天时间才能「获得【取回】」「Covid-19」测试结果，这与特朗普政府防止病毒在老年人和患病美国人中传播的核心战略一样多。
+
+Issue 241		U; W
+src: Nursing homes are reportedly taking days to get back Covid-19 test results as many as the Trump administration's central strategy to prevent the spread of the virus among old and sick Americans.
+tar: 据报道，养老院需要几天时间才能获得Covid-19测试结果，这与特朗普政府防止病毒在老年人和患病美国人中传播的核心战略一样多。
+
+Issue 242		U
+src: Nursing homes are still taking risks to get back Covid-19 test results as many as the Trump administration's central strategy to prevent the spread of the virus among old and sick Americans.
+tar: 养老院仍在冒险取回Covid-19测试结果，这与特朗普政府防止病毒在老年人和患病美国人中传播的核心战略一样多。
+
+Issue 243		U
+src: Nursing homes are still taking efforts to get back Covid-19 test results as many as the Trump administration's central strategy to prevent the spread of the virus among old and sick Americans.
+tar: 养老院仍在努力取回Covid-19测试结果，这与特朗普政府防止病毒在老年人和患病美国人中传播的核心战略一样多。
+
+Issue 244		U; W
+src: Nursing homes are still taking days to get back Covid-19 test results as many as the Trump administration's current strategy to prevent the spread of the virus among old and sick Americans.
+tar: 养老院仍然需要几天时间才能获得Covid-19测试结果，这与特朗普政府目前防止病毒在老年人和患病美国人中传播的战略一样多。
+
+Issue 245		L; U; W
+src: Nursing homes are still taking days to get back Covid-19 test results as many as the Trump administration's central office to prevent the spread of the virus among old and sick Americans.
+tar: 养老院仍然需要几天时间才能获得与特朗普政府中央办公室一样多的Covid-19测试结果，以防止病毒在年老和生病的美国人中传播。
+ref: 养老院仍然需要几天时间才能「获得」「与特朗普政府中央办公室一样多的」「Covid-19」测试结果，以防止病毒在年老和生病的美国人中传播。
+
+Issue 246		U; W
+src: Nursing homes are still taking days to get back Covid-19 test results as many as the Trump administration's central strategy to prevent the spread of the virus among infected and sick Americans.
+tar: 养老院仍然需要几天时间才能获得Covid-19测试结果，这与特朗普政府防止病毒在受感染和患病的美国人中传播的核心战略一样多。
+
+Issue 247		U; W
+src: Nursing homes are still taking days to get back Covid-19 test results as many as the Trump administration's central strategy to prevent the spread of the virus among old and young Americans.
+tar: 养老院仍然需要几天时间才能获得Covid-19测试结果，这与特朗普政府防止病毒在美国老年人和年轻人中传播的核心战略一样多。
+
+Issue 248		U; W
+src: Nursing homes are still taking days to get back Covid-19 test results as many as the Trump administration's central strategy to prevent the spread of the virus among old and new Americans.
+tar: 养老院仍然需要几天时间才能获得Covid-19测试结果，这与特朗普政府防止病毒在新老美国人之间传播的核心战略一样多。
+
+Issue 249		W
+src: In the process, as well as being attacked by the bacteria, the holes and spaces formed by the voracious eaters can invite secondary pathogens into the tomato, causing it to die.
+tar: 在这个过程中，除了受到细菌的攻击外，贪婪的食客形成的孔洞和空间还会将二次病原体带入番茄，导致番茄死亡。
+ref: 在这个过程中，除了受到细菌的攻击外，贪婪的食客形成的孔洞和空间还会将「二次【次生/次级/继发性】」病原体带入番茄，导致番茄死亡。
+
+Issue 250		W
+src: In the meantime, as well as being attacked by the bacteria, the holes and spaces formed by the voracious eaters can invite secondary pathogens into the tomato, causing it to die.
+tar: 与此同时，除了受到细菌的攻击外，贪婪的食客形成的孔洞和空间还会将二次病原体引入番茄，导致番茄死亡。
+
+Issue 251		W
+src: In the garden, as well as being attacked by the bacteria, the holes and spaces formed by the voracious eaters can invite secondary pathogens into the tomato, causing it to die.
+tar: 在花园里，除了受到细菌的攻击外，贪婪的食客形成的孔洞和空间还会将二次病原体带入番茄，导致番茄死亡。
+
+Issue 252		W
+src: In the tomato, as well as being attacked by the bacteria, the walls and spaces formed by the voracious eaters can invite secondary pathogens into the tomato, causing it to die.
+tar: 在番茄中，除了受到细菌的攻击外，贪婪的食客形成的墙壁和空间还会将二次病原体引入番茄，导致番茄死亡。
+
+Issue 253		W
+src: In the tomato, as well as being attacked by the bacteria, the holes and holes formed by the voracious eaters can invite secondary pathogens into the tomato, causing it to die.
+tar: 在番茄中，除了受到细菌的攻击外，贪婪的食客形成的孔洞和孔洞还会将二次病原体带入番茄，导致番茄死亡。
+
+Issue 254		W
+src: In the tomato, as well as being attacked by the bacteria, the holes and cracks formed by the voracious eaters can invite secondary pathogens into the tomato, causing it to die.
+tar: 在番茄中，除了受到细菌的攻击外，贪婪的食客形成的孔洞和裂缝还会将二次病原体带入番茄，导致番茄死亡。
+
+Issue 255		W
+src: In the tomato, as well as being attacked by the bacteria, the holes and wounds formed by the voracious eaters can invite secondary pathogens into the tomato, causing it to die.
+tar: 在番茄中，除了受到细菌的攻击外，贪婪的食客形成的孔洞和伤口还会将二次病原体带入番茄，导致番茄死亡。
+
+Issue 256		W
+src: In the tomato, as well as being attacked by the bacteria, the holes and openings formed by the voracious eaters can invite secondary pathogens into the tomato, causing it to die.
+tar: 在番茄中，除了受到细菌的攻击外，贪婪的食客形成的孔洞和开口还会将二次病原体带入番茄，导致番茄死亡。
+
+Issue 257		W
+src: In the tomato, as well as being attacked by the bacteria, the holes and pits formed by the voracious eaters can invite secondary pathogens into the tomato, causing it to die.
+tar: 在番茄中，除了受到细菌的攻击外，贪婪的食客形成的孔洞和坑会邀请继发性病原体进入番茄，导致番茄死亡。
+ref: 在番茄中，除了受到细菌的攻击外，贪婪的食客形成的孔洞和坑会「邀请」继发性病原体进入番茄，导致番茄死亡。
+
+Issue 258		W
+src: In the tomato, as well as being attacked by the bacteria, the holes and tubes formed by the voracious eaters can invite secondary pathogens into the tomato, causing it to die.
+tar: 在番茄中，除了受到细菌的攻击外，贪婪的食客形成的孔和管子还会将二次病原体引入番茄，导致番茄死亡。
+
+Issue 259		W
+src: In the tomato, as well as being attacked by the bacteria, the holes and pockets formed by the voracious eaters can invite secondary pathogens into the tomato, causing it to die.
+tar: 在番茄中，除了受到细菌的攻击外，贪婪的食客形成的孔洞和口袋还会将二次病原体引入番茄，导致番茄死亡。
+
+Issue 260		W
+src: In the tomato, as well as being attacked by the bacteria, the holes and spaces formed by the voracious eaters can invite secondary pathogens into the fruit, causing it to die.
+tar: 在番茄中，除了受到细菌的攻击外，贪婪的食客形成的孔洞和空间还会将二次病原体带入水果，导致其死亡。
+
+Issue 261		N
+src: He also announced that next year marks the 20th year of SCO, and activities like art exhibitions, film festival, student football tournament and boxing tournament will be held in member colleges.
+tar: 他还宣布，明年是新加坡华乐团成立20周年，成员院校将举办艺术展览、电影节、学生足球赛和拳击比赛等活动。
+ref: 他还宣布，明年是「新加坡华乐团」成立20周年，成员院校将举办艺术展览、电影节、学生足球赛和拳击比赛等活动。
+
+Issue 262		N
+src: He also announced that next year marks the 20th year of SCO, and activities like art exhibitions, film festival, student football tournament and boxing tournament will be held in member clubs.
+tar: 他还宣布，明年是新加坡华乐团成立20周年，成员俱乐部将举办艺术展览、电影节、学生足球锦标赛和拳击比赛等活动。
+
+Issue 263		N
+src: He also announced that next year marks the 20th year of SCO, and activities like art exhibitions, film festival, student football tournament and boxing tournament will be held in member universities.
+tar: 他还宣布，明年是新加坡华乐团成立20周年，成员大学将举办艺术展览、电影节、学生足球锦标赛和拳击比赛等活动。
+
+Issue 264		L; W
+src: Romanelli, who has spent six years living in China, attributed this poor performance in part to the government's comprehensive approach to public health measures and policies that protect business and incentivize investment.
+tar: 罗曼内利在中国生活了六年，他将这种糟糕的表现部分归因于政府对公共卫生措施和政策的全面处理，以保护企业和激励投资。
+ref: 罗曼内利在中国生活了六年，他将这种糟糕的表现部分归因于政府「对公共卫生措施和政策的全面处理，以保护企业和激励投资【对保护企业和激励投资的公共卫生措施和政策采取的综合方法】」。
+
+Issue 265		W
+src: Romanelli, who has spent six years living in China, attributed this poor performance in part to the government's poor approach to public health measures and policies that protect business and incentivize investment.
+tar: 罗曼内利在中国生活了六年，他将这种糟糕的表现部分归因于政府对保护企业和激励投资的公共卫生措施和政策的态度不佳。
+ref: 罗曼内利在中国生活了六年，他将这种糟糕的表现部分归因于政府对保护企业和激励投资的公共卫生措施和政策的「态度不佳【不佳方法】」。
+
+Issue 266		W
+src: Romanelli, who has spent six years living in China, attributed this poor performance in part to the government's comprehensive approach to public spending measures and policies that protect business and incentivize investment.
+tar: 罗曼内利在中国生活了六年，他将这种糟糕的表现部分归因于政府对保护企业和激励投资的公共支出措施和政策的全面处理。
+ref: 罗曼内利在中国生活了六年，他将这种糟糕的表现部分归因于政府对保护企业和激励投资的公共支出措施和政策的「全面处理【综合方法】」。
+
+Issue 267		W
+src: Romanelli, who has spent six years living in China, attributed this poor performance in part to the government's comprehensive approach to public health measures and policies that protect business and incentivize innovation.
+tar: 罗曼内利在中国生活了六年，他将这种糟糕的表现部分归因于政府对公共卫生措施和政策的全面处理，这些措施和政策保护企业和激励创新。
+ref: 罗曼内利在中国生活了六年，他将这种糟糕的表现部分归因于政府对公共卫生措施和政策的「全面处理」，这些措施和政策保护企业和激励创新。
+
+Issue 268		U
+src: Seventy percent of the new sleepers said they could sleep seven hours a day, and nearly 8 percent said they suffered from heavy sleep loss, with average sleep of five hours or more.
+tar: 百分之七十的新睡眠者表示他们每天可以睡七个小时，近8%的人说他们睡眠严重不足，平均睡眠时间为五个小时或更长时间。
+ref: 百分之七十的新睡眠者表示他们每天可以睡七个小时，近8%的人说他们【遭受/患有】睡眠严重不足，平均睡眠时间为五个小时或更长时间。
+
+Issue 269		U
+src: Seventy percent of the new sleepers said they could sleep seven hours a day, and nearly 8 percent said they suffered from total sleep loss, with average sleep of five hours or more.
+tar: 百分之七十的新睡眠者表示他们每天可以睡七个小时，近8%的人说他们完全睡眠不足，平均睡眠时间为五个小时或更长时间。
+
+Issue 270		U
+src: Seventy percent of the new sleepers said they could sleep seven hours a day, and nearly 8 percent said they suffered from excessive sleep loss, with average sleep of five hours or more.
+tar: 百分之七十的新睡眠者表示他们每天可以睡七个小时，近8%的人说他们睡眠过度不足，平均睡眠时间为五个小时或更长时间。
+
+Issue 271		W
+src: Using a cat teaser to simulate bird or tiny mouse can let the cat enjoy the happiness of hunting, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用猫咪的预告片来模拟鸟或小老鼠，可以让猫咪享受狩猎的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+ref: 用「猫咪的预告片【逗猫棒】」来模拟鸟或小老鼠，可以让猫咪享受狩猎的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 272		W
+src: Using a mouse teaser to simulate bird or tiny mouse can let the cat enjoy the happiness of hunting, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用鼠标预告片模拟鸟或小老鼠可以让猫咪享受狩猎的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 273		W
+src: Using a tail teaser to simulate bird or tiny mouse can let the cat enjoy the happiness of hunting, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用尾巴预告来模拟鸟或小老鼠，可以让猫咪享受狩猎的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 274		W
+src: Using a bird teaser to simulate bird or tiny mouse can let the cat enjoy the happiness of hunting, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用鸟儿戏片模拟鸟或小老鼠，可以让猫咪享受狩猎的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 275		W
+src: Using a body teaser to simulate bird or tiny mouse can let the cat enjoy the happiness of hunting, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 使用身体预告片来模拟鸟或小老鼠可以让猫享受狩猎的快乐，充分和高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 276		W
+src: Using a face teaser to simulate bird or tiny mouse can let the cat enjoy the happiness of hunting, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用面部戏片模拟鸟或小老鼠可以让猫咪享受狩猎的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 277		W
+src: Using a cat teaser to simulate rabbit or tiny mouse can let the cat enjoy the happiness of hunting, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用猫咪的戏谑来模拟兔子或小老鼠，可以让猫咪享受狩猎的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 278		W
+src: Using a cat teaser to simulate squirrel or tiny mouse can let the cat enjoy the happiness of hunting, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用猫咪的戏片来模拟松鼠或小老鼠，可以让猫咪享受狩猎的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 279		W
+src: Using a cat teaser to simulate rat or tiny mouse can let the cat enjoy the happiness of hunting, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用猫咪的戏片来模拟老鼠或小老鼠，可以让猫咪享受狩猎的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 280		W
+src: Using a cat teaser to simulate dog or tiny mouse can let the cat enjoy the happiness of hunting, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用猫咪的戏谑来模拟狗或小老鼠，可以让猫咪享受狩猎的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 281		W
+src: Using a cat teaser to simulate fox or tiny mouse can let the cat enjoy the happiness of hunting, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用猫咪的预告来模拟狐狸或小老鼠，可以让猫咪享受狩猎的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 282		W
+src: Using a cat teaser to simulate bird or tiny movement can let the cat enjoy the happiness of hunting, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用猫咪的预告来模拟鸟儿或微小的动作，可以让猫咪享受狩猎的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 283		W
+src: Using a cat teaser to simulate bird or tiny life can let the cat enjoy the happiness of hunting, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用猫咪的戏谑来模拟鸟儿或渺小的生命，可以让猫咪享受狩猎的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 284		W
+src: Using a cat teaser to simulate bird or tiny behavior can let the cat enjoy the happiness of hunting, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用猫咪的戏谑来模拟鸟或微小的行为，可以让猫咪享受狩猎的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 285		W
+src: Using a cat teaser to simulate bird or tiny mouse can let the user enjoy the happiness of hunting, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 使用猫咪预告片模拟鸟或小老鼠，可以让使用者享受狩猎的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 286		W
+src: Using a cat teaser to simulate bird or tiny mouse can let the hunter enjoy the happiness of hunting, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用猫咪的戏谑来模拟鸟或小老鼠，可以让猎人享受狩猎的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 287		W
+src: Using a cat teaser to simulate bird or tiny mouse can let the owner enjoy the happiness of hunting, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用猫咪的戏谑来模拟鸟或小老鼠，可以让主人享受狩猎的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 288		W
+src: Using a cat teaser to simulate bird or tiny mouse can let the person enjoy the happiness of hunting, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用猫咪的戏片来模拟鸟或小老鼠，可以让人享受狩猎的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 289		W
+src: Using a cat teaser to simulate bird or tiny mouse can let the predator enjoy the happiness of hunting, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用猫咪的戏弄来模拟鸟或小老鼠，可以让捕食者享受狩猎的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 290		W
+src: Using a cat teaser to simulate bird or tiny mouse can let the cat enjoy the happiness of life, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用猫咪的预告来模拟鸟或小老鼠，可以让猫咪享受生活的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 291		W
+src: Using a cat teaser to simulate bird or tiny mouse can let the cat enjoy the happiness of living, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用猫咪的预告来模拟鸟或小老鼠，可以让猫咪享受生活的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 292		W
+src: Using a cat teaser to simulate bird or tiny mouse can let the cat enjoy the happiness of eating, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用猫咪的预告片来模拟鸟或小老鼠，可以让猫咪享受吃东西的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 293		W
+src: Using a cat teaser to simulate bird or tiny mouse can let the cat enjoy the happiness of hearing, and sufficient and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用猫咪的预告来模拟鸟或小老鼠，可以让猫咪享受听觉的快乐，充分高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 294		W
+src: Using a cat teaser to simulate bird or tiny mouse can let the cat enjoy the happiness of hunting, and easy and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用猫咪的戏谑来模拟鸟或小老鼠，可以让猫咪享受狩猎的快乐，轻松优质的运动可以模仿咬人或破坏家具的行为。
+
+Issue 295		W
+src: Using a cat teaser to simulate bird or tiny mouse can let the cat enjoy the happiness of hunting, and proper and high quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用猫咪的戏谑来模拟鸟或小老鼠，可以让猫咪享受狩猎的快乐，适当、高质量的运动可以模仿咬人或破坏家具的行为。
+
+Issue 296		W
+src: Using a cat teaser to simulate bird or tiny mouse can let the cat enjoy the happiness of hunting, and sufficient and good quality exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用猫咪的戏谑来模拟鸟或小老鼠，可以让猫咪享受狩猎的快乐，充分、质量好的运动可以模仿咬人或破坏家具的行为。
+
+Issue 297		W
+src: Using a cat teaser to simulate bird or tiny mouse can let the cat enjoy the happiness of hunting, and sufficient and high level exercise can mimic the behavior of biting people or destroying furniture.
+tar: 用猫咪的预告来模拟鸟或小老鼠，可以让猫咪享受狩猎的快乐，充分、高水平的运动可以模仿咬人或破坏家具的行为。
+
+Issue 298		W
+src: Using a cat teaser to simulate bird or tiny mouse can let the cat enjoy the happiness of hunting, and sufficient and high quality exercise can mimic the behavior of biting things or destroying furniture.
+tar: 用猫咪的预告来模拟小鸟或小老鼠，可以让猫咪享受狩猎的快乐，充分高质量的运动可以模仿咬东西或破坏家具的行为。
+
+Issue 299		W
+src: Europe's fur industry is back in the spotlight after Denmark's mass culling of tons of mink following an outbreak of coronavirus at farms in the netherlands.
+tar: 在荷兰农场爆发冠状病毒后，丹麦大规模扑杀数吨水貂后，欧洲的毛皮行业再次成为人们关注的焦点。
+ref: 在荷兰农场爆发冠状病毒后，丹麦大规模扑杀数吨水貂后，欧洲的毛皮行业「再次【重新】」成为人们关注的焦点。
+
+Issue 300		W
+src: Europe's fur industry is back in the bag after Denmark's mass culling of tons of mink following an outbreak of coronavirus at farms in the netherlands.
+tar: 在荷兰农场爆发冠状病毒后，丹麦大规模扑杀了数吨水貂，欧洲的毛皮行业又回到了袋子里。
+ref: 在荷兰农场爆发冠状病毒后，丹麦大规模扑杀了数吨水貂，欧洲的毛皮行业「又」回到了袋子里。
+
+Issue 301		W
+src: Europe's fur industry is back in the news after Denmark's mass culling of tons of mink following an outbreak of coronavirus at farms in the netherlands.
+tar: 在荷兰农场爆发冠状病毒后，丹麦大规模扑杀数吨水貂后，欧洲的毛皮行业又回到了新闻中。
+
+Issue 302		W
+src: The developers are applying for regulatory approval after trial results showed it protected 70% of people.
+tar: 开发商正在申请监管批准，因为试验结果表明它保护了70%的人。
+ref: 开发商正在申请监管批准，「因为」试验结果表明它保护了70%的人。
+
+Issue 303		W
+src: The trials are applying for regulatory approval after trial results showed it protected 70% of people.
+tar: 这些试验正在申请监管部门的批准，因为试验结果显示它保护了70%的人。
+
+Issue 304		W
+src: The developers are applying for federal approval after trial results showed it protected 70% of people.
+tar: 开发商正在申请联邦批准，因为试验结果显示它保护了70%的人。
+
+Issue 305		U
+src: The young student, 18 at the time, had herself eyelids cut, with the permission of her father, when she graduated from high school three years earlier, and that had made her feel more comfortable.
+tar: 三年前，这位18岁的年轻学生在父亲的允许下割掉了自己的眼皮，这让她感觉更舒服了。
+ref: 三年前【高中毕业时】，这位【当时】18岁的年轻学生在父亲的允许下割掉了自己的眼皮，这让她感觉更舒服了。
+
+Issue 306		W
+src: What McMahon, her family and the rest of us choose to do in the coming weeks will likely lay the groundwork for the pandemic's path during the long cold winter that follow this event.
+tar: 麦克马洪、她的家人和我们其他人在未来几周内选择做的事情可能会为这一事件之后漫长寒冷的冬季的大流行路径奠定基础。
+ref: 麦克马洪、她的家人和我们其他人在未来几周内选择做的事情可能会为这一事件之后漫长寒冷的冬季的「大流行【病】」路径奠定基础。
+
+Issue 307		W
+src: What McMahon, her family and the rest of us choose to do in the following weeks will likely lay the groundwork for the pandemic's path during the long cold winter that follow this event.
+tar: 麦克马洪、她的家人和我们其他人在接下来的几周里选择做什么，可能会为这次事件之后漫长寒冷的冬天的大流行路径奠定基础。
+
+Issue 308		W
+src: What McMahon, her family and the rest of us choose to do in the ensuing weeks will likely lay the groundwork for the pandemic's path during the long cold winter that follow this event.
+tar: 麦克马洪、她的家人和我们其他人在接下来的几周里选择做什么，可能会为这次事件之后漫长寒冷的冬天的大流行路径奠定基础。
+
+Issue 309		W
+src: What McMahon, her family and the rest of us choose to do in the coming weeks will effectively lay the groundwork for the pandemic's path during the long cold winter that follow this event.
+tar: 麦克马洪、她的家人和我们其他人在未来几周内选择做的事情将有效地为这次事件之后漫长寒冷的冬季的大流行路径奠定基础。
+
+Issue 310		W
+src: What McMahon, her family and the rest of us choose to do in the coming weeks will likely lay the groundwork for the pandemic's path during the following cold winter that follow this event.
+tar: 麦克马洪、她的家人和我们其他人在未来几周内选择做的事情可能会为这次事件之后的下一个寒冷冬季的大流行路径奠定基础。
+
+Issue 311		W
+src: What McMahon, her family and the rest of us choose to do in the coming weeks will likely lay the groundwork for the pandemic's path during the bitterly cold winter that follow this event.
+tar: 麦克马洪、她的家人和我们其他人在未来几周内选择做的事情可能会为这次事件之后的严寒冬季的大流行路径奠定基础。
+
+Issue 312		W
+src: What McMahon, her family and the rest of us choose to do in the coming weeks will likely lay the groundwork for the pandemic's path during the first cold winter that follow this event.
+tar: 麦克马洪、她的家人和我们其他人在未来几周内选择做的事情可能会为这次事件后的第一个寒冷冬季的大流行路径奠定基础。
+
+Issue 313		L
+src: We have staff who have moved out to live elsewhere in order to protect relatives at home, staff who have cancelled holidays, who aren't seeing their loved ones because they dedicated to working here and they know the urgency.
+tar: 我们有工作人员为了保护家里的亲人而搬到其他地方居住，有些工作人员取消了假期，他们因为致力于在这里工作而看不到亲人，他们知道紧迫性。
+ref: 我们有工作人员为了保护家里的亲人而搬到其他地方居住，有些工作人员取消了假期，「他们【有 员工】」因为致力于在这里工作而看不到亲人，他们知道紧迫性。
+
+Issue 314		L
+src: We have staff who have moved out to live elsewhere in order to protect relatives at risk, staff who have cancelled holidays, who aren't seeing their loved ones because they dedicated to working here and they know the urgency.
+tar: 我们的员工为了保护处于危险中的亲属而搬到其他地方居住，有些员工取消了假期，他们因为致力于在这里工作而看不到亲人，他们知道紧迫性。
+
+Issue 315		L; U
+src: In this brief scene we are given a snapshot of the mindset of Chinese in their 20s who are in love with nightlife, but are intent on preserving their own health, and looks, even as they light the candle at both ends.
+tar: 在这个简短的场景中，我们看到了20多岁的中国人的心态，他们热爱夜生活，但一心想保护自己的健康和外表，即使他们点燃了两端的蜡烛。
+ref: 在这个简短的场景中，我们「看到了20多岁的中国人的心态【写照】」，他们热爱夜生活，但一心想保护自己的健康和外表，即使他们点燃了「两端的蜡烛【蜡烛的两端】」。
+
+Issue 316		L; W
+src: In this brief story we are given a snapshot of the mindset of Chinese in their 20s who are in love with nightlife, but are intent on preserving their own health, and looks, even as they light the candle at both ends.
+tar: 在这个简短的故事中，我们简要介绍了20多岁的中国人的心态，他们热爱夜生活，但一心想保持自己的健康和外表，即使他们点燃了两端的蜡烛。
+ref: 在这个简短的故事中，我们「简要介绍了」20多岁的中国人的心态，他们热爱夜生活，但一心想保持自己的健康和外表，即使他们点燃了「两端的蜡烛」。
+
+Issue 317		U
+src: In this brief scene we are given a snapshot of the mindset of Chinese in their 20s who are in love with nightlife, but are intent on preserving their own health, and looks, especially as they light the candle at both ends.
+tar: 在这个简短的场景中，我们看到了20多岁的中国人的心态，他们热爱夜生活，但一心想保护自己的健康和外表，尤其是当他们点燃蜡烛的两端时。
+ref: 在这个简短的场景中，我们看到了20多岁的中国人的心态【…】，他们热爱夜生活，但一心想保护自己的健康和外表，尤其是当他们点燃蜡烛的两端时。
+
+Issue 318		U
+src: In this brief scene we are given a snapshot of the mindset of Chinese in their 20s who are in love with nightlife, but are intent on preserving their own health, and looks, even as they light the candle at both hands.
+tar: 在这个简短的场景中，我们看到了20多岁的中国人的心态，他们热爱夜生活，但一心想保护自己的健康和外表，即使他们双手点燃蜡烛。
+
+Issue 319		U
+src: Every time the virus spreads between animals it changes, and if it changes too much from the one that is circulating within animals at the moment, that might mean that any vaccine or treatment that will be produced soon might not work as well as it should do.
+tar: 每次病毒在动物之间传播时，它都会发生变化，如果它与目前在动物体内传播的病毒变化太大，这可能意味着即将生产的任何疫苗或治疗方法都可能无法发挥应有的作用。
+ref: 每次病毒在动物之间传播时，它都会发生变化，如果它与目前在动物体内传播的病毒变化太大，这可能意味着即将生产的任何疫苗或治疗方法都可能无法「发挥应有的作用【像应有的 那样好地 发挥作用】」。
+
+Issue 320		U
+src: Every way the virus spreads between animals it changes, and if it changes too much from the one that is circulating within animals at the moment, that might mean that any vaccine or treatment that will be produced soon might not work as well as it should do.
+tar: 病毒在动物之间传播的每一种方式都会发生变化，如果它与目前在动物体内传播的病毒变化太大，这可能意味着即将生产的任何疫苗或治疗方法都可能无法发挥应有的作用。
+
+Issue 321		U
+src: Every time the virus spreads between animals it changes, and if it changes too much from the one that is circulating within animals at the moment, that might mean that any vaccine or drug that will be produced soon might not work as well as it should do.
+tar: 每次病毒在动物之间传播时，它都会发生变化，如果它与目前在动物体内传播的病毒变化太大，这可能意味着即将生产的任何疫苗或药物都可能无法发挥应有的作用。
+
+Issue 322		U
+src: Every time the virus spreads between animals it changes, and if it changes too much from the one that is circulating within animals at the moment, that might mean that any vaccine or medication that will be produced soon might not work as well as it should do.
+tar: 每次病毒在动物之间传播时，它都会发生变化，如果它与目前在动物体内传播的病毒变化太大，这可能意味着即将生产的任何疫苗或药物都可能无法发挥应有的作用。
+
+Issue 323		U
+src: Every time the virus spreads between animals it changes, and if it changes too much from the one that is circulating within animals at the moment, that might mean that any vaccine or medicine that will be produced soon might not work as well as it should do.
+tar: 每次病毒在动物之间传播时，它都会发生变化，如果它与目前在动物体内传播的病毒变化太大，这可能意味着即将生产的任何疫苗或药物都可能无法发挥应有的作用。
+
+Issue 324		U
+src: The results come hot on the heels of similar results from Pfizer, and add to the confidence that vaccines can help end the epidemic.
+tar: 继辉瑞公司（Pfizer）的类似结果之后，这一结果变得炙手可热，并增加了疫苗可以帮助结束疫情的信心。
+ref: 「继【紧随】」辉瑞公司（Pfizer）的类似结果之后，这一结果变得炙手可热，并增加了疫苗可以帮助结束疫情的信心。
+
+Issue 325		U
+src: The findings come hot on the heels of similar results from Pfizer, and add to the confidence that vaccines can help end the epidemic.
+tar: 这些发现紧随辉瑞公司的类似结果之后，并增加了疫苗可以帮助结束疫情的信心。
+ref: 这些发现紧随辉瑞公司的类似结果之后【变得火爆】，并增加了疫苗可以帮助结束疫情的信心。
+
+Issue 326		U
+src: The reports come hot on the heels of similar results from Pfizer, and add to the confidence that vaccines can help end the epidemic.
+tar: 这些报告紧随辉瑞公司的类似结果而来，并增加了疫苗可以帮助结束疫情的信心。
+
+Issue 327		U
+src: The studies come hot on the heels of similar results from Pfizer, and add to the confidence that vaccines can help end the epidemic.
+tar: 这些研究紧随辉瑞公司的类似结果而来，并增加了疫苗可以帮助结束疫情的信心。
+
+Issue 328		U
+src: The results come hot on the heels of positive results from Pfizer, and add to the confidence that vaccines can help end the epidemic.
+tar: 在辉瑞公司取得积极成果之后，这一结果变得火热，并增加了疫苗可以帮助结束疫情的信心。
+ref: 「在【紧随】」辉瑞公司取得积极成果之后，这一结果变得火热，并增加了疫苗可以帮助结束疫情的信心。
+
+Issue 329		U
+src: The results come hot on the heels of similar data from Pfizer, and add to the confidence that vaccines can help end the epidemic.
+tar: 在辉瑞公司的类似数据之后，结果变得火热，并增加了疫苗可以帮助结束流行病的信心。
+
+Issue 330		U
+src: The results come hot on the heels of similar results from Pfizer, and add to the hope that vaccines can help end the epidemic.
+tar: 在辉瑞公司（Pfizer）的类似结果之后，这一结果变得火热，并增加了疫苗可以帮助结束这一流行病的希望。
+
+Issue 331		U
+src: The results come hot on the heels of similar results from Pfizer, and add to the belief that vaccines can help end the epidemic.
+tar: 在辉瑞的类似结果之后，这一结果变得炙手可热，并增加了疫苗可以帮助结束疫情的信念。
+
+Issue 332		U
+src: The results come hot on the heels of similar results from Pfizer, and add to the possibility that vaccines can help end the epidemic.
+tar: 在辉瑞公司（Pfizer）的类似结果之后，这一结果变得火热，并增加了疫苗可以帮助结束疫情的可能性。
+
+Issue 333		U
+src: The results come hot on the heels of similar results from Pfizer, and add to the idea that vaccines can help end the epidemic.
+tar: 在辉瑞公司的类似结果之后，这一结果变得火热，并增加了疫苗可以帮助结束流行病的想法。
+
+Issue 334		U
+src: The results come hot on the heels of similar results from Pfizer, and add to the confidence that vaccines can help end the plague.
+tar: 在辉瑞公司（Pfizer）的类似结果之后，这一结果变得火热，并增加了疫苗可以帮助结束瘟疫的信心。
+
+Issue 335		U
+src: The results come hot on the heels of similar results from Pfizer, and add to the confidence that vaccines can help end the crisis.
+tar: 在辉瑞公司（Pfizer）的类似结果之后，结果变得火热，并增加了疫苗可以帮助结束危机的信心。
+
+Issue 336		U
+src: The results come hot on the heels of similar results from Pfizer, and add to the confidence that vaccines can help end the conflict.
+tar: 在辉瑞公司（Pfizer）的类似结果之后，这一结果变得火热，并增加了疫苗可以帮助结束冲突的信心。
+
+Issue 337		U
+src: The results come hot on the heels of similar results from Pfizer, and add to the confidence that vaccines can help end the cancer.
+tar: 在辉瑞公司的类似结果之后，结果变得火热，并增加了疫苗可以帮助终结癌症的信心。
+
+Issue 338		L; U; W
+src: As people continue to warn about traveling over the holidays amid the fall surge, health experts are also investigating the virus' impact on children.
+tar: 随着人们继续警告在秋季激增期间旅行，健康专家也在调查该病毒对儿童的影响。
+ref: 随着人们继续警告【不要】在秋季「激增【高峰/大潮】」期间【假期】旅行，健康专家也在调查该病毒对儿童的影响。
+
+Issue 339		L; W
+src: As parents continue to warn about traveling over the holidays amid the fall surge, health experts are also investigating the virus' impact on children.
+tar: 随着父母继续警告在秋季激增期间在假期旅行，健康专家也在调查该病毒对儿童的影响。
+ref: 随着父母继续警告【…】在秋季「激增」期间在假期旅行，健康专家也在调查该病毒对儿童的影响。
+
+Issue 340		L; W
+src: As officials continue to warn about traveling over the holidays amid the fall surge, health experts are also investigating the virus' impact on children.
+tar: 随着官员们继续警告在秋季激增期间在假期旅行，健康专家也在调查该病毒对儿童的影响。
+
+Issue 341		L; W
+src: As neighbors continue to warn about traveling over the holidays amid the fall surge, health experts are also investigating the virus' impact on children.
+tar: 随着邻居们继续警告在秋季激增期间在假期旅行，健康专家也在调查该病毒对儿童的影响。
+
+Issue 342		L; W
+src: As people continue to warn about traveling over the mountains amid the fall surge, health experts are also investigating the virus' impact on children.
+tar: 随着人们继续警告在秋季激增中翻山越岭，卫生专家也在调查该病毒对儿童的影响。
+
+Issue 343		L
+src: As people continue to warn about traveling over the holidays amid the power surge, health experts are also investigating the virus' impact on children.
+tar: 随着人们继续警告在电力激增期间在假期旅行，健康专家也在调查病毒对儿童的影响。
+ref: 随着人们继续警告在【…】电力激增期间在假期旅行，健康专家也在调查病毒对儿童的影响。
+
+Issue 344		L; W
+src: As people continue to warn about traveling over the holidays amid the fall surge, health workers are also investigating the virus' impact on children.
+tar: 随着人们继续警告在秋季激增的情况下在假期旅行，卫生工作者也在调查病毒对儿童的影响。
+
+Issue 345		L; U; W
+src: As people continue to warn about traveling over the holidays amid the fall surge, health experts are actively investigating the virus' impact on children.
+tar: 随着人们继续警告在秋季激增期间旅行，健康专家正在积极调查该病毒对儿童的影响。
+ref: 随着人们继续警告【…】在秋季「激增」期间【…】旅行，健康专家正在积极调查该病毒对儿童的影响。
+
+Issue 346		L; U; W
+src: As people continue to warn about traveling over the holidays amid the fall surge, health experts are slowly investigating the virus' impact on children.
+tar: 随着人们继续警告在秋季激增期间旅行，健康专家正在慢慢调查病毒对儿童的影响。
+
+Issue 347		L; U; W
+src: As people continue to warn about traveling over the holidays amid the fall surge, health experts are also investigating the virus' impact on families.
+tar: 随着人们继续警告在秋季激增期间在假期旅行，健康专家也在调查该病毒对家庭的影响。
+

@@ -1,0 +1,2015 @@
+Issue 1		N; W
+src: Nintendo has dreamed up a better way for Mario Kart fans to play each other.
+tar: 任天堂为马里奥卡丁车迷们想出了一种更好的方式来玩对方。
+ref: 任天堂为「马里奥卡丁车」迷们想出了一种更好的方式来「玩对方」。
+
+Issue 2		W
+src: Nintendo has dreamed up a better way for Go Kart fans to play each other.
+tar: 任天堂已经为卡丁车迷们想出了一种更好的方式来玩对方。
+ref: 任天堂已经为卡丁车迷们想出了一种更好的方式来「玩对方」。
+
+Issue 3		W
+src: Keeping employees engaged and happy while they are working remotely has become a challenge for companies.
+tar: 让员工在远程工作时保持敬业度和快乐已成为公司面临的挑战。
+ref: 让员工在远程工作时保持「敬业度」和快乐已成为公司面临的挑战。
+
+Issue 4		N; W
+src: Twitter, already under attack from lawmakers and regulators, appeared to go down altogether on Thursday.
+tar: 已经受到立法者和监管机构攻击的Twitter似乎在周四完全下跌。
+ref: 已经受到立法者和监管机构攻击的「Twitter」似乎在周四完全「下跌」。
+
+Issue 5		N
+src: Twitter, often under attack from lawmakers and regulators, appeared to go down altogether on Thursday.
+tar: Twitter经常受到立法者和监管机构的攻击，周四似乎完全倒闭。
+
+Issue 6		N; W
+src: Twitter, reportedly under attack from lawmakers and regulators, appeared to go down altogether on Thursday.
+tar: 据报道，Twitter受到立法者和监管机构的攻击，周四似乎完全下跌。
+
+Issue 7		N; W
+src: Twitter, already under attack from lawmakers and regulators, appeared to go down early on Thursday.
+tar: 已经受到立法者和监管机构攻击的Twitter似乎在周四早些时候就下线了。
+
+Issue 8		N; W
+src: Twitter, already under attack from lawmakers and regulators, appeared to go down fast on Thursday.
+tar: 已经受到立法者和监管机构攻击的Twitter周四似乎迅速下跌。
+
+Issue 9		N; W
+src: Twitter, already under attack from lawmakers and regulators, appeared to go down quickly on Thursday.
+tar: 已经受到立法者和监管机构攻击的Twitter周四似乎迅速下跌。
+
+Issue 10		N; W
+src: Twitter, already under attack from lawmakers and regulators, appeared to go down rapidly on Thursday.
+tar: 已经受到立法者和监管机构攻击的Twitter周四似乎迅速下跌。
+
+Issue 11		N; W
+src: Twitter, already under attack from lawmakers and regulators, appeared to go down nationwide on Thursday.
+tar: Twitter已经受到立法者和监管机构的攻击，周四似乎在全国范围内下跌。
+
+Issue 12		U; W
+src: As the nation careens toward election day fears are bubbling up about possible election interference from a new source: ransomware.
+tar: 随着国家对选举日的担忧正在酝酿，人们担心可能来自一个新来源的选举干预：勒索软件。
+ref: 「随着国家对选举日的担忧正在酝酿，人们担心可能来自一个新来源的选举干预【随着国家临近选举日，对于可能来自一个新来源的选举干扰的担忧 正在 涌现/沸腾】」：勒索软件。
+
+Issue 13		O; W
+src: As the country careens toward election day fears are bubbling up about possible election interference from a new source: ransomware.
+tar: 随着该国逐渐接近选举日，人们对可能来自新来源的选举干预的担忧正在冒泡：勒索软件。
+ref: 随着该国「逐渐」接近选举日，人们对可能来自新来源的选举干预的担忧正在「冒泡【涌现/沸腾】」：勒索软件。
+
+Issue 14		W
+src: As the election careens toward election day fears are bubbling up about possible election interference from a new source: ransomware.
+tar: 随着选举日临近，人们对可能来自新来源的选举干预的担忧正在冒泡：勒索软件。
+
+Issue 15		W
+src: As the campaign careens toward election day fears are bubbling up about possible election interference from a new source: ransomware.
+tar: 随着竞选活动接近选举日，人们对可能来自新来源的选举干预的担忧正在冒泡：勒索软件。
+
+Issue 16		W
+src: As the state careens toward election day fears are bubbling up about possible election interference from a new source: ransomware.
+tar: 随着该州接近选举日，人们对可能来自新来源的选举干预的担忧正在冒泡：勒索软件。
+
+Issue 17		W
+src: As the government careens toward election day fears are bubbling up about possible election interference from a new source: ransomware.
+tar: 随着政府接近选举日，人们对可能来自新来源的选举干预的担忧正在冒泡：勒索软件。
+
+Issue 18		O; W
+src: As the party careens toward election day fears are bubbling up about possible election interference from a new source: ransomware.
+tar: 随着该党逐渐接近选举日，人们对可能来自新来源的选举干预的担忧正在冒泡：勒索软件。
+
+Issue 19		W
+src: As the nation careens toward election day rumors are bubbling up about possible election interference from a new source: ransomware.
+tar: 随着国家接近选举日，关于可能来自新来源的选举干预的谣言正在冒泡：勒索软件。
+
+Issue 20		W
+src: As the nation careens toward election day concerns are bubbling up about possible election interference from a new source: ransomware.
+tar: 随着国家接近选举日，人们对可能来自新来源的选举干预的担忧正在冒泡：勒索软件。
+
+Issue 21		L; W
+src: As the nation careens toward election day threats are bubbling up about possible election interference from a new source: ransomware.
+tar: 随着国家向选举日迈进，威胁正在冒泡，可能来自新来源的选举干预：勒索软件。
+ref: 随着国家向选举日迈进，「威胁正在冒泡，可能来自新来源的选举干预」：勒索软件。
+
+Issue 22		W
+src: As the nation careens toward election day rumours are bubbling up about possible election interference from a new source: ransomware.
+tar: 随着国家接近选举日，关于可能来自新来源的选举干预的谣言正在冒泡：勒索软件。
+
+Issue 23		W
+src: As the nation careens toward election day complaints are bubbling up about possible election interference from a new source: ransomware.
+tar: 随着国家接近选举日，关于可能来自新来源的选举干预的投诉正在冒泡：勒索软件。
+
+Issue 24		W
+src: As the nation careens toward election day stories are bubbling up about possible election interference from a new source: ransomware.
+tar: 随着国家接近选举日，关于可能来自新来源的选举干预的故事正在冒泡：勒索软件。
+
+Issue 25		W
+src: As the nation careens toward election day questions are bubbling up about possible election interference from a new source: ransomware.
+tar: 随着国家向选举日迈进，关于可能来自新来源的选举干预的问题正在冒泡：勒索软件。
+
+Issue 26		W
+src: As the nation careens toward election day reports are bubbling up about possible election interference from a new source: ransomware.
+tar: 随着国家接近选举日，关于可能来自新来源的选举干预的报告正在冒泡：勒索软件。
+
+Issue 27		W
+src: As the nation careens toward election day allegations are bubbling up about possible election interference from a new source: ransomware.
+tar: 随着国家进入选举日，关于可能来自新来源的选举干预的指控正在冒泡：勒索软件。
+
+Issue 28		O; W
+src: As the nation careens toward election day fears are bubbling up about potential election interference from a new source: ransomware.
+tar: 随着国家逐渐接近选举日，人们对来自新来源的潜在选举干预的担忧正在冒泡：勒索软件。
+
+Issue 29		W
+src: As the nation careens toward election day fears are bubbling up about possible government interference from a new source: ransomware.
+tar: 随着国家接近选举日，人们对政府可能来自新来源的干预的担忧正在冒泡：勒索软件。
+
+Issue 30		W
+src: As the nation careens toward election day fears are bubbling up about possible election fraud from a new source: ransomware.
+tar: 随着国家接近选举日，人们对可能来自新来源的选举欺诈的担忧正在冒泡：勒索软件。
+
+Issue 31		W
+src: As the nation careens toward election day fears are bubbling up about possible election violence from a new source: ransomware.
+tar: 随着国家接近选举日，人们对可能来自新来源的选举暴力的担忧正在冒泡：勒索软件。
+
+Issue 32		W
+src: As the nation careens toward election day fears are bubbling up about possible election disruption from a new source: ransomware.
+tar: 随着国家走向选举日，人们对可能来自新来源的选举中断的担忧正在冒泡：勒索软件。
+
+Issue 33		W
+src: As the nation careens toward election day fears are bubbling up about possible election manipulation from a new source: ransomware.
+tar: 随着国家接近选举日，人们对可能来自新来源的选举操纵的担忧正在冒泡：勒索软件。
+
+Issue 34		W
+src: As the nation careens toward election day fears are bubbling up about possible election damage from a new source: ransomware.
+tar: 随着国家接近选举日，人们对来自新来源的选举损害的担忧正在冒泡：勒索软件。
+
+Issue 35		W
+src: As the nation careens toward election day fears are bubbling up about possible election interference from a third source: ransomware.
+tar: 随着国家在选举日前夕，人们对来自第三个来源的可能选举干预的担忧正在冒泡：勒索软件。
+
+Issue 36		W
+src: As the nation careens toward election day fears are bubbling up about possible election interference from a single source: ransomware.
+tar: 随着国家对选举日的担忧正在酝酿，关于可能来自单一来源的选举干预的担忧正在冒泡：勒索软件。
+
+Issue 37		W
+src: As the nation careens toward election day fears are bubbling up about possible election interference from a second source: ransomware.
+tar: 随着国家对选举日的密切关注，人们对第二个来源可能进行的选举干预的担忧正在冒泡：勒索软件。
+
+Issue 38		W
+src: As the nation careens toward election day fears are bubbling up about possible election interference from a mysterious source: ransomware.
+tar: 随着国家接近选举日，人们对可能来自神秘来源的选举干预的担忧正在冒泡：勒索软件。
+
+Issue 39		W
+src: As the nation careens toward election day fears are bubbling up about possible election interference from a fourth source: ransomware.
+tar: 随着国家接近选举日，人们对第四个来源可能干扰选举的担忧正在冒泡：勒索软件。
+
+Issue 40		W
+src: As the nation careens toward election day fears are bubbling up about possible election interference from a hidden source: ransomware.
+tar: 随着国家接近选举日，人们对可能来自隐藏来源的选举干预的担忧正在冒泡：勒索软件。
+
+Issue 41		W
+src: As the nation careens toward election day fears are bubbling up about possible election interference from a secret source: ransomware.
+tar: 随着国家接近选举日，人们对可能来自秘密来源的选举干预的担忧正在冒泡：勒索软件。
+
+Issue 42		W
+src: As the nation careens toward election day fears are bubbling up about possible election interference from a fifth source: ransomware.
+tar: 随着国家接近选举日，人们对第五个来源的选举干预的担忧正在冒泡：勒索软件。
+
+Issue 43		W
+src: As the nation careens toward election day fears are bubbling up about possible election interference from a new threat: ransomware.
+tar: 随着国家接近选举日，人们对新威胁（勒索软件）可能干扰选举的担忧正在冒泡。
+
+Issue 44		W
+src: As the nation careens toward election day fears are bubbling up about possible election interference from a new technology: ransomware.
+tar: 随着国家接近选举日，人们对新技术可能干扰选举的担忧正在冒泡：勒索软件。
+
+Issue 45		W
+src: As the nation careens toward election day fears are bubbling up about possible election interference from a new weapon: ransomware.
+tar: 随着国家接近选举日，人们对一种新武器可能干扰选举的担忧正在冒泡：勒索软件。
+
+Issue 46		W
+src: As the nation careens toward election day fears are bubbling up about possible election interference from a new enemy: ransomware.
+tar: 随着国家接近选举日，人们对新敌人可能干预选举的担忧正在冒泡：勒索软件。
+
+Issue 47		W
+src: As the nation careens toward election day fears are bubbling up about possible election interference from a new tool: ransomware.
+tar: 随着国家接近选举日，人们对新工具可能干扰选举的担忧正在冒泡：勒索软件。
+
+Issue 48		W
+src: As the nation careens toward election day fears are bubbling up about possible election interference from a new virus: ransomware.
+tar: 随着国家接近选举日，人们对一种新病毒可能干扰选举的担忧正在冒泡：勒索软件。
+
+Issue 49		W
+src: As the nation careens toward election day fears are bubbling up about possible election interference from a new generation: ransomware.
+tar: 随着国家接近选举日，人们对新一代可能干预选举的担忧正在冒泡：勒索软件。
+
+Issue 50		N; W
+src: Mcdonald is putting a new spin on an old favorite as it tries to lure him back during the pandemic.
+tar: 麦克唐纳正在给一个老朋友带来新的旋转，因为它试图在大流行期间引诱他回来。
+ref: 「麦克唐纳」「正在给一个老朋友带来新的旋转」，因为它试图在「大流行」期间引诱他回来。
+
+Issue 51		W
+src: Mcdonald is putting a modern spin on an old favorite as it tries to lure him back during the pandemic.
+tar: 麦当劳正在为一个古老的最爱进行现代旋转，因为它试图在大流行期间吸引他回来。
+ref: 麦当劳正在为一个古老的最爱「进行现代旋转」，因为它试图在「大流行」期间吸引他回来。
+
+Issue 52		W
+src: The pandemic has severely disrupted the education and health systems that millions of parents depend on.
+tar: 这场大流行严重扰乱了数百万父母所依赖的教育和卫生系统。
+
+Issue 53		W
+src: The pandemic has severely disrupted the schooling and health systems that millions of parents depend on.
+tar: 这场大流行严重扰乱了数百万父母赖以生存的学校教育和卫生系统。
+
+Issue 54		W
+src: A hotly-contested case about government coverage for small businesses who were unable to trade prior to lockdown heads to the Supreme Court on Monday.
+tar: 周一，一起关于政府为在封锁之前无法交易的小企业提供保险的激烈争议案件将提交最高法院。
+ref: 周一，一起关于「政府为」在封锁之前无法交易的小企业「提供保险」的激烈争议案件将提交最高法院。
+
+Issue 55		U
+src: A hotly-contested case about liability coverage for small businesses who were unable to trade prior to lockdown heads to the Supreme Court on Monday.
+tar: 周一，一起关于在封锁前无法交易的小企业的责任保险的激烈争议案件将提交最高法院。
+ref: 周一，一起关于在封锁前无法交易的小企业的责任保险【范围】的激烈争议案件将提交最高法院。
+
+Issue 56		U
+src: A hotly-contested case about insurance coverage for small businesses who were free to trade prior to lockdown heads to the Supreme Court on Monday.
+tar: 周一，关于在封锁之前可以自由交易的小企业保险的激烈争议案件将提交最高法院。
+
+Issue 57		U; W
+src: This went to the High Court, where judges ruled that most, but not all of the policies involved should pay out offering a potential lifeline to these small businesses.
+tar: 高等法院裁定，大多数（但不是全部）涉及的政策应该为这些小企业提供潜在的生命线。
+ref: 【这到了高等法院，】高等法院裁定，大多数（但不是全部）涉及的「政策【保单】」应该【支付/赔付】为这些小企业提供潜在的生命线。
+
+Issue 58		U; W
+src: This went to the Supreme Court, where judges ruled that most, but not all of the policies involved should pay out offering a potential lifeline to these small businesses.
+tar: 这被提交给了最高法院，法官裁定，大多数（但不是全部）所涉及的保单都应该为这些小企业提供潜在的生命线。
+ref: 这「被提交给了」最高法院，法官裁定，大多数（但不是全部）所涉及的保单都应该【…】为这些小企业提供潜在的生命线。
+
+Issue 59		U; W
+src: This went to the District Court, where judges ruled that most, but not all of the policies involved should pay out offering a potential lifeline to these small businesses.
+tar: 这被送到了地方法院，法官裁定，大多数（但不是全部）所涉及的保单都应该为这些小企业提供潜在的生命线。
+
+Issue 60		W
+src: This went to the Tax Court, where judges ruled that most, but not all of the policies involved should pay out offering a potential lifeline to these small businesses.
+tar: 这被送到了税务法院，法官裁定，大多数（但不是全部）涉及的政策都应该支付，为这些小企业提供潜在的生命线。
+
+Issue 61		W
+src: This went to the Federal Court, where judges ruled that most, but not all of the policies involved should pay out offering a potential lifeline to these small businesses.
+tar: 这被送到了联邦法院，法官裁定，大多数（但不是全部）所涉及的政策都应该支付，为这些小企业提供潜在的生命线。
+
+Issue 62		U; W
+src: This went to the Superior Court, where judges ruled that most, but not all of the policies involved should pay out offering a potential lifeline to these small businesses.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是全部）所涉及的保单都应该为这些小企业提供潜在的生命线。
+ref: 这被送到了高等法院，法官裁定，大多数（但不是全部）所涉及的保单都应该【…】为这些小企业提供潜在的生命线。
+
+Issue 63		U; W
+src: This went to the Appeals Court, where judges ruled that most, but not all of the policies involved should pay out offering a potential lifeline to these small businesses.
+tar: 这被送到了上诉法院，法官裁定，大多数（但不是全部）所涉及的保单都应该为这些小企业提供潜在的生命线。
+
+Issue 64		U; W
+src: This went to the Circuit Court, where judges ruled that most, but not all of the policies involved should pay out offering a potential lifeline to these small businesses.
+tar: 这被送到了巡回法院，法官裁定，大多数（但不是全部）涉及的政策都应该为这些小企业提供潜在的生命线。
+
+Issue 65		W
+src: This went to the High Court, where judges ruled that most, but not all of the banks involved should pay out offering a potential lifeline to these small businesses.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是所有）参与的银行都应该支付，为这些小企业提供潜在的生命线。
+
+Issue 66		W
+src: This went to the High Court, where judges ruled that most, but not all of the investors involved should pay out offering a potential lifeline to these small businesses.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是所有）参与的投资者都应该支付，为这些小企业提供潜在的生命线。
+
+Issue 67		W
+src: This went to the High Court, where judges ruled that most, but not all of the organisations involved should pay out offering a potential lifeline to these small businesses.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是所有）参与的组织都应该支付，为这些小企业提供潜在的生命线。
+
+Issue 68		W
+src: This went to the High Court, where judges ruled that most, but not all of the individuals involved should pay out offering a potential lifeline to these small businesses.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是所有）涉案个人都应该支付，为这些小企业提供潜在的生命线。
+
+Issue 69		W
+src: This went to the High Court, where judges ruled that most, but not all of the firms involved should pay out offering a potential lifeline to these small businesses.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是全部）参与的公司都应该支付费用，为这些小企业提供潜在的生命线。
+
+Issue 70		W
+src: This went to the High Court, where judges ruled that most, but not all of the funds involved should pay out offering a potential lifeline to these small businesses.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是全部）涉及的资金应该支付，为这些小企业提供潜在的生命线。
+
+Issue 71		W
+src: This went to the High Court, where judges ruled that most, but not all of the policies involved should pay out offering a financial lifeline to these small businesses.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是全部）所涉及的保单都应该支付，为这些小企业提供金融生命线。
+
+Issue 72		W
+src: This went to the High Court, where judges ruled that most, but not all of the policies involved should pay out offering a new lifeline to these small businesses.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是全部）所涉及的保单都应该支付，为这些小企业提供新的生命线。
+
+Issue 73		W
+src: This went to the High Court, where judges ruled that most, but not all of the policies involved should pay out offering a valuable lifeline to these small businesses.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是全部）所涉及的保单都应该支付，为这些小企业提供宝贵的生命线。
+
+Issue 74		U; W
+src: This went to the High Court, where judges ruled that most, but not all of the policies involved should pay out offering a positive lifeline to these small businesses.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是全部）所涉及的保单都应该为这些小企业提供积极的生命线。
+ref: 这「被送到了」高等法院，法官裁定，大多数（但不是全部）所涉及的保单都应该【…】为这些小企业提供积极的生命线。
+
+Issue 75		U; W
+src: This went to the High Court, where judges ruled that most, but not all of the policies involved should pay out offering a strong lifeline to these small businesses.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是全部）所涉及的保单都应该为这些小企业提供强大的生命线。
+
+Issue 76		U; W
+src: This went to the High Court, where judges ruled that most, but not all of the policies involved should pay out offering a secure lifeline to these small businesses.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是全部）所涉及的保单都应该为这些小企业提供安全的生命线。
+
+Issue 77		U; W
+src: This went to the High Court, where judges ruled that most, but not all of the policies involved should pay out offering a safe lifeline to these small businesses.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是所有）所涉及的政策都应该为这些小企业提供安全的生命线。
+
+Issue 78		U; W
+src: This went to the High Court, where judges ruled that most, but not all of the policies involved should pay out offering a legal lifeline to these small businesses.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是全部）所涉及的保单都应该为这些小企业提供法律生命线。
+
+Issue 79		U; W
+src: This went to the High Court, where judges ruled that most, but not all of the policies involved should pay out offering a good lifeline to these small businesses.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是全部）所涉及的保单都应该为这些小企业提供良好的生命线。
+
+Issue 80		W
+src: This went to the High Court, where judges ruled that most, but not all of the policies involved should pay out offering a potential lifeline to these new businesses.
+tar: 这被提交给了高等法院，法官裁定，大多数（但不是全部）所涉及的保单都应该支付，为这些新企业提供潜在的生命线。
+
+Issue 81		U; W
+src: This went to the High Court, where judges ruled that most, but not all of the policies involved should pay out offering a potential lifeline to these local businesses.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是全部）所涉及的保单都应该为这些当地企业提供潜在的生命线。
+
+Issue 82		U; W
+src: This went to the High Court, where judges ruled that most, but not all of the policies involved should pay out offering a potential lifeline to these small communities.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是全部）所涉及的政策都应该为这些小社区提供潜在的生命线。
+
+Issue 83		U; W
+src: This went to the High Court, where judges ruled that most, but not all of the policies involved should pay out offering a potential lifeline to these small groups.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是全部）所涉及的保单都应该为这些小团体提供潜在的生命线。
+
+Issue 84		U; W
+src: This went to the High Court, where judges ruled that most, but not all of the policies involved should pay out offering a potential lifeline to these small companies.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是全部）所涉及的保单都应该为这些小公司提供潜在的生命线。
+
+Issue 85		W
+src: This went to the High Court, where judges ruled that most, but not all of the policies involved should pay out offering a potential lifeline to these small industries.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是全部）所涉及的保单都应该支付，为这些小行业提供潜在的生命线。
+
+Issue 86		U; W
+src: This went to the High Court, where judges ruled that most, but not all of the policies involved should pay out offering a potential lifeline to these small organisations.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是全部）所涉及的保单都应该为这些小组织提供潜在的生命线。
+
+Issue 87		U; W
+src: This went to the High Court, where judges ruled that most, but not all of the policies involved should pay out offering a potential lifeline to these small farmers.
+tar: 这被提交给了高等法院，法官裁定，大多数（但不是全部）所涉及的政策都应该为这些小农提供潜在的生命线。
+
+Issue 88		U; W
+src: This went to the High Court, where judges ruled that most, but not all of the policies involved should pay out offering a potential lifeline to these small firms.
+tar: 这被送到了高等法院，法官裁定，大多数（但不是全部）所涉及的保单都应该为这些小公司提供潜在的生命线。
+
+Issue 89		U
+src: Many businesses will have renewed annual policies since the first year began and these will have Covid exclusions, so claims are mostly relevant for older policies during the first UK year.
+tar: 自第一年开始以来，许多企业将更新年度保单，这些保单将具有Covid排除条款，因此索赔主要与英国第一年的旧保单相关。
+ref: 自第一年开始以来，许多企业将更新年度保单，这些保单将具有「Covid排除条款」，因此索赔主要与英国第一年的旧保单相关。
+
+Issue 90		U
+src: Many businesses will have renewed annual reports since the first year began and these will have Covid exclusions, so claims are mostly relevant for older policies during the first UK year.
+tar: 自第一年开始以来，许多企业将更新年度报告，这些报告将排除在外，因此索赔主要与英国第一年的旧政策相关。
+ref: 自第一年开始以来，许多企业将更新年度报告，这些报告「将【…】排除在外」，因此索赔主要与英国第一年的旧政策相关。
+
+Issue 91		N
+src: Many businesses will have renewed annual reviews since the first year began and these will have Covid exclusions, so claims are mostly relevant for older policies during the first UK year.
+tar: 自第一年开始以来，许多企业将重新进行年度审查，这些审查将有 Covid 排除项，因此索赔主要与英国第一年的旧政策相关。
+
+Issue 92		N
+src: Oliver Seadon made the move into teaching through the charity Now Teach after discussing it with friends and family members already working in the area, and after leaving his job in March.
+tar: 奥利弗·西登（Oliver Seadon）在与已经在该地区工作的朋友和家人讨论后，并在三月份离职后，通过慈善机构Now Teach进入了教学领域。
+ref: 奥利弗·西登（Oliver Seadon）在与已经在该地区工作的朋友和家人讨论后，并在三月份离职后，通过慈善机构「Now Teach」进入了教学领域。
+
+Issue 93		N
+src: Oliver Seadon made the transition into teaching through the charity Now Teach after discussing it with friends and family members already working in the area, and after leaving his job in March.
+tar: 奥利弗·西登（Oliver Seadon）在与已经在该地区工作的朋友和家人讨论后，并在三月份离职后，通过慈善机构Now Teach过渡到教学。
+
+Issue 94		N
+src: Oliver Seadon made the switch into teaching through the charity Now Teach after discussing it with friends and family members already working in the area, and after leaving his job in March.
+tar: 奥利弗·西登（Oliver Seadon）在与已经在该地区工作的朋友和家人讨论后，并在三月份离职后，通过慈善机构Now Teach转向教学。
+
+Issue 95		N
+src: Oliver Seadon made the move into teaching through the band Now Teach after discussing it with friends and family members already working in the area, and after leaving his job in March.
+tar: 奥利弗·西登（Oliver Seadon）在与已经在该地区工作的朋友和家人讨论后，并在三月份离职后，通过乐队Now Teach开始教学。
+
+Issue 96		N
+src: Oliver Seadon made the move into teaching through the charity Now Teach after discussing it with friends and family colleagues already working in the area, and after leaving his job in March.
+tar: 奥利弗·西登（Oliver Seadon）在与已经在该地区工作的朋友和家人同事讨论后，并在三月份离职后，通过慈善机构Now Teach进入教学领域。
+
+Issue 97		N
+src: The NAO found that in view of potential conflicts of interest involving ministers, all had properly declared their interests and it found no evidence of their involvement in procurement decisions or contract negotiations.
+tar: NAO发现，鉴于涉及部长的潜在利益冲突，所有人都适当地宣布了他们的利益，并且没有发现他们参与采购决定或合同谈判的证据。
+ref: 「NAO」发现，鉴于涉及部长的潜在利益冲突，所有人都适当地宣布了他们的利益，并且没有发现他们参与采购决定或合同谈判的证据。
+
+Issue 98		N
+src: The NAO found that in view of potential conflicts of interest involving ministers, all had properly declared their interests and it found no evidence of their role in procurement decisions or contract negotiations.
+tar: NAO发现，鉴于涉及部长的潜在利益冲突，所有人都适当地宣布了他们的利益，并且没有发现他们在采购决定或合同谈判中的作用的证据。
+
+Issue 99		L
+src: Second-hand cars and computer games also saw price rises, but these were mostly offset by falls in the cost of energy and holidays.
+tar: 二手车和电脑游戏的价格也出现了上涨，但这些价格大多被能源和度假成本的下降所抵消。
+ref: 二手车和电脑游戏的价格也出现了上涨，但「这些价格【这些(价格的)上升】」大多被能源和度假成本的下降所抵消。
+
+Issue 100		L
+src: Second-hand cars and computer games also saw price rises, but these were quickly offset by falls in the cost of energy and holidays.
+tar: 二手车和电脑游戏的价格也出现了上涨，但这些价格很快就被能源和假期成本的下降所抵消。
+ref: 二手车和电脑游戏的价格也出现了上涨，但这些「价格」很快就被能源和假期成本的下降所抵消。
+
+Issue 101		L
+src: Second-hand cars and computer games also saw price rises, but these were mostly offset by falls in the cost of food and holidays.
+tar: 二手车和电脑游戏的价格也出现了上涨，但这些价格大多被食品和假期成本的下降所抵消。
+ref: 二手车和电脑游戏的价格也出现了上涨，但这些「价格」大多被食品和假期成本的下降所抵消。
+
+Issue 102		N
+src: When NBC set out to schedule a new town hall with president Trump, the top priorities were safety and parity with Trump's successor Joe Biden.
+tar: 当NBC开始与特朗普总统安排新的市政厅时，首要任务是安全和与特朗普的继任者乔·拜登的平等。
+ref: 当「NBC」开始与特朗普总统安排新的市政厅时，首要任务是安全和与特朗普的继任者乔·拜登的平等。
+
+Issue 103		N
+src: When Trump set out to schedule a new town hall with president Trump, the top priorities were safety and parity with Trump's successor Joe Biden.
+tar: 当特朗普着手与特朗普总统安排新的市政厅时，首要任务是安全和与特朗普的继任者乔拜登平起平坐。
+
+Issue 104		N
+src: When NBC set out to schedule a new town hall with president Trump, the top priorities were stability and parity with Trump's successor Joe Biden.
+tar: 当NBC着手与特朗普总统安排新的市政厅时，首要任务是稳定和与特朗普的继任者乔拜登平起平坐。
+
+Issue 105		N
+src: When NBC set out to schedule a new town hall with president Trump, the top priorities were reconciliation and parity with Trump's successor Joe Biden.
+tar: 当NBC着手与特朗普总统安排新的市政厅时，当务之急是与特朗普的继任者乔·拜登（Joe Biden）和解与平等。
+
+Issue 106		N
+src: When NBC set out to schedule a new town hall with president Trump, the top priorities were balance and parity with Trump's successor Joe Biden.
+tar: 当NBC着手与特朗普总统安排新的市政厅时，首要任务是与特朗普的继任者乔拜登保持平衡和平等。
+
+Issue 107		N
+src: When NBC set out to schedule a new town hall with president Trump, the top priorities were safety and parity with Obama's successor Joe Biden.
+tar: 当NBC着手与特朗普总统安排新的市政厅时，首要任务是安全和与奥巴马的继任者乔拜登平起平坐。
+
+Issue 108		N
+src: When NBC set out to schedule a new town hall with president Trump, the top priorities were safety and parity with Clinton's successor Joe Biden.
+tar: 当NBC着手与特朗普总统安排新的市政厅时，首要任务是安全和与克林顿的继任者乔拜登平起平坐。
+
+Issue 109		N
+src: When NBC set out to schedule a new town hall with president Trump, the top priorities were safety and parity with Romney's successor Joe Biden.
+tar: 当NBC着手与特朗普总统安排新的市政厅时，首要任务是安全和与罗姆尼的继任者乔拜登平起平坐。
+
+Issue 110		U
+src: British Airways is to launch a voluntary Covid-19 test for passengers flying to the UK from three US bases.
+tar: 英国航空公司将对从三个美国基地飞往英国的乘客进行自愿的Covid-19测试。
+ref: 英国航空公司将对从三个美国基地飞往英国的乘客进行自愿的「Covid-19」测试。
+
+Issue 111		U
+src: British Aerospace is to launch a voluntary Covid-19 test for passengers flying to the UK from three US bases.
+tar: 英国航空航天公司将为从三个美国基地飞往英国的乘客启动一项自愿的 Covid-19 测试。
+
+Issue 112		U
+src: British Airways is to launch a successful Covid-19 test for passengers flying to the UK from three US bases.
+tar: 英国航空公司将为从三个美国基地飞往英国的乘客成功启动 Covid-19 测试。
+
+Issue 113		W
+src: A new cross-border e-commerce marketing model, which includes internet, has taken off in Putian.
+tar: 包括互联网在内的新型跨境电商营销模式在莆田起飞。
+ref: 包括互联网在内的新型跨境电商营销模式在莆田「起飞【突然成功/兴起】」。
+
+Issue 114		W
+src: A new cross-border e-commerce marketing model, which includes online, has taken off in Putian.
+tar: 一种新的跨境电子商务营销模式，包括在线，已经在莆田起飞。
+
+Issue 115		W
+src: A new cross-border e-commerce marketing model, which includes advertising, has taken off in Putian.
+tar: 一种新的跨境电子商务营销模式，包括广告，已经在莆田起飞。
+
+Issue 116		W
+src: A new cross-border e-commerce marketing model, which includes technology, has taken off in Putian.
+tar: 一种新的跨境电子商务营销模式，包括技术，已经在莆田起飞。
+
+Issue 117		W
+src: More international efforts are needed to boost security capacity while developing digital China so as to help address rising challenges and economic uncertainties, according to an industry insider.
+tar: 一位业内人士表示，在发展数字中国的同时，需要国际社会做出更多努力来提高安全能力，以帮助应对日益严峻的挑战和经济不确定性。
+ref: 一位业内人士表示，在发展数字中国的同时，需要「国际社会做出更多努力来【更国际化的努力来】」提高安全能力，以帮助应对日益严峻的挑战和经济不确定性。
+
+Issue 118		W
+src: If they are positive before travelling, they will have to reschedule or cancel their flight, but will be able to rebook at a later time without a fee.
+tar: 如果他们在旅行前表现良好，他们将不得不重新安排或取消航班，但可以在以后免费重新预订。
+ref: 如果他们在旅行前「表现良好」，他们将不得不重新安排或取消航班，但可以在以后免费重新预订。
+
+Issue 119		W
+src: If they are positive before travelling, they will have to reschedule or cancel their flight, but will be able to rebook at a later time without a problem.
+tar: 如果他们在旅行前表现良好，他们将不得不重新安排或取消航班，但可以在以后重新预订而不会出现问题。
+
+Issue 120		N
+src: One month ago, WeWork was getting bailed out by SoftBank after a disastrous attempt at going public that resulted in the ouster of its CEO and founder Adam Neumann.
+tar: 一个月前，WeWork在经历了一次灾难性的上市尝试后，被软银救助，导致其首席执行官兼创始人亚当·诺伊曼（Adam Neumann）下台。
+ref: 一个月前，「WeWork」在经历了一次灾难性的上市尝试后，被软银救助，导致其首席执行官兼创始人亚当·诺伊曼（Adam Neumann）下台。
+
+Issue 121		N
+src: One month ago, WeWork was getting bailed out by SoftBank after a failed attempt at going public that resulted in the ouster of its CEO and founder Adam Neumann.
+tar: 一个月前，WeWork在一次失败的上市尝试导致其首席执行官兼创始人亚当·诺伊曼（Adam Neumann）下台后，被软银救助。
+
+Issue 122		W
+src: The Federal Communications Commission (FCC) will draft regulations intended for social media companies following a proposal filed this year by the Trump administration, the agency's website said Thursday.
+tar: 美国联邦通信委员会（FCC）的网站周四表示，根据特朗普政府今年提交的提案，联邦通信委员会（FCC）将起草针对社交媒体公司的法规。
+ref: 美国联邦通信委员会（FCC）的网站周四表示，「根据特朗普政府今年提交的提案」，联邦通信委员会（FCC）将起草针对社交媒体公司的法规。
+
+Issue 123		N
+src: Facebook and Twitter's chief executives have been challenged over their handling of the US election in their latest appearance before the us Senate.
+tar: Facebook和Twitter的首席执行官们在最近一次出现在美国参议院时，因处理美国大选而受到挑战。
+ref: 「Facebook」和「Twitter」的首席执行官们在最近一次出现在美国参议院时，因处理美国大选而受到挑战。
+
+Issue 124		N
+src: Google and Twitter's chief executives have been challenged over their handling of the US election in their latest appearance before the us Senate.
+tar: 谷歌和Twitter的首席执行官在美国参议院的最新露面中因处理美国大选而受到挑战。
+
+Issue 125		N
+src: Facebook and Facebook's chief executives have been challenged over their handling of the US election in their latest appearance before the us Senate.
+tar: Facebook和Facebook的首席执行官在美国参议院的最新露面中因处理美国大选而受到挑战。
+
+Issue 126		L; N
+src: Facebook and Google's chief executives have been challenged over their handling of the US election in their latest appearance before the us Senate.
+tar: Facebook和谷歌的首席执行官在最近一次在美国参议院露面时对美国大选的处理方式受到了挑战。
+ref: Facebook和谷歌的首席执行官在最近一次在美国参议院露面时【因/就 其】对美国大选的处理方式受到了挑战。
+
+Issue 127		N
+src: Facebook and Twitter's chief editors have been challenged over their handling of the US election in their latest appearance before the us Senate.
+tar: Facebook和Twitter的主编在美国参议院的最新露面中因处理美国大选而受到挑战。
+
+Issue 128		N
+src: Facebook and Twitter's chief critics have been challenged over their handling of the US election in their latest appearance before the us Senate.
+tar: Facebook和Twitter的主要批评者在美国参议院的最新露面中因处理美国大选而受到挑战。
+
+Issue 129		L; N
+src: Facebook and Twitter's chief contractors have been challenged over their handling of the US election in their latest appearance before the us Senate.
+tar: Facebook和Twitter的主要承包商在最近一次在美国参议院露面时对美国大选的处理方式受到了挑战。
+
+Issue 130		N
+src: Facebook and Twitter's chief developers have been challenged over their handling of the US election in their latest appearance before the us Senate.
+tar: Facebook和Twitter的首席开发人员在美国参议院的最新露面中因处理美国大选而受到挑战。
+
+Issue 131		N
+src: Facebook and Twitter's chief founders have been challenged over their handling of the US election in their latest appearance before the us Senate.
+tar: Facebook和Twitter的首席创始人在美国参议院的最新露面中因处理美国大选而受到挑战。
+
+Issue 132		N; W
+src: Facebook and Twitter's chief executives have been challenged over their coverage of the US election in their latest appearance before the us Senate.
+tar: Facebook和Twitter的首席执行官们因最近一次在美国参议院露面时对美国大选的报道而受到挑战。
+ref: 「Facebook」和「Twitter」的首席执行官们因最近一次在美国参议院露面时对美国大选的报道而受到挑战。
+
+Issue 133		N; W
+src: Facebook and Twitter's chief executives have been challenged over their reporting of the US election in their latest appearance before the us Senate.
+tar: Facebook和Twitter的首席执行官因最近一次在美国参议院露面时报道美国大选而受到挑战。
+
+Issue 134		L
+src: Facebook and Twitter's chief executives have been challenged over their handling of the US government in their latest appearance before the us Senate.
+tar: 脸书和推特的首席执行官们在最近一次在美国参议院露面时，都受到了对美国政府的处理的挑战。
+ref: 脸书和推特的首席执行官们在最近一次在美国参议院露面时，「都受到了对美国政府的处理的挑战」。
+
+Issue 135		N
+src: Facebook and Twitter's chief executives have been challenged over their handling of the US economy in their latest appearance before the us Senate.
+tar: Facebook和Twitter的首席执行官在最近一次出现在美国参议院时，就对美国经济的处理方式受到了挑战。
+ref: 「Facebook」和「Twitter」的首席执行官在最近一次出现在美国参议院时，就对美国经济的处理方式受到了挑战。
+
+Issue 136		L; N
+src: Facebook and Twitter's chief executives have been challenged over their handling of the US election in their latest case before the us Senate.
+tar: Facebook和Twitter的首席执行官们在美国参议院审理的最新案件中对美国大选的处理受到了挑战。
+
+Issue 137		N
+src: Facebook and Twitter's chief executives have been challenged over their handling of the US election in their latest testimony before the us Senate.
+tar: Facebook和Twitter的首席执行官在美国参议院的最新证词中因处理美国大选而受到挑战。
+
+Issue 138		L; N
+src: Facebook and Twitter's chief executives have been challenged over their handling of the US election in their latest campaign before the us Senate.
+tar: Facebook和Twitter的首席执行官在美国参议院的最新竞选活动中对美国大选的处理方式受到了挑战。
+
+Issue 139		N
+src: Facebook and Twitter's chief executives have been challenged over their handling of the US election in their latest trial before the us Senate.
+tar: Facebook和Twitter的首席执行官在美国参议院的最新审判中因处理美国大选而受到挑战。
+
+Issue 140		N
+src: Facebook and Twitter's chief executives have been challenged over their handling of the US election in their latest lawsuit before the us Senate.
+tar: Facebook和Twitter的首席执行官在美国参议院的最新诉讼中因处理美国大选而受到挑战。
+
+Issue 141		L; N
+src: Facebook and Twitter's chief executives have been challenged over their handling of the US election in their latest filing before the us Senate.
+tar: Facebook和Twitter的首席执行官在向美国参议院提交的最新文件中对美国大选的处理方式受到挑战。
+
+Issue 142		N
+src: According to this year's US-China business council member survey, nearly 83 percent of the surveyed companies counted China as either the bottom or among the top five priorities of their global strategy.
+tar: 根据今年的美中商务理事会成员调查，近83%的受访企业将中国列为其全球战略的底部或前五大优先事项之一。
+ref: 根据今年的「美中商务理事会【美中贸易全国委员会】」成员调查，近83%的受访企业将中国列为其全球战略的底部或前五大优先事项之一。
+
+Issue 143		N; U
+src: According to this year's US-China business council member survey, nearly 83 percent of the surveyed companies counted China as either the bottom or among the top five areas of their global strategy.
+tar: 根据今年的美中商务理事会成员调查，近83%的受访企业将中国列为其全球战略的底部或前五名。
+ref: 根据今年的美中「商务理事会」成员调查，近83%的受访企业将中国列为其全球战略的底部或「前五名【优先事项】」。
+
+Issue 144		N
+src: Priscilla Chan always knew her life's work would be helping children, but she did not anticipate having billions of dollars at her disposal to try and change the fate of an entire family.
+tar: Priscilla Chan一直知道她一生的工作将是帮助孩子，但她没有预料到自己可以支配数十亿美元来试图改变整个家庭的命运。
+ref: 「Priscilla Chan」一直知道她一生的工作将是帮助孩子，但她没有预料到自己可以支配数十亿美元来试图改变整个家庭的命运。
+
+Issue 145		N
+src: Priscilla Chan always knew her mother's work would be helping children, but she did not anticipate having billions of dollars at her disposal to try and change the fate of an entire family.
+tar: Priscilla Chan一直知道她母亲的工作是帮助孩子，但她没有预料到她有数十亿美元可供她支配，试图改变整个家庭的命运。
+
+Issue 146		N
+src: Priscilla Chan always knew her husband's work would be helping children, but she did not anticipate having billions of dollars at her disposal to try and change the fate of an entire family.
+tar: Priscilla Chan一直知道她丈夫的工作会帮助孩子，但她没有预料到她可以支配数十亿美元来试图改变整个家庭的命运。
+
+Issue 147		N
+src: Priscilla Chan always knew her life's work would be helping children, but she did not anticipate having billions of dollars at her disposal to try and change the fate of an innocent family.
+tar: Priscilla Chan一直知道她一生的工作将是帮助孩子，但她没有预料到她可以支配数十亿美元来试图改变一个无辜家庭的命运。
+
+Issue 148		N
+src: Priscilla Chan always knew her life's work would be helping children, but she did not anticipate having billions of dollars at her disposal to try and change the fate of an American family.
+tar: Priscilla Chan一直知道她一生的工作将是帮助孩子，但她没有预料到自己可以支配数十亿美元来试图改变一个美国家庭的命运。
+
+Issue 149		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of Chinese companies, which became effective on Saturday.
+tar: 该官员发表上述言论之前，商务部发布了一项关于不可靠实体名单的规定 - 一份损害中国公司合法利益的外国当事人黑名单，该法规于周六生效。
+ref: 该官员发表上述言论之前，商务部发布了一项关于不可靠实体名单【—— 一份损害中国公司合法利益的外国当事人黑名单】的规定 「- 一份损害中国公司合法利益的外国当事人黑名单」，该法规于周六生效。
+
+Issue 150		L
+src: The reporter's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of Chinese companies, which became effective on Saturday.
+tar: 记者发表上述评论之前，商务部发布了一项关于不可靠实体名单的规定 - 损害中国公司合法利益的外国黑名单，该名单于周六生效。
+ref: 记者发表上述评论之前，商务部发布了一项关于不可靠实体名单【…】的规定「 - 损害中国公司合法利益的外国黑名单」，该「名单」于周六生效。
+
+Issue 151		L
+src: The minister's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of Chinese companies, which became effective on Saturday.
+tar: 这位部长的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国公司合法利益的外国方黑名单，该名单于周六生效。
+ref: 这位部长的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国公司合法利益的外国方黑名单，该「名单」于周六生效。
+
+Issue 152		L
+src: The official's comments came after the ministry of labor issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of Chinese companies, which became effective on Saturday.
+tar: 这位官员的评论是在劳工部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国公司合法利益的外国方黑名单，该名单于周六生效。
+
+Issue 153		L
+src: The official's comments came after the ministry of industry issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of Chinese companies, which became effective on Saturday.
+tar: 这位官员的评论是在工业部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国公司合法利益的外国方黑名单，该名单于周六生效。
+
+Issue 154		L
+src: The official's comments came after the ministry of economy issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of Chinese companies, which became effective on Saturday.
+tar: 这位官员的评论是在经济部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国公司合法利益的外国方黑名单，该名单于周六生效。
+
+Issue 155		L
+src: The official's comments came after the ministry of defense issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of Chinese companies, which became effective on Saturday.
+tar: 这位官员的评论是在国防部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国公司合法利益的外国方黑名单，该名单于周六生效。
+
+Issue 156		L
+src: The official's comments came after the ministry of business issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of Chinese companies, which became effective on Saturday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国公司合法利益的外国方黑名单，该名单于周六生效。
+
+Issue 157		L
+src: The official's comments came after the ministry of trade issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of Chinese companies, which became effective on Saturday.
+tar: 这位官员的评论是在贸易部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国公司合法利益的外国方黑名单，该名单于周六生效。
+
+Issue 158		L
+src: The official's comments came after the ministry of state issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of Chinese companies, which became effective on Saturday.
+tar: 这位官员的评论是在国务院发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国公司合法利益的外国方黑名单，该名单于周六生效。
+
+Issue 159		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable parties list－a blacklist of foreign parties that harm the legitimate interests of Chinese companies, which became effective on Saturday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠方名单的规定之后发表的 - 这是一份损害中国公司合法利益的外国方黑名单，该名单于周六生效。
+
+Issue 160		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of illegal parties that harm the legitimate interests of Chinese companies, which became effective on Saturday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国公司合法利益的非法方黑名单，该名单于周六生效。
+
+Issue 161		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of outside parties that harm the legitimate interests of Chinese companies, which became effective on Saturday.
+tar: 这位官员发表上述评论之前，商务部发布了一项关于不可靠实体名单的规定 - 这是一份损害中国公司合法利益的外部方黑名单，该名单于周六生效。
+
+Issue 162		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of interested parties that harm the legitimate interests of Chinese companies, which became effective on Saturday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国公司合法利益的利益相关方黑名单，该名单于周六生效。
+
+Issue 163		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign corporations that harm the legitimate interests of Chinese companies, which became effective on Saturday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国公司合法利益的外国公司黑名单，该名单于周六生效。
+
+Issue 164		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign firms that harm the legitimate interests of Chinese companies, which became effective on Saturday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国公司合法利益的外国公司黑名单，该名单于周六生效。
+
+Issue 165		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign businesses that harm the legitimate interests of Chinese companies, which became effective on Saturday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国公司合法利益的外国企业黑名单，该名单于周六生效。
+
+Issue 166		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the commercial interests of Chinese companies, which became effective on Saturday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国公司商业利益的外国方黑名单，该名单于周六生效。
+
+Issue 167		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the national interests of Chinese companies, which became effective on Saturday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国公司国家利益的外国方黑名单，该名单于周六生效。
+
+Issue 168		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the strategic interests of Chinese companies, which became effective on Saturday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国公司战略利益的外国方黑名单，该名单于周六生效。
+
+Issue 169		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate operations of Chinese companies, which became effective on Saturday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国公司合法运营的外国方黑名单，该名单于周六生效。
+
+Issue 170		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of Japanese companies, which became effective on Saturday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害日本公司合法利益的外国方黑名单，该名单于周六生效。
+
+Issue 171		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of Taiwanese companies, which became effective on Saturday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害台湾公司合法利益的外国方黑名单，该名单于周六生效。
+
+Issue 172		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of Korean companies, which became effective on Saturday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害韩国公司合法利益的外国方黑名单，该名单于周六生效。
+
+Issue 173		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of local companies, which became effective on Saturday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害当地公司合法利益的外国方黑名单，该名单于周六生效。
+
+Issue 174		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of domestic companies, which became effective on Saturday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害国内公司合法利益的外国方黑名单，该名单于周六生效。
+
+Issue 175		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of Vietnamese companies, which became effective on Saturday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害越南公司合法利益的外国方黑名单，该名单于周六生效。
+
+Issue 176		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of Chinese businesses, which became effective on Saturday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国企业合法利益的外国方黑名单，该名单于周六生效。
+
+Issue 177		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of Chinese enterprises, which became effective on Saturday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国企业合法利益的外国方黑名单，该名单于周六生效。
+
+Issue 178		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of Chinese companies, which became effective on Friday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国公司合法利益的外国方黑名单，该名单于周五生效。
+
+Issue 179		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of Chinese companies, which became effective on Sunday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国公司合法利益的外国方黑名单，该名单于周日生效。
+
+Issue 180		L; W
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of Chinese companies, which became effective on September.
+tar: 这位官员发表上述评论之前，商务部发布了一项关于不可靠实体名单的规定，该条例是一份损害中国公司合法利益的外国方黑名单，该条例于9月生效。
+ref: 这位官员发表上述评论之前，商务部发布了一项关于不可靠实体名单的规定，该「条例【名单】」是一份损害中国公司合法利益的外国方黑名单，该「条例」于9月生效。
+
+Issue 181		L
+src: The official's comments came after the ministry of commerce issued a regulation on the unreliable entities list－a blacklist of foreign parties that harm the legitimate interests of Chinese companies, which became effective on Thursday.
+tar: 这位官员的评论是在商务部发布一项关于不可靠实体名单的规定之后发表的 - 这是一份损害中国公司合法利益的外国方黑名单，该名单于周四生效。
+
+Issue 182		U
+src: The firm Capital Economics said food price inflation could continue to rise in November as supermarket demand continues to rise during the Covid-19 lockdown.
+tar: 资本经济公司表示，由于Covid-19封锁期间超市需求继续上升，11月份食品价格通胀可能会继续上升。
+ref: 「资本经济公司」表示，由于「Covid-19」封锁期间超市需求继续上升，11月份食品价格通胀可能会继续上升。
+
+Issue 183		U
+src: The firm Capital Market said food price inflation could continue to rise in November as supermarket demand continues to rise during the Covid-19 lockdown.
+tar: 该公司资本市场表示，由于超市需求在Covid-19封锁期间继续上升，11月食品价格通胀可能会继续上升。
+
+Issue 184		U
+src: The firm Capital Economics said food price inflation could continue to rise in China as supermarket demand continues to rise during the Covid-19 lockdown.
+tar: 凯投宏观公司表示，随着超市需求在Covid-19封锁期间继续上升，中国的食品价格通胀可能会继续上升。
+
+Issue 185		U
+src: The firm Capital Economics said food price inflation could continue to rise in November as supermarket stock continues to rise during the Covid-19 lockdown.
+tar: 凯投宏观公司表示，随着超市库存在 Covid-19 封锁期间继续上涨，11 月食品价格通胀可能会继续上升。
+
+Issue 186		U
+src: The firm Capital Economics said food price inflation could continue to rise in November as supermarket production continues to rise during the Covid-19 lockdown.
+tar: 凯投宏观公司表示，随着超市产量在Covid-19封锁期间继续上升，11月食品价格通胀可能会继续上升。
+
+Issue 187		U
+src: The firm Capital Economics said food price inflation could continue to rise in November as supermarket inventory continues to rise during the Covid-19 lockdown.
+tar: 凯投宏观公司表示，随着超市库存在Covid-19封锁期间继续上升，11月食品价格通胀可能会继续上升。
+
+Issue 188		U
+src: The firm Capital Economics said food price inflation could continue to rise in November as supermarket consumption continues to rise during the Covid-19 lockdown.
+tar: 凯投宏观公司表示，随着超市消费在Covid-19封锁期间继续上升，11月食品价格通胀可能会继续上升。
+
+Issue 189		U
+src: The firm Capital Economics said food price inflation could continue to rise in November as supermarket capacity continues to rise during the Covid-19 lockdown.
+tar: 凯投宏观公司表示，随着超市容量在Covid-19封锁期间继续上升，11月食品价格通胀可能会继续上升。
+
+Issue 190		U
+src: The firm Capital Economics said food price inflation could continue to rise in November as supermarket competition continues to rise during the Covid-19 lockdown.
+tar: 凯投宏观公司表示，随着超市竞争在Covid-19封锁期间继续上升，11月食品价格通胀可能会继续上升。
+
+Issue 191		U
+src: Travel restrictions have been relaxed for people arriving in England to work on local farms to ensure there is a turkey available for Christmas dinners.
+tar: 对于抵达英格兰在当地农场工作的人来说，旅行限制已经放宽，以确保圣诞晚餐有火鸡。
+ref: 对于抵达英格兰在当地农场工作的人来说，旅行限制已经放宽，以确保圣诞晚餐有火鸡【可用】。
+
+Issue 192		U
+src: Travel regulations have been relaxed for people arriving in England to work on local farms to ensure there is a turkey available for Christmas dinners.
+tar: 对于抵达英格兰在当地农场工作的人来说，旅行规定已经放宽，以确保圣诞晚餐有火鸡。
+
+Issue 193		U
+src: Travel times have been relaxed for people arriving in England to work on local farms to ensure there is a turkey available for Christmas dinners.
+tar: 对于抵达英格兰在当地农场工作的人来说，旅行时间已经放宽，以确保圣诞晚餐有火鸡。
+
+Issue 194		U
+src: Travel rules have been relaxed for workers arriving in England to work on local farms to ensure there is a turkey available for Christmas dinners.
+tar: 对于抵达英格兰在当地农场工作的工人来说，旅行规则已经放宽，以确保圣诞晚餐有火鸡。
+
+Issue 195		U
+src: Travel rules have been relaxed for immigrants arriving in England to work on local farms to ensure there is a turkey available for Christmas dinners.
+tar: 对于抵达英格兰在当地农场工作的移民来说，旅行规则已经放宽，以确保圣诞晚餐有火鸡。
+ref: 对于抵达英格兰在当地农场工作的移民来说，旅行规则已经放宽，以确保圣诞晚餐有火鸡【可用】。
+
+Issue 196		U
+src: Travel rules have been relaxed for children arriving in England to work on local farms to ensure there is a turkey available for Christmas dinners.
+tar: 对于抵达英格兰在当地农场工作的儿童，旅行规则已经放宽，以确保圣诞晚餐有火鸡。
+
+Issue 197		U
+src: Travel rules have been relaxed for women arriving in England to work on local farms to ensure there is a turkey available for Christmas dinners.
+tar: 对于抵达英格兰在当地农场工作的女性，旅行规则已经放宽，以确保圣诞晚餐有火鸡。
+
+Issue 198		U
+src: Travel rules have been relaxed for visitors arriving in England to work on local farms to ensure there is a turkey available for Christmas dinners.
+tar: 对于抵达英格兰在当地农场工作的游客来说，旅行规则已经放宽，以确保圣诞晚餐有火鸡。
+
+Issue 199		U
+src: Travel rules have been relaxed for residents arriving in England to work on local farms to ensure there is a turkey available for Christmas dinners.
+tar: 对于抵达英格兰在当地农场工作的居民来说，旅行规则已经放宽，以确保圣诞晚餐有火鸡。
+
+Issue 200		U
+src: Travel rules have been relaxed for people arriving in Canada to work on local farms to ensure there is a turkey available for Christmas dinners.
+tar: 对于抵达加拿大在当地农场工作的人来说，旅行规则已经放宽，以确保圣诞晚餐有火鸡。
+
+Issue 201		U
+src: Travel rules have been relaxed for people arriving in Scotland to work on local farms to ensure there is a turkey available for Christmas dinners.
+tar: 对于抵达苏格兰在当地农场工作的人来说，旅行规则已经放宽，以确保圣诞晚餐有火鸡。
+
+Issue 202		U
+src: Travel rules have been relaxed for people arriving in Georgia to work on local farms to ensure there is a turkey available for Christmas dinners.
+tar: 对于抵达佐治亚州在当地农场工作的人来说，旅行规则已经放宽，以确保圣诞晚餐有火鸡。
+
+Issue 203		U
+src: Travel rules have been relaxed for people arriving in December to work on local farms to ensure there is a turkey available for Christmas dinners.
+tar: 对于12月抵达当地农场工作的人来说，旅行规则已经放宽，以确保圣诞晚餐有火鸡。
+
+Issue 204		U
+src: Travel rules have been relaxed for people arriving in Ontario to work on local farms to ensure there is a turkey available for Christmas dinners.
+tar: 对于抵达安大略省在当地农场工作的人来说，旅行规则已经放宽，以确保圣诞晚餐有火鸡。
+
+Issue 205		U
+src: Travel rules have been relaxed for people arriving in October to work on local farms to ensure there is a turkey available for Christmas dinners.
+tar: 对于10月抵达当地农场工作的人来说，旅行规则已经放宽，以确保圣诞晚餐有火鸡。
+
+Issue 206		U
+src: Travel rules have been relaxed for people arriving in England to work on nearby farms to ensure there is a turkey available for Christmas dinners.
+tar: 对于抵达英格兰在附近农场工作的人来说，旅行规则已经放宽，以确保圣诞晚餐有火鸡。
+ref: 对于抵达英格兰在附近农场工作的人来说，旅行规则已经放宽，以确保圣诞晚餐有火鸡【可用】。
+
+Issue 207		U
+src: Travel rules have been relaxed for people arriving in England to work on UK farms to ensure there is a turkey available for Christmas dinners.
+tar: 对于抵达英国在英国农场工作的人来说，旅行规则已经放宽，以确保圣诞晚餐有火鸡。
+
+Issue 208		U
+src: Travel rules have been relaxed for people arriving in England to work on local restaurants to ensure there is a turkey available for Christmas dinners.
+tar: 对于抵达英格兰在当地餐馆工作的人来说，旅行规则已经放宽，以确保圣诞晚餐有火鸡。
+
+Issue 209		U
+src: Travel rules have been relaxed for people arriving in England to work on local farms to ensure there is a turkey suitable for Christmas dinners.
+tar: 对于抵达英格兰在当地农场工作的人来说，旅行规则已经放宽，以确保有适合圣诞晚餐的火鸡。
+
+Issue 210		U
+src: Travel rules have been relaxed for people arriving in England to work on local farms to ensure there is a turkey available for Sunday dinners.
+tar: 对于抵达英格兰在当地农场工作的人来说，旅行规则已经放宽，以确保周日晚餐时有火鸡。
+
+Issue 211		N; W
+src: Women working at a Ralph Lauren plant said they had been forced to stay overnight to complete work, often requiring them to sleep on the factory floor.
+tar: 在Ralph Lauren工厂工作的女性表示，她们被迫过夜才能完成工作，经常要求她们睡在工厂车间。
+ref: 在「Ralph Lauren」工厂工作的女性表示，她们被迫过夜才能完成工作，经常要求她们睡在工厂「车间」。
+
+Issue 212		L; W
+src: Mortgage and holidays are being extended for homeowners not affected by the pandemic.
+tar: 抵押贷款和假期正在延长未受大流行影响的房主。
+ref: 「抵押贷款和假期正在延长未受大流行影响的房主【未受疫情影响的房主的抵押贷款和假期正在延长】」。
+
+Issue 213		W
+src: Mortgage and loans are being extended for homeowners not affected by the pandemic.
+tar: 正在为不受大流行影响的房主提供抵押贷款和贷款。
+ref: 正在为不受「大流行【病】」影响的房主提供抵押贷款和贷款。
+
+Issue 214		W
+src: Mortgage and subsidies are being extended for homeowners not affected by the pandemic.
+tar: 正在为未受大流行影响的房主提供抵押贷款和补贴。
+
+Issue 215		W
+src: Mortgage and benefits are being extended for homeowners not affected by the pandemic.
+tar: 正在为未受大流行影响的房主提供抵押贷款和福利。
+
+Issue 216		O
+src: Over the summer, the account picked up followers of what appeared to be older men.
+tar: 整个夏天，这个账户吸引了一些似乎是年长男性的追随者。
+ref: 整个夏天，这个账户吸引了「一些」似乎是年长男性的追随者。
+
+Issue 217		O
+src: Over the period, the church picked up followers of what appeared to be older men.
+tar: 在此期间，教会挑选了一些似乎是老年人的追随者。
+
+Issue 218		O
+src: Consumers have been more cautious than expected, they said, while low capital investment will dampen growth.
+tar: 他们表示，消费者比预期的更为谨慎，而低资本投资将抑制经济增长。
+ref: 他们表示，消费者比预期的更为谨慎，而低资本投资将抑制「经济」增长。
+
+Issue 219		W
+src: They also want eligibility criteria reviewed to identify those who have been left out of support so far.
+tar: 他们还希望审查资格标准，以确定那些迄今为止被排除在支持之外的人。
+ref: 他们还希望审查资格标准，以确定那些迄今为止「被排除在支持之外【未获得支持】」的人。
+
+Issue 220		U; W
+src: They also want support criteria reviewed to identify those who have been left out of support so far.
+tar: 他们还希望审查支持标准，以确定迄今为止被排除在外的人。
+ref: 他们还希望审查支持标准，以确定迄今为止「被排除在外」的人。
+
+Issue 221		W
+src: They also want eligibility criteria reviewed to identify those who have been left out of admission so far.
+tar: 他们还希望审查资格标准，以确定迄今为止被排除在录取之外的人。
+ref: 他们还希望审查资格标准，以确定迄今为止「被排除在录取之外」的人。
+
+Issue 222		W
+src: They also want eligibility criteria reviewed to identify those who have been left out of induction so far.
+tar: 他们还希望审查资格标准，以确定迄今为止被排除在入职之外的人。
+ref: 他们还希望审查资格标准，以确定迄今为止「被排除在入职之外」的人。
+
+Issue 223		W
+src: Around the world, once-crowded sights lay empty, with hotels empty and not a restaurant in sight.
+tar: 在世界各地，曾经拥挤的景点空无一人，酒店空无一人，看不到一家餐馆。
+ref: 在世界各地，曾经拥挤的景点「空无一人」，酒店空无一人，看不到一家餐馆。
+
+Issue 224		W
+src: Around the world, once-crowded sights lay vacant, with hotels empty and not a restaurant in sight.
+tar: 在世界各地，曾经拥挤的景点空无一人，酒店空无一人，看不到一家餐馆。
+ref: 在世界各地，曾经拥挤的景点「空无一人」，酒店空无一人，看不到一家餐馆。
+
+Issue 225		W
+src: Around the world, once-crowded sights lay dead, with hotels empty and not a restaurant in sight.
+tar: 在世界各地，曾经拥挤的景点一片寂静，酒店空无一人，看不到一家餐馆。
+ref: 在世界各地，曾经拥挤的景点「一片寂静」，酒店空无一人，看不到一家餐馆。
+
+Issue 226		W
+src: Around the world, once-crowded sights lay silent, with hotels empty and not a restaurant in sight.
+tar: 在世界各地，曾经拥挤的景象一片寂静，酒店空无一人，看不到一家餐馆。
+ref: 在世界各地，曾经拥挤的景象「一片寂静」，酒店空无一人，看不到一家餐馆。
+
+Issue 227		W
+src: The move has reraised concerns that poor and deprived communities face being cut off from access to water.
+tar: 此举再次引发了人们对贫困和贫困社区面临被切断用水权的担忧。
+ref: 此举再次引发了人们对贫困和贫困社区面临被切断「用水权」的担忧。
+
+Issue 228		L
+src: In addition appliances and the book, television and video industries grabbed the second and third positions on the chart.
+tar: 此外，家电和图书、电视和视频行业在排行榜上分别占据了第二和第三位。
+ref: 此外，「家电和图书【对于电器和图书(行业)/在电器和图书(行业)中】」、电视和视频行业在排行榜上分别占据了第二和第三位。
+
+Issue 229		L
+src: In home appliances and the music, television and video industries grabbed the second and third positions on the chart.
+tar: 家用电器和音乐、电视和视频行业在图表上占据了第二和第三位。
+ref: 【…】家用电器和音乐、电视和视频行业在图表上占据了第二和第三位。
+
+Issue 230		L
+src: In home appliances and the audio, television and video industries grabbed the second and third positions on the chart.
+tar: 家用电器以及音频、电视和视频行业在图表上占据了第二和第三位。
+
+Issue 231		L
+src: In home appliances and the book, audio and video industries grabbed the second and third positions on the chart.
+tar: 在家用电器和图书、音频和视频行业占据了图表的第二和第三位。
+
+Issue 232		L
+src: In home appliances and the book, magazine and video industries grabbed the second and third positions on the chart.
+tar: 在家用电器和书籍、杂志和视频行业，在排行榜上占据了第二和第三位。
+ref: 「在家用电器和书籍、杂志和视频行业」，在排行榜上占据了第二和第三位。
+
+Issue 233		L
+src: In home appliances and the book, toy and video industries grabbed the second and third positions on the chart.
+tar: 在家用电器和书籍、玩具和视频行业，分别占据了图表的第二和第三位。
+
+Issue 234		L
+src: In home appliances and the book, radio and video industries grabbed the second and third positions on the chart.
+tar: 在家用电器和图书、广播和视频行业，分别占据了排行榜的第二和第三位。
+
+Issue 235		L
+src: In home appliances and the book, publishing and video industries grabbed the second and third positions on the chart.
+tar: 在家用电器和图书、出版和视频行业，分别占据了排行榜的第二和第三位。
+
+Issue 236		L
+src: In home appliances and the book, book and video industries grabbed the second and third positions on the chart.
+tar: 在家用电器和图书、书籍和视频行业，分别占据了排行榜的第二和第三位。
+
+Issue 237		L
+src: In home appliances and the book, television and radio industries grabbed the second and third positions on the chart.
+tar: 在家用电器和图书、电视和广播行业，分别占据了排行榜的第二和第三位。
+
+Issue 238		L
+src: In home appliances and the book, television and software industries grabbed the second and third positions on the chart.
+tar: 在家用电器和图书、电视和软件行业，分别占据了排行榜的第二和第三位。
+
+Issue 239		L
+src: In home appliances and the book, television and publishing industries grabbed the second and third positions on the chart.
+tar: 在家用电器和图书、电视和出版业中，分别占据了排行榜的第二和第三位。
+
+Issue 240		L
+src: In home appliances and the book, television and video markets grabbed the second and third positions on the chart.
+tar: 在家用电器和图书、电视和视频市场，分别占据了图表上的第二和第三位。
+
+Issue 241		L
+src: In home appliances and the book, television and video categories grabbed the second and third positions on the chart.
+tar: 在家用电器和书籍，电视和视频类别中占据了图表的第二和第三位。
+
+Issue 242		L
+src: In home appliances and the book, television and video industries grabbed the second and third positions on the index.
+tar: 在家用电器和图书、电视和视频行业，该指数分别位居第二和第三位。
+
+Issue 243		N; W
+src: The entrepreneur showed an amiable demeanor as he engaged her who were sampling the models of Tecno brand of mobile phone.
+tar: 这位企业家表现出和蔼可亲的举止，因为他聘请了她，他们正在品尝Tecno品牌手机的型号。
+ref: 这位企业家表现出和蔼可亲的举止，「因为他聘请了她，他们正在品尝Tecno品牌手机的型号」。
+
+Issue 244		N; W
+src: The entrepreneur showed an amiable face as he engaged her who were sampling the models of Tecno brand of mobile phone.
+tar: 这位企业家在邀请她时表现出了和蔼可亲的面孔，他们正在品尝Tecno品牌手机的型号。
+
+Issue 245		N; W
+src: The entrepreneur showed an amiable demeanor as he engaged her who were sampling the models of Tecno range of mobile phone.
+tar: 这位企业家在与正在品尝Tecno系列手机型号的她接触时表现出和蔼可亲的举止。
+ref: 这位企业家在与正在「品尝Tecno系列手机型号」的她接触时表现出和蔼可亲的举止。
+
+Issue 246		W
+src: The phones were all arranged at his elegant shop located in one of Nairobi's bustling downtown areas, Luthuli Avenue.
+tar: 电话都是在他位于内罗毕繁华的市中心之一卢图利大道的优雅商店里安排的。
+ref: 电话都是在他位于内罗毕繁华的市中心之一卢图利大道的优雅商店里「安排【布置/摆放】」的。
+
+Issue 247		N
+src: The parties were all arranged at his elegant shop located in one of Nairobi's bustling downtown areas, Luthuli Avenue.
+tar: 派对都安排在他位于内罗毕繁华的市中心之一Luthuli Avenue的优雅商店。
+ref: 派对都安排在他位于内罗毕繁华的市中心之一「Luthuli Avenue」的优雅商店。
+
+Issue 248		N
+src: The items were all arranged at his elegant shop located in one of Nairobi's bustling downtown areas, Luthuli Avenue.
+tar: 这些物品都摆在他位于内罗毕繁华的市中心之一Luthuli Avenue的优雅商店里。
+ref: 这些物品都摆在他位于内罗毕繁华的市中心之一「Luthuli Avenue」的优雅商店里。
+
+Issue 249		N
+src: The contents were all arranged at his elegant shop located in one of Nairobi's bustling downtown areas, Luthuli Avenue.
+tar: 所有内容都安排在他位于内罗毕繁华的市中心之一Luthuli Avenue的优雅商店中。
+
+Issue 250		N; W
+src: The phones were all arranged at his elegant home located in one of Nairobi's bustling downtown areas, Luthuli Avenue.
+tar: 电话都安排在他优雅的家中，该家位于内罗毕繁华的市中心之一的Luthuli大道。
+
+Issue 251		N; W
+src: The phones were all arranged at his elegant shop located in one of Chicago's bustling downtown areas, Luthuli Avenue.
+tar: 这些电话都安排在他位于芝加哥繁华的市中心之一Luthuli Avenue的优雅商店里。
+
+Issue 252		N; W
+src: The phones were all arranged at his elegant shop located in one of Boston's bustling downtown areas, Luthuli Avenue.
+tar: 这些电话都安排在他位于波士顿繁华的市中心之一Luthuli Avenue的优雅商店里。
+
+Issue 253		W
+src: The phones were all arranged at his elegant shop located in one of Nairobi's bustling urban areas, Luthuli Avenue.
+tar: 电话都是在他位于内罗毕繁华的城市地区之一卢图利大道的优雅商店里安排的。
+
+Issue 254		N; W
+src: The phones were all arranged at his elegant shop located in one of Nairobi's bustling downtown squares, Luthuli Avenue.
+tar: 这些电话都安排在他位于内罗毕繁华的市中心广场之一Luthuli Avenue的优雅商店里。
+
+Issue 255		N; U
+src: Mwendwa said he felt honored to be among the growing army of street vendors who work with smartphones from Transsion holdings.
+tar: Mwendwa说，他很荣幸能成为越来越多的街头小贩中的一员，他们使用传音控股公司的智能手机。
+ref: 「Mwendwa」说，他很荣幸能成为越来越多的街头小贩【大军】中的一员，他们使用传音控股公司的智能手机。
+
+Issue 256		N
+src: Mwendwa said he felt honored to be among the growing community of street vendors who work with smartphones from Transsion holdings.
+tar: Mwendwa说，他很荣幸能成为越来越多的街头小贩社区的一员，他们使用Transsion控股的智能手机。
+
+Issue 257		N
+src: Mwendwa said he felt honored to be among the growing army of technology vendors who work with smartphones from Transsion holdings.
+tar: Mwendwa表示，他很荣幸能成为与传音控股公司智能手机合作的不断增长的技术供应商大军之一。
+
+Issue 258		N; U
+src: Mwendwa said he felt honored to be among the growing army of street people who work with smartphones from Transsion holdings.
+tar: Mwendwa说，他很荣幸能成为越来越多的街头人士之一，他们使用传音控股公司的智能手机工作。
+ref: 「Mwendwa」说，他很荣幸能成为越来越多的街头人士【…】之一，他们使用传音控股公司的智能手机工作。
+
+Issue 259		N; U
+src: Mwendwa said he felt honored to be among the growing army of street professionals who work with smartphones from Transsion holdings.
+tar: Mwendwa说，他很荣幸能成为越来越多的街头专业人士中的一员，他们使用传音控股的智能手机。
+
+Issue 260		N; U
+src: Mwendwa said he felt honored to be among the growing army of street photographers who work with smartphones from Transsion holdings.
+tar: Mwendwa说，他很荣幸能成为越来越多的街头摄影师队伍中的一员，他们使用传音控股的智能手机。
+
+Issue 261		N; U
+src: Mwendwa said he felt honored to be among the growing army of street users who work with smartphones from Transsion holdings.
+tar: Mwendwa说，他很荣幸能成为越来越多的街头用户中的一员，他们使用Transsion控股的智能手机。
+
+Issue 262		N; U
+src: Mwendwa said he felt honored to be among the growing army of street journalists who work with smartphones from Transsion holdings.
+tar: Mwendwa说，他很荣幸能成为越来越多的街头记者队伍中的一员，他们使用传音控股的智能手机。
+
+Issue 263		W
+src: Economic activity and population in large parts of the world remain well below levels seen before the pandemic hit.
+tar: 世界大部分地区的经济活动和人口仍远低于大流行爆发前的水平。
+ref: 世界大部分地区的经济活动和人口仍远低于「大流行」爆发前的水平。
+
+Issue 264		N
+src: TikTok does not allow an account to receive or send direct messages if the user identifies themselves as being under 16.
+tar: TikTok不允许一个帐户接收或发送直接消息，如果用户表明自己未满16岁。
+
+Issue 265		N
+src: TikTok does not allow an attacker to receive or send direct messages if the user identifies themselves as being under 16.
+tar: 如果用户认为自己未满 16 岁，TikTok 不允许攻击者接收或发送直接消息。
+
+Issue 266		N
+src: TikTok does not allow an administrator to receive or send direct messages if the user identifies themselves as being under 16.
+tar: 如果用户表明自己未满 16 岁，TikTok 不允许管理员接收或发送直接消息。
+
+Issue 267		N
+src: TikTok does not allow an account to receive or send text messages if the user identifies themselves as being under 16.
+tar: 如果用户表明自己未满 16 岁，TikTok 不允许帐户接收或发送短信。
+
+Issue 268		N
+src: TikTok does not allow an account to receive or send email messages if the user identifies themselves as being under 16.
+tar: 如果用户表明自己未满 16 岁，TikTok 不允许帐户接收或发送电子邮件。
+
+Issue 269		N
+src: TikTok does not allow an account to receive or send private messages if the user identifies themselves as being under 16.
+tar: 如果用户表明自己未满 16 岁，TikTok 不允许帐户接收或发送私人消息。
+
+Issue 270		L; W
+src: Economists say dialing back government support too quickly will undermine the strength of the recovery from the pandemic.
+tar: 经济学家表示，过快撤回政府支持将削弱大流行复苏的力度。
+ref: 经济学家表示，过快撤回政府支持将削弱「大流行【从大流行病中】」复苏的力度。
+
+Issue 271		W
+src: Economists say dialing back government funding too quickly will undermine the strength of the recovery from the pandemic.
+tar: 经济学家表示，过快地撤回政府资金将削弱从大流行中复苏的实力。
+ref: 经济学家表示，过快地撤回政府资金将削弱从「大流行」中复苏的实力。
+
+Issue 272		W
+src: China pursues a prudent monetary policy in a more flexible and appropriate fashion, according to this year's government policy report.
+tar: 根据今年的政府政策报告，中国以更灵活和适当的方式追求审慎的货币政策。
+ref: 根据今年的政府政策报告，中国以更灵活和适当的方式「追求【奉行/实施】」审慎的货币政策。
+
+Issue 273		W
+src: A vaccine is likely to help the economy, but there are more likely benefits to growth than there are surprise boosts.
+tar: 疫苗可能有助于经济，但增长更有可能带来好处，而不是意外的提振。
+
+Issue 274		L; W
+src: A vaccine is unlikely to help the economy, but there are more likely benefits to growth than there are surprise boosts.
+tar: 疫苗不太可能帮助经济，但对增长的好处比意外的提振更有可能。
+ref: 疫苗不太可能帮助经济，「但对增长的好处比意外的提振更有可能」。
+
+Issue 275		N; W
+src: He joined Bravo Volunteer Ambulance as an emergency medical officer at a time when the city was experiencing a shortage of crew.
+tar: 他加入了Bravo志愿救护车，担任紧急医疗官员，当时该市正在经历船员短缺。
+ref: 他加入了「Bravo」志愿救护车，担任紧急医疗官员，当时该市正在经历「船员【人员】」短缺。
+
+Issue 276		W
+src: He joined Toronto Volunteer Ambulance as an emergency medical officer at a time when the city was experiencing a shortage of crew.
+tar: 他加入了多伦多志愿救护车，担任紧急医疗官员，当时该市正经历着船员短缺的问题。
+
+Issue 277		W
+src: He joined Birmingham Volunteer Ambulance as an emergency medical officer at a time when the city was experiencing a shortage of crew.
+tar: 他加入了伯明翰志愿救护车，担任紧急医疗官员，当时该市正经历着船员短缺的问题。
+
+Issue 278		N; W
+src: He joined Bravo Air Ambulance as an emergency medical officer at a time when the city was experiencing a shortage of crew.
+tar: 他加入Bravo空中救护车担任紧急医疗官，当时该市正在经历机组人员短缺。
+
+Issue 279		W
+src: He joined Bravo City Ambulance as an emergency medical officer at a time when the city was experiencing a shortage of crew.
+tar: 他加入了布拉沃市救护车，担任紧急医疗官员，当时该市正经历着船员短缺的问题。
+
+Issue 280		N; U
+src: He joined Bravo Volunteer Ambulance as an emergency medical officer at a time when the ambulance was experiencing a shortage of crew.
+tar: 他加入了Bravo志愿救护车，担任紧急医疗人员，当时救护车人员短缺。
+ref: 他加入了Bravo志愿救护车，担任紧急医疗人员，当时「救护车【正 经历/面临】」人员短缺。
+
+Issue 281		L
+src: Online services required to alert consumers who have bought a product found to be unsafe, rather than only taking down listing.
+tar: 需要在线服务来提醒购买产品发现不安全的消费者，而不仅仅是删除列表。
+ref: 需要在线服务来提醒「购买产品发现不安全【购买 被发现(是)不安全(的) 产品】」的消费者，而不仅仅是删除列表。
+
+Issue 282		L
+src: Safety services required to alert consumers who have bought a product found to be unsafe, rather than only taking down listing.
+tar: 需要安全服务来提醒购买了发现不安全产品的消费者，而不仅仅是删除列表。
+ref: 需要安全服务来提醒购买了【被】发现不安全产品的消费者，而不仅仅是删除列表。
+
+Issue 283		L
+src: Government services required to alert consumers who have bought a product found to be unsafe, rather than only taking down listing.
+tar: 政府服务需要提醒购买了发现不安全产品的消费者，而不仅仅是删除列表。
+
+Issue 284		L
+src: Online retailers required to alert consumers who have bought a product found to be unsafe, rather than only taking down listing.
+tar: 在线零售商需要提醒购买了发现不安全产品的消费者，而不仅仅是删除列表。
+
+Issue 285		U
+src: Online services required to alert consumers who have bought a item found to be unsafe, rather than only taking down listing.
+tar: 在线服务需要提醒购买了不安全商品的消费者，而不仅仅是删除列表。
+ref: 在线服务需要提醒购买了【被发现】不安全商品的消费者，而不仅仅是删除列表。
+
+Issue 286		L; N; U
+src: Beyond says customers will be served its rendition as a ramen topping, and in dishes such as spaghetti and meatballs, or bolognaise, and biscuits and cakes.
+tar: Beyond表示，顾客将以拉面馅料的形式供应，以及意大利面和肉丸，肉酱，饼干和蛋糕等菜肴。
+ref: 「Beyond」表示，顾客将「以拉面馅料的形式供应」，以及意大利面和肉丸，肉酱，饼干和蛋糕等菜肴。
+
+Issue 287		L; N; U
+src: Beyond says customers will be served its rendition as a ramen dish, and in dishes such as spaghetti and meatballs, or bolognaise, and biscuits and cakes.
+tar: Beyond表示，顾客将以拉面的形式供应，以及意大利面和肉丸，肉酱，饼干和蛋糕等菜肴。
+
+Issue 288		L; N
+src: The high demand for Tecno and other Transsion brands in Kenya is a reflection of their international appeal in the larger African market.
+tar: 肯尼亚对Tecno和其他传音品牌的高需求反映了它们在更大的非洲市场的国际吸引力。
+ref: 「肯尼亚对Tecno和其他传音品牌【对德卡诺和其他肯尼亚传音品牌】」的高需求反映了它们在更大的非洲市场的国际吸引力。
+
+Issue 289		L; N
+src: The increased demand for Tecno and other Transsion brands in Kenya is a reflection of their international appeal in the larger African market.
+tar: 肯尼亚对Tecno和其他传音品牌的需求增加反映了它们在更大的非洲市场的国际吸引力。
+
+Issue 290		L; N
+src: The current demand for Tecno and other Transsion brands in Kenya is a reflection of their international appeal in the larger African market.
+tar: 目前肯尼亚对Tecno和其他传音品牌的需求反映了它们在更大的非洲市场的国际吸引力。
+
+Issue 291		L; N
+src: The high market for Tecno and other Transsion brands in Kenya is a reflection of their international appeal in the larger African market.
+tar: Tecno和其他传音品牌在肯尼亚的高市场反映了它们在更大的非洲市场的国际吸引力。
+
+Issue 292		L; N
+src: The high demand for Tecno and other Transsion brands in Kenya is a result of their international appeal in the larger African market.
+tar: 肯尼亚对Tecno和其他传音品牌的高需求是它们在更大的非洲市场具有国际吸引力的结果。
+
+Issue 293		L; N
+src: The high demand for Tecno and other Transsion brands in Kenya is a measure of their international appeal in the larger African market.
+tar: 肯尼亚对Tecno和其他传音品牌的高需求是衡量其在更大的非洲市场的国际吸引力的一个标准。
+
+Issue 294		L; N
+src: The high demand for Tecno and other Transsion brands in Kenya is a factor of their international appeal in the larger African market.
+tar: 肯尼亚对Tecno和其他传音品牌的高需求是他们在更大的非洲市场具有国际吸引力的一个因素。
+
+Issue 295		L; N
+src: The high demand for Tecno and other Transsion brands in Kenya is a recognition of their international appeal in the larger African market.
+tar: 肯尼亚对Tecno和其他传音品牌的高需求是对它们在更大的非洲市场的国际吸引力的认可。
+
+Issue 296		L
+src: The center, set to start operation in 2021, will include a laboratory where electric drive vehicles can be tested and validated.
+tar: 该中心定于2021年开始运营，将包括一个实验室，可以在那里测试和验证电动车辆。
+ref: 该中心定于2021年开始运营，将包括一个【可以测试和验证电动车辆的】实验室「，可以在那里测试和验证电动车辆」。
+
+Issue 297		L
+src: The center, set to start operation in 2021, will include a laboratory where solar drive vehicles can be tested and validated.
+tar: 该中心将于2021年开始运营，将包括一个实验室，可以测试和验证太阳能驱动车辆。
+
+Issue 298		L
+src: The center, set to start operation in 2021, will include a laboratory where autonomous drive vehicles can be tested and validated.
+tar: 该中心将于2021年开始运营，将包括一个实验室，可以测试和验证自动驾驶车辆。
+
+Issue 299		U
+src: The top science cities are those whose institutions collectively publish the most output in the 82 high-quality journals ranked by the Nature Index.
+tar: 顶级科学城市是那些机构在自然指数排名的82种高质量期刊中发表最多产出的城市。
+ref: 顶级科学城市是那些机构在自然指数排名的82种高质量期刊中【集体】发表最多产出的城市。
+
+Issue 300		U
+src: The top ranking cities are those whose institutions collectively publish the most output in the 82 high-quality journals ranked by the Nature Index.
+tar: 排名靠前的城市是那些在自然指数排名的82种高质量期刊中集体发表最多产出的城市。
+ref: 排名靠前的城市是那些【其机构】在自然指数排名的82种高质量期刊中集体发表最多产出的城市。
+
+Issue 301		U; W
+src: The top science cities are those whose authors collectively publish the most output in the 82 high-quality journals ranked by the Nature Index.
+tar: 顶级科学城市是那些作者在自然指数排名的82种高质量期刊中发表最多作品的城市。
+ref: 顶级科学城市是那些作者在自然指数排名的82种高质量期刊中【集体】发表最多「作品」的城市。
+
+Issue 302		U
+src: The top science cities are those whose institutions regularly publish the most output in the 82 high-quality journals ranked by the Nature Index.
+tar: 顶级科学城市是那些在自然指数排名的82种高质量期刊中定期发表最多产出的城市。
+ref: 顶级科学城市是那些【机构】在自然指数排名的82种高质量期刊中定期发表最多产出的城市。
+
+Issue 303		U
+src: The top science cities are those whose institutions jointly publish the most output in the 82 high-quality journals ranked by the Nature Index.
+tar: 顶级科学城市是那些在自然指数排名的82种高质量期刊中联合发表最多产出的城市。
+ref: 顶级科学城市是那些【…】在自然指数排名的82种高质量期刊中联合发表最多产出的城市。
+
+Issue 304		U
+src: The top science cities are those whose institutions collectively publish the most research in the 82 high-quality journals ranked by the Nature Index.
+tar: 顶级科学城市是那些在自然指数排名的82种高质量期刊中集体发表最多研究成果的城市。
+
+Issue 305		U
+src: The top science cities are those whose institutions collectively publish the most output in the 82 high-quality journals ranked by the Citation Index.
+tar: 顶级科学城市是那些在引文索引排名的82种高质量期刊中集体发表最多产出的城市。
+ref: 顶级科学城市是那些【…】在引文索引排名的82种高质量期刊中集体发表最多产出的城市。
+
+Issue 306		U
+src: The top science cities are those whose institutions collectively publish the most output in the 82 high-quality journals ranked by the Russell Index.
+tar: 顶级科学城市是那些在罗素指数排名的82种高质量期刊中集体发表最多产出的城市。
+
+Issue 307		U
+src: The top science cities are those whose institutions collectively publish the most output in the 82 high-quality journals ranked by the Humanities Index.
+tar: 顶级科学城市是那些在人文指数排名的82种高质量期刊中集体发表最多产出的城市。
+
+Issue 308		U
+src: The top science cities are those whose institutions collectively publish the most output in the 82 high-quality journals ranked by the Nature Institute.
+tar: 顶级科学城市是那些在自然研究所排名的82种高质量期刊中集体发表最多产出的城市。
+
+Issue 309		O; W
+src: He says the pandemic has been a shot of adrenaline for a technology that to him had not yet really arrived.
+tar: 他说，大流行是一剂肾上腺素飙升的子弹，对他来说，这种技术还没有真正到来。
+ref: 他说，「大流行【病】」是「一剂肾上腺素飙升的子弹【一针肾上腺素】」，对他来说，这种技术还没有真正到来。
+
+Issue 310		U; W
+src: He says the pandemic has been a cocktail of adrenaline for a technology that to him had not yet really arrived.
+tar: 他说，大流行一直是肾上腺素的混合物，对他来说还没有真正到来。
+ref: 他说，「大流行【病】」一直是「肾上腺素的混合物」，对他来说【…】还没有真正到来。
+
+Issue 311		L; W
+src: He says the pandemic has been a shot of adrenaline for a generation that to him had not yet really arrived.
+tar: 他说，大流行对一代人来说是肾上腺素的注射，对他来说还没有真正到来。
+ref: 他说，「大流行」「对一代人来说」是「肾上腺素的注射」，对他来说还没有真正到来。
+
+Issue 312		W
+src: He says the pandemic has been a shot of adrenaline for a nation that to him had not yet really arrived.
+tar: 他说，对于一个对他来说还没有真正到来的国家来说，大流行是一剂肾上腺素的注射。
+ref: 他说，对于一个对他来说还没有真正到来的国家来说，「大流行」是一剂肾上腺素「的注射」。
+
+Issue 313		U; W
+src: He says the pandemic has been a shot of adrenaline for a time that to him had not yet really arrived.
+tar: 他说，大流行一直是肾上腺素的注射，对他来说还没有真正到来。
+
+Issue 314		U; W
+src: He says the pandemic has been a shot of adrenaline for a country that to him had not yet really arrived.
+tar: 他说，对于一个对他来说还没有真正到来的国家来说，大流行是一剂肾上腺素的注射。
+
+Issue 315		L; W
+src: He says the pandemic has been a shot of adrenaline for a day that to him had not yet really arrived.
+tar: 他说，大流行已经是肾上腺素飙升的一天，对他来说还没有真正到来。
+ref: 他说，「大流行」已经是肾上腺素「飙升」「的一天」，对他来说还没有真正到来。
+
+Issue 316		W
+src: He says the pandemic has been a shot of adrenaline for a society that to him had not yet really arrived.
+tar: 他说，对于一个对他来说还没有真正到来的社会来说，大流行是一剂肾上腺素的注射。
+
+Issue 317		W
+src: He says the pandemic has been a shot of adrenaline for a technology that to him had not even really arrived.
+tar: 他说，大流行是一剂肾上腺素的子弹，对他来说，这项技术甚至还没有真正到来。
+
+Issue 318		U; W
+src: He says the pandemic has been a shot of adrenaline for a technology that to him had not ever really arrived.
+tar: 他说，大流行是一剂肾上腺素，对他来说，这种技术从未真正到来过。
+
+Issue 319		W
+src: He says the pandemic has been a shot of adrenaline for a technology that to him had not yet fully arrived.
+tar: 他说，大流行对一项对他来说尚未完全到来的技术来说是一剂肾上腺素飙升。
+ref: 他说，「大流行」对一项对他来说尚未完全到来的技术来说是「一剂肾上腺素飙升」。
+
+Issue 320		W
+src: He says the pandemic has been a shot of adrenaline for a technology that to him had not yet even arrived.
+tar: 他说，大流行对一项对他来说甚至还没有到来的技术来说是肾上腺素的刺激。
+
+Issue 321		W
+src: He says the pandemic has been a shot of adrenaline for a technology that to him had not yet completely arrived.
+tar: 他说，大流行对一项对他来说尚未完全到来的技术来说是肾上腺素的刺激。
+
+Issue 322		W
+src: He says the pandemic has been a shot of adrenaline for a technology that to him had not yet quite arrived.
+tar: 他说，大流行对一项对他来说尚未完全到来的技术来说是一剂肾上腺素的注射。
+
+Issue 323		W
+src: He says the pandemic has been a shot of adrenaline for a technology that to him had not yet officially arrived.
+tar: 他说，大流行对一项对他来说尚未正式到来的技术来说是肾上腺素的刺激。
+
+Issue 324		L; U; W
+src: He says the pandemic has been a shot of adrenaline for a technology that to him had not yet yet arrived.
+tar: 他说，大流行是一种对他来说尚未到来的技术的肾上腺素。
+
+Issue 325		W
+src: This way, Chinese pig farmers have seen some recovery, allowing them to boost supply and ease prices, analysts at Rabobank wrote in a recent research paper.
+tar: 通过这种方式，中国养猪户看到了一些复苏，使他们能够增加供应并缓解价格，荷兰合作银行（Rabobank）的分析师在最近的一篇研究论文中写道。
+ref: 通过这种方式，中国养猪户看到了一些复苏，使他们能够增加供应并「缓解【降低】」价格，荷兰合作银行（Rabobank）的分析师在最近的一篇研究论文中写道。
+
+Issue 326		W
+src: This way, domestic pig farmers have seen some recovery, allowing them to boost supply and ease prices, analysts at Rabobank wrote in a recent research paper.
+tar: 这样，国内养猪户已经看到了一些复苏，使他们能够增加供应并缓解价格，荷兰合作银行的分析师在最近的一篇研究论文中写道。
+ref: 这样，国内养猪户已经看到了一些复苏，使他们能够增加供应并「缓解」价格，荷兰合作银行的分析师在最近的一篇研究论文中写道。
+
+Issue 327		W
+src: This way, French pig farmers have seen some recovery, allowing them to boost supply and ease prices, analysts at Rabobank wrote in a recent research paper.
+tar: 这样，法国养猪户已经看到了一些复苏，使他们能够增加供应并缓解价格，荷兰合作银行的分析师在最近的一篇研究论文中写道。
+ref: 这样，法国养猪户已经看到了一些复苏，使他们能够增加供应并「缓解」价格，荷兰合作银行的分析师在最近的一篇研究论文中写道。
+
+Issue 328		W
+src: This way, Chinese rice farmers have seen some recovery, allowing them to boost supply and ease prices, analysts at Rabobank wrote in a recent research paper.
+tar: 荷兰合作银行（Rabobank）的分析师在最近的一篇研究报告中写道，通过这种方式，中国稻农已经看到了一些复苏，使他们能够增加供应并缓解价格。
+ref: 荷兰合作银行（Rabobank）的分析师在最近的一篇研究报告中写道，通过这种方式，中国稻农已经看到了一些复苏，使他们能够增加供应并「缓解」价格。
+
+Issue 329		W
+src: This way, Chinese dairy farmers have seen some recovery, allowing them to boost supply and ease prices, analysts at Rabobank wrote in a recent research paper.
+tar: 荷兰合作银行（Rabobank）的分析师在最近的一篇研究报告中写道，通过这种方式，中国奶农已经看到了一些复苏，使他们能够增加供应并缓解价格。
+
+Issue 330		W
+src: This way, Chinese cotton farmers have seen some recovery, allowing them to boost supply and ease prices, analysts at Rabobank wrote in a recent research paper.
+tar: 荷兰合作银行（Rabobank）的分析师在最近的一篇研究报告中写道，通过这种方式，中国棉农已经看到了一些复苏，使他们能够增加供应并缓解价格。
+
+Issue 331		W
+src: This way, Chinese food farmers have seen some recovery, allowing them to boost supply and ease prices, analysts at Rabobank wrote in a recent research paper.
+tar: 荷兰合作银行（Rabobank）的分析师在最近的一篇研究报告中写道，通过这种方式，中国食品农民已经看到了一些复苏，使他们能够增加供应并缓解价格。
+
+Issue 332		W
+src: This way, Chinese pig farmers have seen some recovery, allowing them to boost supply and ease prices, analysts at Rabobank wrote in a recent trade paper.
+tar: 荷兰合作银行（Rabobank）的分析师在最近的一份贸易报告中写道，通过这种方式，中国养猪户已经看到了一些复苏，使他们能够增加供应并缓解价格。
+ref: 荷兰合作银行（Rabobank）的分析师在最近的一份贸易报告中写道，通过这种方式，中国养猪户已经看到了一些复苏，使他们能够增加供应并「缓解」价格。
+
+Issue 333		W
+src: This way, Chinese pig farmers have seen some recovery, allowing them to boost supply and ease prices, analysts at Rabobank wrote in a recent research piece.
+tar: 这样，中国养猪户已经看到了一些复苏，使他们能够增加供应并缓解价格，荷兰合作银行的分析师在最近的一篇研究中写道。
+ref: 这样，中国养猪户已经看到了一些复苏，使他们能够增加供应并「缓解」价格，荷兰合作银行的分析师在最近的一篇研究中写道。
+
+Issue 334		W
+src: This is the first time the smartphone brand took such a position, following the launch in 2014, according to Beijing News.
+tar: 据《新京报》报道，这是继2014年推出智能手机品牌后，首次采取这样的姿态。
+ref: 据《新京报》报道，这是继2014年推出智能手机品牌后，首次「采取这样的姿态」。
+
+Issue 335		N
+src: This is the first time the smartphone brand took such a position, following the launch in 2014, according to BBC News.
+tar: 据BBC新闻报道，这是智能手机品牌继2014年推出后首次采取这样的立场。
+ref: 据「BBC」新闻报道，这是智能手机品牌继2014年推出后首次采取这样的立场。
+
+Issue 336		N
+src: This is the first time the smartphone brand took such a position, following the launch in 2014, according to ABC News.
+tar: 据ABC新闻报道，这是智能手机品牌继2014年推出后首次采取这样的立场。
+
+Issue 337		N
+src: This is the first time the smartphone brand took such a position, following the launch in 2014, according to Apple News.
+tar: 据Apple News报道，这是该智能手机品牌继2014年推出后首次采取这样的立场。
+
+Issue 338		N
+src: Businesses borrowing from banks will leap more than fivefold in 2020 compared to last year, according to reuters from the EY Item Report.
+tar: 据路透社报道，与去年相比，2020年从银行借款的企业将跃升五倍以上。
+ref: 据「路透社报道」，与去年相比，2020年从银行借款的企业将跃升五倍以上。
+
+Issue 339		U
+src: In this way, a number of countries have stepped up vr marketing efforts to allow for the gradual recovery of their tourism industries.
+tar: 通过这种方式，一些国家加大了vr营销力度，使其旅游业逐步复苏。
+ref: 通过这种方式，一些国家加大了「vr」营销力度，使其旅游业逐步复苏。
+
+Issue 340		U; W
+src: In this regard, a number of countries have stepped up vr marketing efforts to allow for the gradual recovery of their tourism industries.
+tar: 在这方面，一些国家已经加强了VR营销工作，以使其旅游业逐步恢复。
+ref: 在这方面，一些国家已经加强了VR营销「工作」，以使其旅游业逐步恢复。
+
+Issue 341		U
+src: In this context, a number of countries have stepped up vr marketing efforts to allow for the gradual recovery of their tourism industries.
+tar: 在此背景下，一些国家加大了VR营销力度，以逐步恢复其旅游业。
+ref: 在此背景下，一些国家加大了「VR」营销力度，以逐步恢复其旅游业。
+
+Issue 342		U; W
+src: In this respect, a number of countries have stepped up vr marketing efforts to allow for the gradual recovery of their tourism industries.
+tar: 在这方面，一些国家已经加强了VR营销工作，以使其旅游业逐步恢复。
+
+Issue 343		U; W
+src: In this sense, a number of countries have stepped up vr marketing efforts to allow for the gradual recovery of their tourism industries.
+tar: 从这个意义上说，许多国家已经加强了VR营销工作，以使其旅游业逐步恢复。
+
+Issue 344		U
+src: In this period, a number of countries have stepped up vr marketing efforts to allow for the gradual recovery of their tourism industries.
+tar: 在此期间，一些国家加大了VR营销力度，以使其旅游业逐步恢复。
+
+Issue 345		U; W
+src: In this area, a number of countries have stepped up vr marketing efforts to allow for the gradual recovery of their tourism industries.
+tar: 在这一领域，一些国家已经加强了VR营销工作，以使其旅游业逐步恢复。
+
+Issue 346		U; W
+src: In this way, a number of nations have stepped up vr marketing efforts to allow for the gradual recovery of their tourism industries.
+tar: 通过这种方式，许多国家已经加强了VR营销工作，以使其旅游业逐步恢复。
+
+Issue 347		U; W
+src: In this way, a number of governments have stepped up vr marketing efforts to allow for the gradual recovery of their tourism industries.
+tar: 通过这种方式，许多政府已经加强了VR营销工作，以使其旅游业逐步恢复。
+
+Issue 348		U; W
+src: In this way, a number of municipalities have stepped up vr marketing efforts to allow for the gradual recovery of their tourism industries.
+tar: 通过这种方式，许多城市已经加强了VR营销工作，以使其旅游业逐步恢复。
+
+Issue 349		U; W
+src: In this way, a number of countries have stepped up vr marketing initiatives to allow for the gradual recovery of their tourism industries.
+tar: 通过这种方式，一些国家已经加强了VR营销计划，以使其旅游业逐步恢复。
+
+Issue 350		U
+src: In this way, a number of countries have stepped up vr marketing strategies to allow for the gradual recovery of their tourism industries.
+tar: 通过这种方式，许多国家已经加强了VR营销策略，以使其旅游业逐步恢复。
+
+Issue 351		U
+src: In this way, a number of countries have stepped up vr marketing operations to allow for the gradual recovery of their tourism industries.
+tar: 通过这种方式，一些国家已经加强了VR营销业务，以使其旅游业逐步恢复。
+
+Issue 352		U
+src: In this way, a number of countries have stepped up vr marketing programs to allow for the gradual recovery of their tourism industries.
+tar: 通过这种方式，许多国家已经加强了VR营销计划，以使其旅游业逐步恢复。
+
+Issue 353		U; W
+src: In this way, a number of countries have stepped up vr marketing policies to allow for the gradual recovery of their tourism industries.
+tar: 通过这种方式，一些国家已经加强了VR营销政策，以允许其旅游业逐步恢复。
+ref: 通过这种方式，一些国家已经加强了「VR」营销政策，以「允许」其旅游业逐步恢复。
+
+Issue 354		U; W
+src: In this way, a number of countries have stepped up vr marketing efforts to allow for the economic recovery of their tourism industries.
+tar: 通过这种方式，许多国家已经加强了VR营销工作，以使其旅游业的经济复苏。
+
+Issue 355		U; W
+src: In this way, a number of countries have stepped up vr marketing efforts to allow for the financial recovery of their tourism industries.
+tar: 通过这种方式，许多国家加强了VR营销工作，以使其旅游业的财务复苏。
+ref: 通过这种方式，许多国家加强了「VR」营销「工作」，以使其旅游业的财务复苏。
+
+Issue 356		U
+src: In this way, a number of countries have stepped up vr marketing efforts to allow for the successful recovery of their tourism industries.
+tar: 通过这种方式，一些国家加大了vr营销力度，使其旅游业得以成功复苏。
+ref: 通过这种方式，一些国家加大了「vr」营销力度，使其旅游业得以成功复苏。
+
+Issue 357		U; W
+src: In this way, a number of countries have stepped up vr marketing efforts to allow for the gradual recovery of their failing industries.
+tar: 通过这种方式，许多国家已经加强了VR营销工作，以使其失败的行业逐步复苏。
+ref: 通过这种方式，许多国家已经加强了「VR」营销「工作」，以使其失败的行业逐步复苏。
+
+Issue 358		W
+src: Cities in the Americas, Africa and Eastern Europe have become less costly since this year, while Western European cities have become cheaper.
+tar: 自今年以来，美洲、非洲和东欧的城市成本有所下降，而西欧城市则变得更便宜。
+ref: 自今年以来，美洲、非洲和东欧的城市「成本有所下降」，而西欧城市则变得更便宜。
+
+Issue 359		U
+src: Most Chinese cities have risen up the ranks largely due to the US-China tech war which has tested the effectiveness of supply chains and lowered consumer prices.
+tar: 大多数中国城市已经上升，这主要是由于美中科技战争，这场战争考验了供应链的有效性并降低了消费者价格。
+ref: 大多数中国城市【排名】已经上升，这主要是由于美中科技战争，这场战争考验了供应链的有效性并降低了消费者价格。
+
+Issue 360		U
+src: In addition to the COVID-19 cases, investors were keeping a close eye on the upcoming election and what the change could mean for the markets.
+tar: 除了COVID-19病例外，投资者还密切关注即将到来的选举以及这一变化对市场可能意味着什么。
+ref: 除了「COVID-19」病例外，投资者还密切关注即将到来的选举以及这一变化对市场可能意味着什么。
+
+Issue 361		U
+src: In addition to the COVID-19 cases, authorities were keeping a close eye on the upcoming election and what the change could mean for the markets.
+tar: 除了COVID-19病例外，当局还在密切关注即将举行的选举以及这一变化对市场意味着什么。
+
+Issue 362		U
+src: In addition to the COVID-19 cases, analysts were keeping a close eye on the upcoming election and what the change could mean for the markets.
+tar: 除了COVID-19病例外，分析师还密切关注即将举行的选举以及这一变化对市场意味着什么。
+
+Issue 363		U
+src: In addition to the COVID-19 cases, investors were keeping a close eye on the next election and what the change could mean for the markets.
+tar: 除了COVID-19病例外，投资者还密切关注下一次选举以及这一变化对市场可能意味着什么。
+
+Issue 364		U
+src: In addition to the COVID-19 cases, investors were keeping a close eye on the presidential election and what the change could mean for the markets.
+tar: 除了COVID-19病例外，投资者还密切关注总统选举以及这一变化对市场意味着什么。
+
+Issue 365		U
+src: In addition to the COVID-19 cases, investors were keeping a close eye on the new election and what the change could mean for the markets.
+tar: 除了COVID-19病例外，投资者还密切关注新选举以及这一变化对市场可能意味着什么。
+
+Issue 366		U
+src: In addition to the COVID-19 cases, investors were keeping a close eye on the upcoming year and what the change could mean for the markets.
+tar: 除了COVID-19病例外，投资者还密切关注来年以及这一变化对市场可能意味着什么。
+
+Issue 367		U
+src: In addition to the COVID-19 cases, investors were keeping a close eye on the upcoming election and what the result could mean for the markets.
+tar: 除了COVID-19病例外，投资者还在密切关注即将到来的选举以及结果对市场意味着什么。
+
+Issue 368		U
+src: In addition to the COVID-19 cases, investors were keeping a close eye on the upcoming election and what the outcome could mean for the markets.
+tar: 除了COVID-19病例外，投资者还在密切关注即将到来的选举以及结果对市场可能意味着什么。
+
+Issue 369		U
+src: The fourth-quarter comparable store sales decreased 9 percent in the United States and 3 percent in China, demonstrating a substantial recovery, the company said.
+tar: 该公司表示，第四季度可比商店在美国下降了9%，在中国下降了3%，显示出大幅复苏。
+ref: 该公司表示，第四季度可比商店【销售额】在美国下降了9%，在中国下降了3%，显示出大幅复苏。
+
+Issue 370		U
+src: The fourth-quarter comparable store sales decreased 9 percent in the United States and 3 percent in China, demonstrating a strong recovery, the company said.
+tar: 该公司表示，第四季度可比商店在美国下降了9%，在中国下降了3%，显示出强劲的复苏。
+
+Issue 371		U
+src: The fourth-quarter comparable store sales decreased 9 percent in the United States and 3 percent in China, demonstrating a major recovery, the company said.
+tar: 该公司表示，第四季度可比商店在美国下降了9%，在中国下降了3%，显示出重大复苏。
+
+Issue 372		U
+src: The fourth-quarter comparable store sales decreased 9 percent in the United States and 3 percent in China, demonstrating a sustained trend, the company said.
+tar: 该公司表示，第四季度可比商店在美国下降了9%，在中国下降了3%，显示出持续的趋势。
+
+Issue 373		U
+src: The fourth-quarter comparable store sales decreased 9 percent in the United States and 3 percent in China, demonstrating a sustained growth, the company said.
+tar: 该公司表示，第四季度可比商店在美国下降了9%，在中国下降了3%，显示出持续增长。
+
+Issue 374		W
+src: Borrowers who have not yet had a paid holiday can request from their landlord a pause in payments, that can take up to six months.
+tar: 尚未享受带薪假期的借款人可以要求房东暂停付款，这可能需要长达六个月的时间。
+ref: 尚未「享受【拥有】」带薪假期的借款人可以要求房东暂停付款，这可能需要长达六个月的时间。
+
+Issue 375		U
+src: Borrowers who have not yet had a paid period can request from their landlord a pause in payments, that can take up to six months.
+tar: 尚未付款期的借款人可以要求房东暂停付款，这可能需要长达六个月的时间。
+ref: 尚未【拥有】付款期的借款人可以要求房东暂停付款，这可能需要长达六个月的时间。
+
+Issue 376		N; W
+src: During the event, Terminus will press into service more than 150 robots, including patrol vehicles, welcome robots, guiding lights, and goods-delivering vehicles.
+tar: 在活动期间，Terminus将推动150多个机器人投入使用，包括巡逻车，欢迎机器人，指路灯和货物交付车辆。
+ref: 在活动期间，「Terminus」将「推动【临时征用】」150多个机器人「投入使用」，包括巡逻车，欢迎机器人，指路灯和货物交付车辆。
+
+Issue 377		N; W
+src: During the event, Terminus will press into place more than 150 robots, including patrol vehicles, welcome robots, guiding lights, and goods-delivering vehicles.
+tar: 在活动期间，Terminus将推出150多个机器人，包括巡逻车，欢迎机器人，指路灯和货物交付车辆。
+ref: 在活动期间，「Terminus」将「推出」150多个机器人，包括巡逻车，欢迎机器人，指路灯和货物交付车辆。
+
+Issue 378		N
+src: During the event, Terminus will press into orbit more than 150 robots, including patrol vehicles, welcome robots, guiding lights, and goods-delivering vehicles.
+tar: 活动期间，Terminus将把150多个机器人送入轨道，包括巡逻车、迎宾机器人、指路灯和货物运送车辆。
+
+Issue 379		N; W
+src: During the event, Terminus will press into service more than 150 robots, including delivery vehicles, welcome robots, guiding lights, and goods-delivering vehicles.
+tar: 活动期间，Terminus将投入使用150多个机器人，包括送货车，欢迎机器人，指路灯和送货车辆。
+
+Issue 380		N; W
+src: During the event, Terminus will press into service more than 150 robots, including patrol robots, welcome robots, guiding lights, and goods-delivering vehicles.
+tar: 在活动期间，Terminus将投入使用150多台机器，包括巡逻机器人，欢迎机器人，指路灯和送货车辆。
+
+Issue 381		N; W
+src: During the event, Terminus will press into service more than 150 robots, including patrol vehicles, welcome signs, guiding lights, and goods-delivering vehicles.
+tar: 在活动期间，Terminus将投入使用150多个机器人，包括巡逻车，欢迎标志，指路灯和货物运送车辆。
+
+Issue 382		N; W
+src: During the event, Terminus will press into service more than 150 robots, including patrol vehicles, welcome buses, guiding lights, and goods-delivering vehicles.
+tar: 在活动期间，Terminus将投入使用150多个机器人，包括巡逻车，欢迎巴士，指路灯和货物运送车辆。
+
+Issue 383		N; W
+src: During the event, Terminus will press into service more than 150 robots, including patrol vehicles, welcome trucks, guiding lights, and goods-delivering vehicles.
+tar: 在活动期间，Terminus将投入使用150多个机器人，包括巡逻车，欢迎卡车，指路灯和货物运送车辆。
+
+Issue 384		N; W
+src: During the event, Terminus will press into service more than 150 robots, including patrol vehicles, welcome carriers, guiding lights, and goods-delivering vehicles.
+tar: 在活动期间，Terminus将投入使用150多个机器人，包括巡逻车，欢迎载体，指路灯和货物运送车辆。
+
+Issue 385		N; W
+src: During the event, Terminus will press into service more than 150 robots, including patrol vehicles, welcome cards, guiding lights, and goods-delivering vehicles.
+tar: 在活动期间，Terminus将投入使用150多个机器人，包括巡逻车，欢迎卡，指路灯和货物运送车辆。
+
+Issue 386		N; W
+src: During the event, Terminus will press into service more than 150 robots, including patrol vehicles, welcome wagons, guiding lights, and goods-delivering vehicles.
+tar: 在活动期间，Terminus将投入使用150多个机器人，包括巡逻车，欢迎车，指路灯和货物运送车辆。
+
+Issue 387		N; W
+src: During the event, Terminus will press into service more than 150 robots, including patrol vehicles, welcome robots, guiding lights, and goods-delivering trucks.
+tar: 在活动期间，Terminus将推动150多个机器人投入使用，包括巡逻车，欢迎机器人，指路灯和送货卡车。
+
+Issue 388		L
+src: Some were fitted with EU plugs, and sold with a UK adapter to plug permanently, which increases the cost of an electrical shock or fire.
+tar: 有些配备了欧盟插头，并出售英国适配器以永久插入，这增加了电击或火灾的成本。
+ref: 有些配备了欧盟插头，并「出售英国适配器以永久插入【与英国适配器一起出售以永久插入】」，这增加了电击或火灾的成本。
+
+Issue 389		L
+src: Some were fitted with EU plugs, and sold with a UK adapter to plug permanently, which increases the cost of an occasional shock or fire.
+tar: 有些配备了欧盟插头，并出售英国适配器以永久插入，这增加了偶尔发生电击或火灾的成本。
+
+Issue 390		U; W
+src: We have always been clear that we keep these measures under constant review so they do not have to be in place for any longer than is necessary.
+tar: 我们一直很清楚，我们不断审查这些措施，以便它们不必超过必要的时间。
+ref: 我们一直很清楚，我们不断审查这些措施，「以便【所以】」它们【实施(的时间)】不必超过必要的时间。
+
+Issue 391		U; W
+src: We have also been clear that we keep these measures under constant review so they do not have to be in place for any longer than is necessary.
+tar: 我们也一直明确表示，我们不断审查这些措施，以便它们不必超过必要的时间。
+
+Issue 392		U
+src: We have already been clear that we keep these measures under constant review so they do not have to be in place for any longer than is necessary.
+tar: 我们已经明确表示，我们会不断审查这些措施，因此它们不必超过必要的时间。
+
+Issue 393		U
+src: We have long been clear that we keep these measures under constant review so they do not have to be in place for any longer than is necessary.
+tar: 我们早就明确表示，我们会不断审查这些措施，因此它们不必超过必要的时间。
+
+Issue 394		U
+src: We have therefore been clear that we keep these measures under constant review so they do not have to be in place for any longer than is necessary.
+tar: 因此，我们明确表示，我们不断审查这些措施，因此它们不必超过必要的时间。
+
+Issue 395		U
+src: We have always been careful that we keep these measures under constant review so they do not have to be in place for any longer than is necessary.
+tar: 我们一直小心翼翼地不断审查这些措施，这样它们就不必超过必要的时间。
+
+Issue 396		U
+src: We have always been clear that we keep these provisions under constant review so they do not have to be in place for any longer than is necessary.
+tar: 我们一直明确表示，我们会不断审查这些条款，因此它们不必超过必要的时间。
+
+Issue 397		U
+src: We have always been clear that we keep these laws under constant review so they do not have to be in place for any longer than is necessary.
+tar: 我们一直很清楚，我们不断审查这些法律，这样它们就不必超过必要的时间。
+
+Issue 398		U
+src: We have always been clear that we keep these measures under careful review so they do not have to be in place for any longer than is necessary.
+tar: 我们一直明确表示，我们会仔细审查这些措施，因此它们不必超过必要的时间。
+
+Issue 399		U
+src: We have always been clear that we keep these measures under regular review so they do not have to be in place for any longer than is necessary.
+tar: 我们一直明确表示，我们会定期审查这些措施，因此它们不必超过必要的时间。
+
+Issue 400		U; W
+src: We have always been clear that we keep these measures under periodic review so they do not have to be in place for any longer than is necessary.
+tar: 我们一直很清楚，我们会定期审查这些措施，以便它们不必超过必要的时间。
+
+Issue 401		U
+src: We have always been clear that we keep these measures under frequent review so they do not have to be in place for any longer than is necessary.
+tar: 我们一直明确表示，我们会经常审查这些措施，因此它们不必超过必要的时间。
+
+Issue 402		U
+src: We have always been clear that we keep these measures under strict review so they do not have to be in place for any longer than is necessary.
+tar: 我们一直明确表示，我们会严格审查这些措施，因此它们不必超过必要的时间。
+
+Issue 403		U
+src: We have always been clear that we keep these measures under constant consideration so they do not have to be in place for any longer than is necessary.
+tar: 我们一直明确表示，我们不断考虑这些措施，因此它们不必超过必要的时间。
+
+Issue 404		U
+src: We have always been clear that we keep these measures under constant operation so they do not have to be in place for any longer than is necessary.
+tar: 我们一直很清楚，我们不断实施这些措施，因此它们不必超过必要的时间。
+
+Issue 405		W
+src: We have always been clear that we keep these measures under constant review so they do not have to be in force for any longer than is necessary.
+tar: 我们一直明确表示，我们会不断审查这些措施，因此它们的有效期不必超过必要的时间。
+ref: 我们一直明确表示，我们会不断审查这些措施，因此它们「的有效期」不必超过必要的时间。
+
+Issue 406		U
+src: We have always been clear that we keep these measures under constant review so they do not have to be in place for any longer than is desirable.
+tar: 我们一直明确表示，我们会不断审查这些措施，因此它们不必超过预期时间。
+
+Issue 407		N
+src: House prices rose at their fastest rate for five weeks in October as buyers raced to the next year's stamp duty deadline, the Nationwide has said.
+tar: 全国范围内表示，由于买家竞相赶上下一年的印花税截止日期，房价在10月份以五周来的最快速度上涨。
+ref: 「全国范围内」表示，由于买家竞相赶上下一年的印花税截止日期，房价在10月份以五周来的最快速度上涨。
+
+Issue 408		N
+src: House prices rose at their fastest rate for five days in October as buyers raced to the next year's stamp duty deadline, the Nationwide has said.
+tar: 《全国》杂志称，房价在10月份以五天的最快速度上涨，因为买家争相赶上下一年的印花税截止日期。
+ref: 「《全国》杂志」称，房价在10月份以五天的最快速度上涨，因为买家争相赶上下一年的印花税截止日期。
+
+Issue 409		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily turnover of about 400 million yuan, just through access to their phone screens.
+tar: 在中国北方城市常熟，一个配送中心的卖家每天只需通过手机屏幕即可获得约4亿元人民币的营业额。
+ref: 在中国北方城市常熟，一个【单一/独立】配送中心的卖家每天只需通过【访问(他们的)】手机屏幕即可获得约4亿元人民币的营业额。
+
+Issue 410		U
+src: Sellers at a large distribution center in the northern Chinese city of Changshu garner a daily turnover of about 400 million yuan, just through access to their phone screens.
+tar: 中国北方城市常熟一个大型配送中心的卖家每天只需通过手机屏幕即可获得约4亿元人民币的营业额。
+ref: 中国北方城市常熟一个大型配送中心的卖家每天只需通过【…】手机屏幕即可获得约4亿元人民币的营业额。
+
+Issue 411		U
+src: Sellers at a small distribution center in the northern Chinese city of Changshu garner a daily turnover of about 400 million yuan, just through access to their phone screens.
+tar: 中国北方城市常熟的一个小型配送中心的卖家每天只需通过手机屏幕即可获得约4亿元人民币的营业额。
+
+Issue 412		U
+src: Sellers at a single service center in the northern Chinese city of Changshu garner a daily turnover of about 400 million yuan, just through access to their phone screens.
+tar: 在中国北方城市常熟的一个服务中心，卖家每天仅通过访问手机屏幕就获得了约4亿元人民币的营业额。
+ref: 在中国北方城市常熟的一个【…】服务中心，卖家每天仅通过访问手机屏幕就获得了约4亿元人民币的营业额。
+
+Issue 413		U
+src: Sellers at a single distribution hub in the northern Chinese city of Changshu garner a daily turnover of about 400 million yuan, just through access to their phone screens.
+tar: 位于中国北方城市常熟的一个分销中心的卖家每天只需访问他们的手机屏幕即可获得约4亿元人民币的营业额。
+
+Issue 414		U
+src: Sellers at a single distribution site in the northern Chinese city of Changshu garner a daily turnover of about 400 million yuan, just through access to their phone screens.
+tar: 在中国北方城市常熟的一个分销点，卖家每天仅通过访问手机屏幕就能获得约4亿元人民币的营业额。
+
+Issue 415		U
+src: Sellers at a single distribution outlet in the northern Chinese city of Changshu garner a daily turnover of about 400 million yuan, just through access to their phone screens.
+tar: 在中国北方城市常熟的一家分销网点，卖家每天仅通过访问手机屏幕就能获得约4亿元人民币的营业额。
+ref: 在中国北方城市常熟的一家【单一/独立】分销网点，卖家每天仅通过访问手机屏幕就能获得约4亿元人民币的营业额。
+
+Issue 416		U
+src: Sellers at a single distribution center in the southwestern Chinese city of Changshu garner a daily turnover of about 400 million yuan, just through access to their phone screens.
+tar: 在中国西南部城市常熟的一个配送中心，卖家每天仅通过访问手机屏幕就能获得约4亿元人民币的营业额。
+ref: 在中国西南部城市常熟的一个【单一/独立】配送中心，卖家每天仅通过访问手机屏幕就能获得约4亿元人民币的营业额。
+
+Issue 417		U
+src: Sellers at a single distribution center in the eastern Chinese city of Changshu garner a daily turnover of about 400 million yuan, just through access to their phone screens.
+tar: 中国东部城市常熟市一个配送中心的卖家每天仅通过访问手机屏幕就获得了约4亿元人民币的营业额。
+
+Issue 418		U
+src: Sellers at a single distribution center in the southeastern Chinese city of Changshu garner a daily turnover of about 400 million yuan, just through access to their phone screens.
+tar: 在中国东南部城市常熟的一个配送中心，卖家每天仅通过访问手机屏幕就能获得约4亿元人民币的营业额。
+
+Issue 419		U
+src: Sellers at a single distribution center in the northeastern Chinese city of Changshu garner a daily turnover of about 400 million yuan, just through access to their phone screens.
+tar: 中国东北部城市常熟的一个配送中心的卖家每天仅通过访问手机屏幕就获得了约4亿元人民币的营业额。
+
+Issue 420		U
+src: Sellers at a single distribution center in the northwestern Chinese city of Changshu garner a daily turnover of about 400 million yuan, just through access to their phone screens.
+tar: 在中国西北部城市常熟的一个配送中心，卖家每天仅通过访问手机屏幕就能获得约4亿元人民币的营业额。
+
+Issue 421		U
+src: Sellers at a single distribution center in the northern China city of Changshu garner a daily turnover of about 400 million yuan, just through access to their phone screens.
+tar: 在中国北方城市常熟的一个配送中心的卖家每天仅通过访问他们的手机屏幕就获得了约4亿元人民币的营业额。
+
+Issue 422		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a yearly turnover of about 400 million yuan, just through access to their phone screens.
+tar: 中国北方城市常熟的一个配送中心的卖家每年的营业额约为4亿元人民币，仅通过手机屏幕即可获得。
+ref: 中国北方城市常熟的一个配送中心的卖家每年的营业额约为4亿元人民币，仅通过【…】手机屏幕即可获得。
+
+Issue 423		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a monthly turnover of about 400 million yuan, just through access to their phone screens.
+tar: 中国北方城市常熟的一个配送中心的卖家每月的营业额约为4亿元人民币，仅通过手机屏幕即可获得。
+
+Issue 424		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a total turnover of about 400 million yuan, just through access to their phone screens.
+tar: 中国北方城市常熟的一个配送中心的卖家仅通过访问他们的手机屏幕即可获得约4亿元人民币的总营业额。
+
+Issue 425		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a weekly turnover of about 400 million yuan, just through access to their phone screens.
+tar: 中国北方城市常熟的一个配送中心的卖家每周仅通过访问手机屏幕就获得了约4亿元人民币的营业额。
+
+Issue 426		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a combined turnover of about 400 million yuan, just through access to their phone screens.
+tar: 中国北方城市常熟的一个配送中心的卖家仅通过访问他们的手机屏幕就获得了约4亿元人民币的总营业额。
+
+Issue 427		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a net turnover of about 400 million yuan, just through access to their phone screens.
+tar: 中国北方城市常熟的一个配送中心的卖家仅通过访问他们的手机屏幕即可获得约4亿元人民币的净营业额。
+
+Issue 428		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a annual turnover of about 400 million yuan, just through access to their phone screens.
+tar: 在中国北方城市常熟的一个配送中心，卖家仅通过访问手机屏幕就获得了约4亿元人民币的年营业额。
+
+Issue 429		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily income of about 400 million yuan, just through access to their phone screens.
+tar: 中国北方城市常熟的一个配送中心的卖家每天的收入约为4亿元人民币，仅通过手机屏幕即可获得。
+
+Issue 430		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily profit of about 400 million yuan, just through access to their phone screens.
+tar: 在中国北方城市常熟的一个配送中心，卖家每天仅通过访问手机屏幕就获得了约4亿元人民币的利润。
+
+Issue 431		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily revenue of about 400 million yuan, just through access to their phone screens.
+tar: 位于中国北方城市常熟的一个配送中心的卖家每天的收入约为4亿元人民币，仅通过访问他们的手机屏幕即可获得。
+
+Issue 432		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily turnover of about 100 million yuan, just through access to their phone screens.
+tar: 在中国北方城市常熟的一个配送中心，卖家每天仅通过访问手机屏幕就能获得约1亿元人民币的营业额。
+
+Issue 433		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily turnover of about 200 million yuan, just through access to their phone screens.
+tar: 在中国北方城市常熟的一个配送中心，卖家每天仅通过访问手机屏幕就能获得约2亿元人民币的营业额。
+
+Issue 434		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily turnover of about 300 million yuan, just through access to their phone screens.
+tar: 中国北方城市常熟的一个配送中心的卖家每天仅通过访问手机屏幕就获得了约3亿元人民币的营业额。
+
+Issue 435		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily turnover of about 500 million yuan, just through access to their phone screens.
+tar: 在中国北方城市常熟的一个配送中心，卖家每天仅通过访问手机屏幕就获得了约5亿元人民币的营业额。
+
+Issue 436		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily turnover of about 10 million yuan, just through access to their phone screens.
+tar: 在中国北方城市常熟的一个配送中心，卖家每天仅通过访问手机屏幕就能获得约1000万元人民币的营业额。
+
+Issue 437		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily turnover of about 50 million yuan, just through access to their phone screens.
+tar: 在中国北方城市常熟的一个配送中心，卖家每天仅通过访问手机屏幕就获得了约5000万元人民币的营业额。
+
+Issue 438		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily turnover of about 30 million yuan, just through access to their phone screens.
+tar: 中国北方城市常熟的一个配送中心的卖家每天仅通过访问手机屏幕就获得了约3000万元人民币的营业额。
+
+Issue 439		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily turnover of about 20 million yuan, just through access to their phone screens.
+tar: 在中国北方城市常熟的一个配送中心，卖家每天仅通过访问手机屏幕就能获得约2000万元人民币的营业额。
+
+Issue 440		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily turnover of about 400 billion yuan, just through access to their phone screens.
+tar: 中国北方城市常熟市一个配送中心的卖家每天仅通过访问手机屏幕就获得了约4000亿元人民币的营业额。
+
+Issue 441		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily turnover of about 400 thousand yuan, just through access to their phone screens.
+tar: 在中国北方城市常熟的一个配送中心的卖家每天仅通过访问手机屏幕就获得了约40万元人民币的营业额。
+
+Issue 442		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily turnover of about 400 million yuan, just through connection to their phone screens.
+tar: 中国北方城市常熟的一个配送中心的卖家每天仅通过连接到手机屏幕就获得了约4亿元人民币的营业额。
+
+Issue 443		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily turnover of about 400 million yuan, just through access to their computer screens.
+tar: 位于中国北方城市常熟的一个配送中心的卖家每天只需访问他们的电脑屏幕，就能获得约4亿元人民币的营业额。
+
+Issue 444		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily turnover of about 400 million yuan, just through access to their information screens.
+tar: 在中国北方城市常熟的一个配送中心，卖家每天的营业额约为4亿元人民币，仅通过访问他们的信息屏幕即可获得。
+
+Issue 445		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily turnover of about 400 million yuan, just through access to their display screens.
+tar: 在中国北方城市常熟的一个配送中心，卖家每天仅通过访问他们的显示屏就能获得约4亿元人民币的营业额。
+
+Issue 446		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily turnover of about 400 million yuan, just through access to their video screens.
+tar: 在中国北方城市常熟的一个配送中心，卖家每天仅通过访问他们的视频屏幕就获得了约4亿元人民币的营业额。
+
+Issue 447		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily turnover of about 400 million yuan, just through access to their phone numbers.
+tar: 在中国北方城市常熟的一个配送中心，卖家每天的营业额约为4亿元人民币，仅通过访问他们的电话号码即可。
+
+Issue 448		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily turnover of about 400 million yuan, just through access to their phone records.
+tar: 在中国北方城市常熟的一个配送中心，卖家每天仅通过访问他们的电话记录就能获得约4亿元人民币的营业额。
+
+Issue 449		U
+src: Sellers at a single distribution center in the northern Chinese city of Changshu garner a daily turnover of about 400 million yuan, just through access to their phone accounts.
+tar: 中国北方城市常熟一个配送中心的卖家每天仅通过访问他们的电话账户就获得了约4亿元人民币的营业额。
+
+Issue 450		L
+src: The club's estimates assume a simple free trade agreement with the league by the beginning of the season.
+tar: 俱乐部的估计假设到本赛季初与联赛达成简单的自由贸易协定。
+ref: 俱乐部的估计假设到「本赛季初【之前/结束时】」与联赛达成简单的自由贸易协定。
+
+Issue 451		L
+src: The club's estimates assume a simple free trade agreement with the league by the end of the year.
+tar: 俱乐部的估计假设到今年年底与联赛达成简单的自由贸易协定。
+
+Issue 452		N
+src: Child safety guidelines say parents need to be aware of the risks involved with letting their children in TikTok.
+tar: 儿童安全指南说，父母需要意识到让孩子进入TikTok所涉及的风险。
+ref: 儿童安全指南说，父母需要意识到让孩子进入「TikTok」所涉及的风险。
+
+Issue 453		N; W
+src: Child care guidelines say parents need to be aware of the risks involved with letting their children in TikTok.
+tar: 托儿指南说，父母需要意识到让孩子使用TikTok所涉及的风险。
+ref: 「托儿」指南说，父母需要意识到让孩子「使用」「TikTok」所涉及的风险。
+
+Issue 454		N; W
+src: After three days, the man's account was still active, at which point Panorama contacted the police.
+tar: 三天后，这名男子的帐户仍然有效，此时Panorama联系了警方。
+ref: 三天后，这名男子的帐户仍然「有效」，此时「Panorama」联系了警方。
+
+Issue 455		W
+src: After three days, the user's account was still active, at which point Panorama contacted the police.
+tar: 三天后，用户的帐户仍然处于活动状态，此时Panorama联系了警方。
+
+Issue 456		W
+src: After three days, the man's computer was still active, at which point Panorama contacted the police.
+tar: 三天后，这名男子的电脑仍然处于活动状态，此时Panorama联系了警方。
+
+Issue 457		W
+src: After three days, the man's phone was still active, at which point Panorama contacted the police.
+tar: 三天后，该男子的电话仍然处于活动状态，此时Panorama联系了警方。
+
+Issue 458		W
+src: After three days, the man's laptop was still active, at which point Panorama contacted the police.
+tar: 三天后，该男子的笔记本电脑仍然处于活动状态，此时Panorama联系了警方。
+
+Issue 459		W
+src: After three days, the man's mobile was still active, at which point Panorama contacted the police.
+tar: 三天后，该男子的手机仍然处于活动状态，此时Panorama联系了警方。
+
+Issue 460		W
+src: After three days, the man's radio was still active, at which point Panorama contacted the police.
+tar: 三天后，该男子的收音机仍然处于活动状态，此时Panorama联系了警方。
+
+Issue 461		W
+src: After three days, the man's iPhone was still active, at which point Panorama contacted the police.
+tar: 三天后，该男子的iPhone仍然处于活动状态，此时Panorama联系了警方。
+
+Issue 462		W
+src: After three days, the man's machine was still active, at which point Panorama contacted the police.
+tar: 三天后，该男子的机器仍然处于活动状态，此时Panorama联系了警方。
+
+Issue 463		W
+src: After three days, the man's account was still active, at which point Panorama contacted the man.
+tar: 三天后，该男子的帐户仍然处于活动状态，此时Panorama联系了这名男子。
+
+Issue 464		L
+src: It found there had been a lack of applications from women for senior positions, many of which had not been filled on a flexible basis.
+tar: 它发现，妇女没有申请高级职位，其中许多职位没有得到灵活填补。
+ref: 它发现，「妇女没有申请高级职位【缺乏女性对高级职位的申请】」，其中许多职位没有得到灵活填补。
+
+Issue 465		L
+src: It found there had been a surge of applications from women for senior positions, many of which had not been filled on a flexible basis.
+tar: 它发现，妇女申请高级职位的人数激增，其中许多职位没有得到灵活填补。
+ref: 它发现，「妇女申请高级职位的人数激增【女性对高级职位的申请激增】」，其中许多职位没有得到灵活填补。
+
+Issue 466		L
+src: It found there had been a shortage of applications from women for senior positions, many of which had not been filled on a flexible basis.
+tar: 它发现，妇女申请高级职位的人数短缺，其中许多职位没有得到灵活填补。
+ref: 它发现，「妇女申请高级职位的人数短缺」，其中许多职位没有得到灵活填补。
+
+Issue 467		L
+src: It found there had been a lack of applications from women for senior positions, many of which had not been filled on a satisfactory basis.
+tar: 委员会发现，妇女申请高级职位的人数很少，其中许多职位没有得到令人满意的填补。
+ref: 委员会发现，「妇女申请高级职位的人数很少」，其中许多职位没有得到令人满意的填补。
+
+Issue 468		L
+src: It found there had been a lack of applications from women for senior positions, many of which had not been filled on a competitive basis.
+tar: 它发现，妇女没有申请高级职位，其中许多职位没有在竞争的基础上填补。
+ref: 它发现，「妇女没有申请高级职位」，其中许多职位没有在竞争的基础上填补。
+
+Issue 469		L
+src: Thousands of people have been prevented from paying with interest in recent years.
+tar: 近年来，成千上万的人被阻止支付利息。
+ref: 近年来，成千上万的人被阻止「支付利息【用利息支付】」。
+
